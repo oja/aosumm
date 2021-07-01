@@ -1,8 +1,8 @@
 # QFSumm
-
+Summarize a document conditioned on query keywords.
 
 ## Setup
-Dependencies can be installed with `pip3 install -r requirements.txt`.
+Dependencies can be installed with `pip3 install -r requirements.txt`. If you would like a pretrained checkpoint, [download it](https://drive.google.com/file/d/1JUxlWUvU60OfYuO1OP-2awtw-rOSSJnY/view?usp=sharing) and place it in `models/`. 
 
 ## Inference
 `summarize.py` is a wrapper script located within the `src/` directory. It allows for summarization of documents using either QFSumm, CTRLSum, or a custom PyTorch checkpoint. Usage is as follows:

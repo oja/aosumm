@@ -122,7 +122,7 @@ if __name__ == '__main__':
         build_dataset(name, args.dataset_dir, os.path.join(args.map_path, name), args.keywords, args.debug)
 
         if args.model.lower() == "qfsumm":
-            args.model = "../models/cnndm_k1_binary_bertscore/model_step_28000.pt"
+            args.model = "../models/model_step_28000.pt"
 
         make_dir(os.path.join(args.results_dir, name))
         result_path = do_inference(args.model, name, os.path.join(args.dataset_dir, "binary", name), 
