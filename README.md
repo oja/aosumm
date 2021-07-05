@@ -10,7 +10,9 @@ export CLASSPATH=/path/to/stanford-corenlp-full-2017-06-09/stanford-corenlp-3.8.
 ```
 replacing `/path/to/` with the path to where you saved the `stanford-corenlp-full-2017-06-09` directory. 
 
-## Pretrained Models
+## Trained Models
+These checkpoints can be loaded and used for inference without any further training.
+
 - [QFSumm contrastive (k=1, 28000 training steps; recommended)](https://drive.google.com/file/d/1JUxlWUvU60OfYuO1OP-2awtw-rOSSJnY/view)
 - QFSumm non-contrastive (k=1, 28000 training steps)
 
