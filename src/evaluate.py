@@ -312,13 +312,13 @@ def evaluate_output(annotations_filename, model_outputs_filename, visualize=None
     recall = num_correct / num_gold
     F1 = 2*((precision * recall) / (precision + recall))
 
-    print(f"mean sent #:{mean(num_sents)}")
-    print(f"mean word #:{mean(num_words)}")
+    #print(f"mean sent #:{mean(num_sents)}")
+    #print(f"mean word #:{mean(num_words)}")
     max_possible_precision = max_possible_num_correct / num_predicted
     max_possible_recall = max_possible_num_correct / num_gold
     max_possible_F1 = 2*((max_possible_precision * max_possible_recall) / (max_possible_precision + max_possible_recall))
-    print(f"Best words were: {best_words.most_common(10)}")
-    print(f"histogram: {histogram}")
+    #print(f"Best words were: {best_words.most_common(10)}")
+    #print(f"histogram: {histogram}")
     return 100 * F1, mean(spearmans), {'rouge1': mean(rouge_1s), 'rouge2': mean(rouge_2s), 'rougeL': mean(rouge_Ls)}, 100 * max_possible_F1
 
 
@@ -484,6 +484,8 @@ if __name__ == '__main__':
     parser.add_argument("-step", default=28000, type=int)
     parser.add_argument('-overwrite', action='store_true')
 
+    parser.add_argument('-aspect', type=str)
+
     parser.add_argument("-visualize", action='store_true')
 
     parser.add_argument("-nonqf_model", default=None, type=str)
@@ -505,7 +507,6 @@ if __name__ == '__main__':
             args.keyword_set = ",".join(['penalty', 'consequences', 'jailed', 'fined', 'court'])
         elif args.keywords == 'nature':
             args.keyword_set = ",".join(['amount', 'money', 'bank', 'stolen', 'time'])
-    else:
         print(f"Must supply either -keywords or -keyword_set!")
         exit(1)
     print(args)
@@ -518,20 +519,83 @@ if __name__ == '__main__':
 
     outputs = []
 
+    print(result_paths)
+
+    for model, result_path in zip(args.models, result_paths):
+        rouge_1s = []
+        rouge_2s = []
+        rouge_Ls = []
+
+        summaries_file = json.load(open("../data/annotations/summaries.json"))
+        aspect = args.aspect
+        model_outputs_file = json.load(open(result_path + ".outputs"))
+
+        for row in model_outputs_file:
+            ids = row["ids"]
+            predicted_summary = "".join([row["text"][id] for id in ids])
+            
+            def find_corresponding_gold_summary(anchors, text):
+                for i, anchor in enumerate(anchors):
+                    if ''.join(anchor.lower().split()) in ''.join(''.join(text).lower().split()):
+                        return i
+                return None
+
+            gold_summary_id = find_corresponding_gold_summary([x["anchor"] for x in summaries_file], row["text"])
+            if gold_summary_id is not None:
+                gold_summary = summaries_file[gold_summary_id][aspect]
+                _rouge = scorer.score(gold_summary, predicted_summary)
+                rouge_1s.append(_rouge['rouge1'].fmeasure)
+                rouge_2s.append(_rouge['rouge2'].fmeasure)
+                rouge_Ls.append(_rouge['rougeL'].fmeasure)
+        print(mean(rouge_1s))
+        print(mean(rouge_2s))
+        print(mean(rouge_Ls))
+
+
+
+    
     # evaluate the non-query model
     if args.nonqf_model:
         tempargs = copy.deepcopy(args)
         tempargs.models = [tempargs.nonqf_model]
         result_paths_nonqf = do_inference(tempargs, name + "_nonqf")
-        F1, spearman, rouge12L, _ = evaluate_output(args.annotations, result_paths_nonqf[0] + ".outputs")
-        outputs.append(["non-query model", F1, spearman, rouge12L['rouge1'], rouge12L['rouge2'], rouge12L['rougeL']])
+        for model, result_path in zip(args.models, result_paths_nonqf):
+            rouge_1s = []
+            rouge_2s = []
+            rouge_Ls = []
 
+            summaries_file = json.load(open("../data/annotations/summaries.json"))
+            aspect = args.aspect
+            model_outputs_file = json.load(open(result_path + ".outputs"))
+
+            for row in model_outputs_file:
+                ids = row["ids"]
+                predicted_summary = "".join([row["text"][id] for id in ids])
+                
+                def find_corresponding_gold_summary(anchors, text):
+                    for i, anchor in enumerate(anchors):
+                        if ''.join(anchor.lower().split()) in ''.join(''.join(text).lower().split()):
+                            return i
+                    return None
+
+                gold_summary_id = find_corresponding_gold_summary([x["anchor"] for x in summaries_file], row["text"])
+                if gold_summary_id is not None:
+                    gold_summary = summaries_file[gold_summary_id][aspect]
+                    _rouge = scorer.score(gold_summary, predicted_summary)
+                    rouge_1s.append(_rouge['rouge1'].fmeasure)
+                    rouge_2s.append(_rouge['rouge2'].fmeasure)
+                    rouge_Ls.append(_rouge['rougeL'].fmeasure)
+        print(mean(rouge_1s))
+        print(mean(rouge_2s))
+        print(mean(rouge_Ls))
+
+    exit(0)
+    
     # evaluate the query models
     for model, result_path in zip(args.models, result_paths):
         F1, spearman, rouge12L, max_possible_F1 = evaluate_output(args.annotations, result_path + ".outputs", visualize=args.visualize)
         outputs.append([f"query ({model})", F1, spearman, rouge12L['rouge1'], rouge12L['rouge2'], rouge12L['rougeL']])
-        
-
+    
     cnndm_baseline_F1, _, cnndm_rouge12L, _ = evaluate_output(args.annotations, result_paths[0] + ".outputs.cnndm_baseline")
     keyword_baseline_F1, _, keyword_rouge12L, _ = evaluate_output(args.annotations, result_paths[0] + ".outputs.keyword_baseline")
     outputs.append(["cnndm baseline", cnndm_baseline_F1, np.nan, cnndm_rouge12L['rouge1'], cnndm_rouge12L['rouge2'], cnndm_rouge12L['rougeL']])
@@ -550,7 +614,7 @@ if __name__ == '__main__':
     if args.raw_outputs_filename:
         aspect_baseline_F1, aspect_baseline_spearman, aspect_baseline_rouges, _ = evaluate_output(args.annotations, args.raw_outputs_filename)
         outputs.append(["aspect", aspect_baseline_F1, aspect_baseline_spearman, aspect_baseline_rouges['rouge1'], aspect_baseline_rouges['rouge2'], aspect_baseline_rouges['rougeL']])
-    print("\n\n")
+
     outputs = pd.DataFrame(outputs, columns=["Model", "F1", "Spearman", "ROUGE-1", "ROUGE-2", "ROUGE-L"]).round(3)
     print(outputs.to_string(index=False))
     print(f"max possible F1: {max_possible_F1:.3f}")
