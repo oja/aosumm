@@ -7,6 +7,7 @@ import torch
 
 from others.logging import logger
 
+MAX_LEN = 700
 
 class Batch(object):
     def _pad(self, data, pad_id, width=-1):
@@ -316,9 +317,9 @@ class TextDataloader(object):
         query = ex['query']
 
         end_id = [src[-1]]
-        src = src[:-1][:self.args.max_pos - 1] + end_id
-        segs = segs[:self.args.max_pos]
-        max_sent_id = bisect.bisect_left(clss, self.args.max_pos)
+        src = src[:-1][:MAX_LEN - 1] + end_id
+        segs = segs[:MAX_LEN]
+        max_sent_id = bisect.bisect_left(clss, MAX_LEN)
         src_sent_labels = src_sent_labels[:max_sent_id]
         clss = clss[:max_sent_id]
         # src_txt = src_txt[:max_sent_id]

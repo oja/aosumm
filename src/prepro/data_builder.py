@@ -128,11 +128,12 @@ def tokenize(args):
                 continue
             f.write("%s\n" % (os.path.join(stories_dir, s)))
 
+    logger.info("Launching Tokenization...")
     command = ['java', 'edu.stanford.nlp.pipeline.StanfordCoreNLP', '-annotators', 'tokenize,ssplit',
                '-ssplit.newlineIsSentenceBreak', 'always', '-filelist', f'mapping_for_corenlp_{args.name}.txt', '-outputFormat',
                'json', '-outputDirectory', tokenized_stories_dir]
     print("Tokenizing %i files in %s and saving in %s..." % (len(stories), stories_dir, tokenized_stories_dir))
-    subprocess.call(command)
+    subprocess.call(command, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
     print("Stanford CoreNLP Tokenizer has finished.")
     os.remove(f"mapping_for_corenlp_{args.name}.txt")
 
@@ -144,7 +145,7 @@ def tokenize(args):
         raise Exception(
             "The tokenized stories directory %s contains %i files, but it should contain the same number as %s (which has %i files). Was there an error during tokenization?" % (
                 tokenized_stories_dir, num_tokenized, stories_dir, num_orig))
-    print("Successfully finished tokenizing %s to %s.\n" % (stories_dir, tokenized_stories_dir))
+    logger.info("Successfully finished tokenizing %s to %s.\n" % (stories_dir, tokenized_stories_dir))
 
     # determine if we have F + K style aspect annotations
     aspect = args.aspect#os.path.exists(os.path.join(stories_dir, stories[0] + ".aspect"))

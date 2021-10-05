@@ -243,7 +243,7 @@ def train_single_ext(args, device_id):
     model = ExtSummarizer(args, device, checkpoint)
     optim = model_builder.build_optim(args, model, checkpoint)
 
-    logger.info(model)
+    # logger.info(model)
 
     trainer = build_trainer(args, device_id, model, optim)
     trainer.train(train_iter_fct, args.train_steps, valid_iter_fct)

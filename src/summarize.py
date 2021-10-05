@@ -51,7 +51,7 @@ def build_dataset(dataset, dataset_directory, map_path, keywords, debug=False):
                         "-min_tgt_ntokens", "0",
                         "-qf", "-keywords", (keywords), '-overwrite'], stdout=subprocess.PIPE if debug else subprocess.DEVNULL, stderr=subprocess.PIPE if debug else subprocess.DEVNULL)
 
-def do_inference(model, name, binary_data_directory, results_directory, debug=False):
+def do_inference(model, name, binary_data_directory, results_directory, debug=False, max_pos=512):
     result_path = os.path.join(results_directory, name)
     s = subprocess.run(["python", "train.py", 
                         "-task", "ext", 
@@ -63,7 +63,7 @@ def do_inference(model, name, binary_data_directory, results_directory, debug=Fa
                         "-sep_optim", "true",
                         "-use_interval", "true",
                         "-visible_gpus", "1",
-                        "-max_pos", "512",
+                        "-max_pos", f"{max_pos}",
                         "-max_length", "200",
                         "-alpha", "0.95",
                         "-min_length", "50",

@@ -330,8 +330,7 @@ class Trainer(object):
                             gold.append(batch.tgt_str[i])
                             ids.append(_ids)
 
-                        #print(ids)
-                        proto_highlights.append({"ids": ids[0], "query": query[0], "text": batch.src_str[0]})
+                        proto_highlights.append({"ids": ids[0], "query": query[0], "text": batch.src_str[0], "predicted_summary": [batch.src_str[0][id] for id in ids[0]]})
                         if query[0] is not None:
                             highlights_baseline.append({"ids": keyword_baseline_ids, "query": query[0], "text": batch.src_str[0]})
                             highlights_labels.append({"ids": cnndm_labels, "query": query[0], "text": batch.src_str[0]})

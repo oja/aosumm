@@ -42,10 +42,10 @@ if __name__ == '__main__':
             review_sentences = []
             for sentences in row['reviews']:
                 review_sentences.extend(sentences['sentences'])
-            review_sentences = sorted(review_sentences, key=lambda x: len(x), reverse=True)[:100]
-            text = "\n\n".join(review_sentences)
-            for i in range(0, 2):
-                text += f"\n\n@highlight\n\nThis is dummy annotation {i + 1}."
+            review_sentences = [x for x in review_sentences if len(x) > 10][:500]
+
+            text = "\n".join(review_sentences)
+            text += f"\n\n@highlight\n\nThis is a dummy annotation."
 
             base_string = ''.join(random.choices(string.ascii_uppercase + string.digits, k=30))
             base_strings.append(base_string)

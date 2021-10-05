@@ -39,7 +39,7 @@ def hashhex(s):
     return h.hexdigest()
 
 
-def build_dataset(args, name):
+def build_dataset(args, name, max_sentences=10):
     qf_dataset = subprocess.run(["python", 
                         "build.py", 
                         "-raw", args.dataset,
@@ -47,10 +47,10 @@ def build_dataset(args, name):
                         "-map_path", args.map_path,
                         "-name", name,
                         "-min_src_nsents", "0",
-                        "-max_src_nsents", "10",
+                        "-max_src_nsents", f"{max_sentences}",
                         "-min_src_ntokens_per_sent", "0",
                         "-min_tgt_ntokens", "0",
-                        "-qf", "-keywords", args.keyword_set, '-overwrite', '-intensity', '0'], stdout=subprocess.PIPE)
+                        "-qf", "-keywords", args.keyword_set, '-overwrite', '-intensity', '0'], stdout=subprocess.DEVNULL)
     
     if args.nonqf_model is not None:
         nonqf_dataset = subprocess.run(["python", 
@@ -60,14 +60,13 @@ def build_dataset(args, name):
                             "-map_path", args.map_path,
                             "-name", (name + "_nonqf"), 
                             "-min_src_nsents", "0",
-                            "-max_src_nsents", "10",
+                            "-max_src_nsents", f"{max_sentences}",
                             "-min_src_ntokens_per_sent", "0", 
-                            "-min_tgt_ntokens", "0", '-overwrite'], stdout=subprocess.PIPE)
+                            "-min_tgt_ntokens", "0", '-overwrite'], stdout=subprocess.DEVNULL)
         return qf_dataset, nonqf_dataset
-    
     return qf_dataset, None
 
-def do_inference(args, name):
+def do_inference(args, name, min_len=50, max_len=140, max_pos=512):
     results = []
     for model in args.models:
         result_path = os.path.join(args.results_dir, f"{name}_{model}")
@@ -81,12 +80,12 @@ def do_inference(args, name):
                             "-sep_optim", "true",
                             "-use_interval", "true",
                             "-visible_gpus", "1",
-                            "-max_pos", "512",
-                            "-max_length", "200",
+                            "-max_pos", f"{max_pos}",
+                            "-max_length", str(max_len),
                             "-alpha", "0.95",
-                            "-min_length", "50",
+                            "-min_length", str(min_len),
                             "-result_path", result_path,
-                            "-test_from", f"../models/{model}/model_step_{args.step}.pt"], stdout=subprocess.PIPE)
+                            "-test_from", f"../models/{model}/model_step_{args.step}.pt"], stdout=subprocess.DEVNULL)
         results.append(result_path)
     return results
 
@@ -476,7 +475,7 @@ if __name__ == '__main__':
     parser.add_argument("-models_dir", default='../models/', type=str)
     parser.add_argument("-keywords", required=False, type=str)
     parser.add_argument("-keyword_set", required=False, default=None, type=str)
-    parser.add_argument("-annotations", required=True, type=str)
+    parser.add_argument("-annotations", type=str)
     parser.add_argument("-dataset", required=True, type=str)
     parser.add_argument("-dataset_dir", default="../data/", type=str)
     parser.add_argument("-map_path", required=True, type=str)
@@ -485,6 +484,9 @@ if __name__ == '__main__':
     parser.add_argument('-overwrite', action='store_true')
 
     parser.add_argument('-aspect', type=str)
+    parser.add_argument('-max_sentences', type=int, default=10)
+    parser.add_argument('-min_len', type=int, default=50)
+    parser.add_argument('-max_len', type=int, default=140)
 
     parser.add_argument("-visualize", action='store_true')
 
@@ -492,6 +494,8 @@ if __name__ == '__main__':
     parser.add_argument("-qa_dir", default=None, type=str)
     parser.add_argument("-raw_dir", default=None, type=str)
     parser.add_argument("-ctrlsum_dir", default=None, type=str)
+
+    parser.add_argument("-max_pos", default=512, type=int)
 
     parser.add_argument("-raw_outputs_filename", default=None, type=str)
     args = parser.parse_args()
@@ -507,58 +511,66 @@ if __name__ == '__main__':
             args.keyword_set = ",".join(['penalty', 'consequences', 'jailed', 'fined', 'court'])
         elif args.keywords == 'nature':
             args.keyword_set = ",".join(['amount', 'money', 'bank', 'stolen', 'time'])
+    else:
         print(f"Must supply either -keywords or -keyword_set!")
         exit(1)
-    print(args)
-    time.sleep(2)
+
     args.models = args.models.split(',')
     name = f"{args.dataset}_{args.keywords}"
 
-    build_dataset(args, name)
-    result_paths = do_inference(args, name)
+    build_dataset(args, name, args.max_sentences)
+    result_paths = do_inference(args, name, args.min_len, args.max_len, args.max_pos)
 
     outputs = []
 
     print(result_paths)
 
     for model, result_path in zip(args.models, result_paths):
+        print(f"for model {model}, ")
         rouge_1s = []
         rouge_2s = []
         rouge_Ls = []
 
         summaries_file = json.load(open("../data/annotations/summaries.json"))
         aspect = args.aspect
-        model_outputs_file = json.load(open(result_path + ".outputs"))
+        model_outputs_filename = result_path + ".outputs"
+        keyword_baseline_filename = result_paths[0] + ".outputs.keyword_baseline"
 
-        for row in model_outputs_file:
-            ids = row["ids"]
-            predicted_summary = "".join([row["text"][id] for id in ids])
-            
-            def find_corresponding_gold_summary(anchors, text):
-                for i, anchor in enumerate(anchors):
-                    if ''.join(anchor.lower().split()) in ''.join(''.join(text).lower().split()):
-                        return i
-                return None
+        for outputs_filename in [model_outputs_filename, keyword_baseline_filename]:
+            print(outputs_filename)
+            outputs_file = json.load(open(outputs_filename))
+            for row in outputs_file:
+                ids = row["ids"]
+                predicted_summary = "".join([row["text"][id] for id in ids])
+                
+                def find_corresponding_gold_summary(anchors, text):
+                    for i, anchor in enumerate(anchors):
+                        if ''.join(anchor.lower().split()) in ''.join(''.join(text).lower().split()):
+                            return i
+                    return None
 
-            gold_summary_id = find_corresponding_gold_summary([x["anchor"] for x in summaries_file], row["text"])
-            if gold_summary_id is not None:
-                gold_summary = summaries_file[gold_summary_id][aspect]
-                _rouge = scorer.score(gold_summary, predicted_summary)
-                rouge_1s.append(_rouge['rouge1'].fmeasure)
-                rouge_2s.append(_rouge['rouge2'].fmeasure)
-                rouge_Ls.append(_rouge['rougeL'].fmeasure)
-        print(mean(rouge_1s))
-        print(mean(rouge_2s))
-        print(mean(rouge_Ls))
+                gold_summary_id = find_corresponding_gold_summary([x["anchor"] for x in summaries_file], row["text"])
+                if gold_summary_id is not None:
+                    gold_summary = summaries_file[gold_summary_id][aspect]
+
+                    #print(f"predicted summary: {predicted_summary}")
+                    #print(f"gold summary: {gold_summary}")
+                    #print("")
+                    
+                    _rouge = scorer.score(gold_summary, predicted_summary)
+                    rouge_1s.append(_rouge['rouge1'].fmeasure)
+                    rouge_2s.append(_rouge['rouge2'].fmeasure)
+                    rouge_Ls.append(_rouge['rougeL'].fmeasure)
+            print(mean(rouge_1s))
+            print(mean(rouge_2s))
+            print(mean(rouge_Ls))
 
 
-
-    
     # evaluate the non-query model
     if args.nonqf_model:
         tempargs = copy.deepcopy(args)
         tempargs.models = [tempargs.nonqf_model]
-        result_paths_nonqf = do_inference(tempargs, name + "_nonqf")
+        result_paths_nonqf = do_inference(tempargs, name + "_nonqf", args.min_len, args.max_len, args.max_pos)
         for model, result_path in zip(args.models, result_paths_nonqf):
             rouge_1s = []
             rouge_2s = []

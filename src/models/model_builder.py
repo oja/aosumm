@@ -8,6 +8,8 @@ from torch.nn.init import xavier_uniform_
 from models.decoder import TransformerDecoder
 from models.encoder import Classifier, ExtTransformerEncoder
 from models.optimizers import Optimizer
+from others.logging import logger, init_logger
+
 
 def build_optim(args, model, checkpoint):
     """ Build optimizer """
@@ -152,7 +154,6 @@ class ExtSummarizer(nn.Module):
             my_pos_embeddings.weight.data[:512] = self.bert.model.embeddings.position_embeddings.weight.data
             my_pos_embeddings.weight.data[512:] = self.bert.model.embeddings.position_embeddings.weight.data[-1][None,:].repeat(args.max_pos-512,1)
             self.bert.model.embeddings.position_embeddings = my_pos_embeddings
-
 
         if checkpoint is not None:
             self.load_state_dict(checkpoint['model'], strict=True)
