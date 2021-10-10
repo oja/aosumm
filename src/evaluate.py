@@ -606,7 +606,7 @@ if __name__ == '__main__':
                         rouge_2s.append(_rouge['rouge2'].fmeasure)
                         rouge_Ls.append(_rouge['rougeL'].fmeasure)
             
-            outputs.append(["query ({model})", None, None, mean(rouge_1s), mean(rouge_2s), mean(rouge_Ls)])
+            outputs.append([f"query ({model})", None, None, mean(rouge_1s), mean(rouge_2s), mean(rouge_Ls)])
     else:
         for model, result_path in zip(args.models, result_paths):
             F1, spearman, rouge12L, max_possible_F1 = evaluate_output(args.annotations, result_path + ".outputs", visualize=args.visualize)

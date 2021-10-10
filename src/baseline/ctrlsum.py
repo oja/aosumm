@@ -9,6 +9,12 @@ import os, json
 import argparse
 import torch
 
+from  rouge_score import rouge_scorer
+import statistics
+from nltk.tokenize import word_tokenize
+scorer = rouge_scorer.RougeScorer(['rouge1', 'rouge2', 'rougeL'], use_stemmer=True)
+
+
 def reconstruct_sentence(tokens):
     sent = []
     for tok in tokens:
@@ -32,6 +38,8 @@ if __name__ == "__main__":
     parser.add_argument("--dec_max_len",default=150, type=int)
     parser.add_argument("--device",default='cuda:0')
     parser.add_argument("--out_dir",default='/mnt/data1/jcxu/qfs_baseline')
+    parser.add_argument('--reference')
+    parser.add_argument('--aspect')
 
     args = parser.parse_args()
     wt_dir = os.path.join(args.out_dir,args.name)
@@ -40,9 +48,18 @@ if __name__ == "__main__":
 
     device = args.device
 
+    anchors = []
+    with open(args.reference) as references:
+        json_references = json.load(references)
+        anchors = [d['anchor'] for d in json_references]
+    #print(anchors)
     tokenizer, model = load_ctrlsum(device=device)
     all_files = os.listdir(args.path)
     files_filtered_w_prefix = [ f.split('.')[0] for f in all_files if f.endswith(args.file_suffix)]
+
+    rouge_1s = []
+    rouge_2s = []
+    rouge_Ls = []
     for file_pre in files_filtered_w_prefix:
         #ret files
         raw_file= os.path.join(args.path, f"{file_pre}{args.file_suffix}")
@@ -70,15 +87,30 @@ if __name__ == "__main__":
 
         key_words_in_str = " | ".join(key_words)
 
+        reference_text = ""
+        for idx, anchor in enumerate(anchors):
+            if anchor in text:
+                reference_text = json_references[idx][args.aspect]
+
         data = tokenizer(f"{key_words_in_str} - {text}", return_tensors="pt")
         input_ids, attention_mask = data["input_ids"], data["attention_mask"]
         input_ids = input_ids.to(device)
         attention_mask = attention_mask.to(device)
+        model = model.to(device)
         decoded = model.generate(input_ids, attention_mask=attention_mask, num_beams=5, min_length=args.dec_min_len,max_length=args.dec_max_len)
 
         output = tokenizer.decode(decoded[0],skip_special_tokens=True)
         print(f"Keyword: {key_words_in_str} Output: {output}")
         outputs.append(output)
 
+        _rouge = scorer.score(reference_text, output)
+        rouge_1s.append(_rouge['rouge1'].fmeasure)
+        rouge_2s.append(_rouge['rouge2'].fmeasure)
+        rouge_Ls.append(_rouge['rougeL'].fmeasure)
+
         with open(os.path.join(wt_dir, f"{docId}.txt"), 'w') as fd:
             fd.write('\n'.join(outputs))
+    
+    print(f"Mean rouge 1: {statistics.mean(rouge_1s):.5f}")
+    print(f"Mean rouge 2: {statistics.mean(rouge_2s):.5f}")
+    print(f"Mean rouge L: {statistics.mean(rouge_Ls):.5f}")

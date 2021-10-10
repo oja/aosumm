@@ -330,6 +330,8 @@ class BertData():
         src = src[:self.args.max_src_nsents]
         sent_labels = sent_labels[:self.args.max_src_nsents]
 
+        # logger.info(f"in BERT preprocess, token count: {sum([len(sentence) for sentence in src])}, max sentences: {self.args.max_src_ntokens_per_sent=}, max tokens: {self.args.max_src_nsents=}")
+
         if ((not is_test) and len(src) < self.args.min_src_nsents):
             return None
 
