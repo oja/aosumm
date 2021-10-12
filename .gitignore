@@ -10,7 +10,7 @@ data/
 temp/
 events.out.*
 logs/
-models/
+./models/
 
 # Distribution / packaging
 .Python

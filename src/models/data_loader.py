@@ -203,16 +203,19 @@ class DataIterator(object):
         src_txt = ex['src_txt']
         tgt_txt = ex['tgt_txt']
         query = ex['query']
-
+        
         end_id = [src[-1]]
         src = src[:-1][:self.args.max_pos - 1] + end_id
         segs = segs[:self.args.max_pos]
         max_sent_id = bisect.bisect_left(clss, self.args.max_pos)
         src_sent_labels = src_sent_labels[:max_sent_id]
         clss = clss[:max_sent_id]
-        # src_txt = src_txt[:max_sent_id]
 
-
+        # logger.info("after trimming in preprocess")
+        # logger.info(f"{src=}")
+        # logger.info(f"{tgt=}")
+        # logger.info(f"{segs=}")
+        # logger.info(f"{clss=}")
 
         if(is_test):
             return src, tgt, segs, clss, src_sent_labels, src_txt, tgt_txt, query

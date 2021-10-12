@@ -286,12 +286,12 @@ class Trainer(object):
                             selected_ids = [[j for j in range(batch.clss.size(1)) if labels[i][j] == 1] for i in
                                             range(batch.batch_size)]
                         else:
-                            sent_scores, mask = self.model(src, segs, clss, mask, mask_cls)
+                            sent_scores, mask = self.model(src, segs, clss, mask, mask_cls, limit=512)
 
                             if (len(sent_scores.shape) == 1):
                                 sent_scores = sent_scores.unsqueeze(0)
 
-                            loss = self.loss(sent_scores, labels.float())
+                            loss = self.loss(sent_scores, labels.float()[:, :sent_scores.shape[1]])
                             
                             loss = (loss * mask.float()).sum()
                             batch_stats = Statistics(float(loss.cpu().data.numpy()), len(labels))
