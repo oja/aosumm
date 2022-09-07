@@ -1,0 +1,1798 @@
+Sentence 0: Lawyers for jailed millionaire Robert Durst say he wants authorities to return more than $161,000 in cash taken after the real estate heir was arrested for murder.
+Sentence 1: The attorneys say Durst, 72, got the money, now held by New Orleans police, legally and it is not needed for evidence or subject to forfeiture in any of his legal proceedings.
+Sentence 2: Durst was arrested at the JW Marriott hotel in New Orleans on a Los Angeles County warrant that accused him of killing his friend Susan Berman in 2000 to keep her from talking to investigators about the disappearance of his first wife in 1982.
+Sentence 3: Scroll down for video .
+Sentence 4: Murder suspect Robert Durst and his lawyers have asked for the return of $161,000 taken during his arrest in March.
+Sentence 5: Above, the suspect leaves an arraignment in New Orleans on April 14 .
+Sentence 6: Authorities who arrested Durst in mid-March found $44,000, marijuana and a revolver at his hotel room in New Orleans.
+Sentence 7: They also found maps of Florida and Cuba, leading some to believe he was ready for a life on the run .
+Sentence 8: His lawyers say the arrest in mid-March was timed to mesh with the finale of The Jinx, HBO's six-part series about Durst, his wife's disappearance, Berman's death, and the death and dismemberment of Durst's neighbor Morris Black in 2001.
+Sentence 9: Authorities found more than $44,000 in Durst's hotel room, according to legal papers filed Wednesday.
+
+Annotator 0: Sentences 7 (importance 3), 6 (importance 2), 5 (importance 1)
+Annotator 1: Sentences 2 (importance 3), 6 (importance 2), 1 (importance 1)
+Annotator 2: Sentences 3 (importance 3), 5 (importance 3), 0 (importance 2)
+Annotator 3: Sentences 5 (importance 3), 2 (importance 2), 1 (importance 1)
+Annotator 4: Sentences 2 (importance 2), 3 (importance 2), 7 (importance 2)
+
+
+Sentence 0: Oregon-based defense contractor FLIR Systems Inc. has agreed to pay $9.5 million to settle bribery charges filed by the Securities and Exchange Commission that involved expensive trips and gifts given to Middle Eastern government officials.
+Sentence 1: The Securities and Exchange Commission announced the deal Wednesday, saying the thermal-imaging company earned more than $7 million in profits from sales influenced by the gifts.
+Sentence 2: The commission said two employees in FLIR's Dubai office gave luxury watches to five officials with the Saudi Arabia Ministry of Interior in 2009.
+Sentence 3: The company also arranged travel for Saudi officials, including a 20-night trip with stops in Beirut, Casablanca, Dubai, New York and Paris.
+Sentence 4: Investigation: FLIR Systems Inc. has agreed to pay $9.5 million to settle bribery charges filed by the SEC that involved expensive trips and gifts given to Middle Eastern government officials .
+Sentence 5: 'FLIR's deficient financial controls failed to identify and stop the activities of employees who served as de facto travel agents for influential foreign officials to travel around the world on the company's dime,' said Kara Brockmeyer, chief of the SEC enforcement division's Foreign Corrupt Practices Act unit.
+Sentence 6: The SEC said in a news release that FLIR reported the misconduct and cooperated with the investigation.
+Sentence 7: Officials with the Wilsonville-based company echoed those remarks.
+Sentence 8: 'The actions of the former employees involved do not reflect the values of FLIR or the high standards to which we hold ourselves accountable,' FLIR CEO Andy Teich said in a statement.
+Sentence 9: The two former sales employees, Stephen Timms and Yasser Ramahi, agreed in November to settle SEC charges against them and pay financial penalties.
+
+Annotator 0: Sentences 1 (importance 3), 2 (importance 2), 3 (importance 1)
+Annotator 1: Sentences 3 (importance 3), 1 (importance 2), 0 (importance 1)
+Annotator 2: Sentences 4 (importance 3), 2 (importance 2), 0 (importance 1)
+Annotator 3: Sentences 5 (importance 3), 3 (importance 2), 0 (importance 1)
+Annotator 4: Sentences 1 (importance 3), 2 (importance 1)
+
+
+Sentence 0: Google Wallet says it has changed its policy when storing users' funds as they will now be federally-insured (file photo) For those who use Google Wallet, their money just became safer with federal-level insurance.
+Sentence 1: Google confirmed to Yahoo Finance in a statement that its current policy changed - meaning the company will store the balances for users of the mobile transfer service (similar to PayPal and Venmo) in multiple federally-insured banking institutions.
+Sentence 2: This is good news for people who place large amounts of money in their Wallet Balance because the Federal Deposit Insurance Corporation insures funds for banking institutions up to $250,000.
+Sentence 3: Currently, Google's user agreement says funds are not protected by the FDIC.
+Sentence 4: However, a Google spokesperson told Yahoo Finance that the current policy has changed.
+Sentence 5: The policy states that 'funds held by Google Payment Corp. or its service providers (including any bank service providers) in connection with the processing of Payment Transactions are not deposit obligations of Buyer, and are not insured for the benefit of Buyer by the Federal Deposit Insurance Corporation or any other governmental agency', according to 9to5.
+Sentence 6: As a non-banking institution, Google Wallet, along with PayPal and Venmo, is not legally required to be federally insured.
+Sentence 7: But with the new change to its policy, funds in Wallet Balance are protected if anything were to happen to the company like bankruptcy.
+Sentence 8: For example, for those who use mobile payment services where funds are not FDIC insured, if a company files for bankruptcy, the user would become their creditor and would be required to go through bankruptcy court to get their money back.
+Sentence 9: But for users with FDIC insurance, they would receive their money from the government in a matter of days, according to Yahoo Finance.
+
+Annotator 0: Sentences 5 (importance 2), 8 (importance 2)
+Annotator 1: Sentences 5 (importance 3), 1 (importance 2), 0 (importance 1)
+Annotator 2: Sentences 0 (importance 3), 2 (importance 2), 5 (importance 1)
+Annotator 3: Sentences 5 (importance 3), 2 (importance 2), 1 (importance 1)
+Annotator 4: Sentences 7 (importance 1)
+
+
+Sentence 0: Tamara Pacskowska, who posed as a wealthy pensioner to try and sell a £1million Bayswater mews house from under the owner's nose .
+Sentence 1: A Polish conwoman who posed as a wealthy pensioner to try and sell a £1million house from under the owner's nose wept as she avoided jail today.
+Sentence 2: Tamara Pacskowska pretended to be 76-year-old Georgina Bagnall-Oakley at meetings with estate agents and solicitors in November last year over sale of the home in Bayswater, West London.
+Sentence 3: The 56-year-old, from Croydon, South London, could not speak English and took her daughter-in-law Monika Brzezinska, 34, along with her on the visits to help her translate.
+Sentence 4: The fraudsters were eventually caught out in a solicitors office while they were on the cusp of completing the sale of the house to fellow conman, 26-year-old Benjamin Khoury, .
+Sentence 5: Today at Southwark Crown Court, Pacskowska sobbed as she was given a community order and made to pay costs after previously admitting fraud.
+Sentence 6: Mother-of-three Brzezinska, who also wept throughout the hearing, and Khoury, were also spared jail after they too admitted a fraud charge.
+Sentence 7: Brzezinska thanked the judge after the sentence was passed while Khoury grinned in the dock.
+Sentence 8: Pacskowska used a fake driving licence and passport bearing her photograph and Mrs Bagnall-Oakeley’s name and details in the scam.
+Sentence 9: She claims she was offered £3,000 to pose as the owner of the property by a woman allegedly named Amisha Singh.
+
+Annotator 0: Sentences 6 (importance 3), 7 (importance 3), 3 (importance 1)
+Annotator 1: Sentences 4 (importance 3), 2 (importance 2), 7 (importance 2)
+Annotator 2: Sentences 2 (importance 3), 1 (importance 2), 0 (importance 1)
+Annotator 3: Sentences 3 (importance 3), 4 (importance 2), 8 (importance 2)
+Annotator 4: Sentences 1 (importance 3), 2 (importance 3), 4 (importance 2)
+
+
+Sentence 0: 'The General': Mohammed Suleman Khan, 43, was sent to prison for four years last April but faces ten more years if he does not pay back £2.2m .
+Sentence 1: A jailed tax fraudster who hid his wealth in the UK while building an estate  in Pakistan modelled on Buckingham Palace must pay back £2.2million within six months or face a  ten more years in jail.
+Sentence 2: Mohammed Suleman Khan, 43, was sent to prison for  four years last April after defrauding the taxman of £450,000.
+Sentence 3: His nine-year scam was exposed after police raided his Birmingham home and discovered plans for his own mansion in Pakistan, complete with library, cinema and servant quarters.
+Sentence 4: Serving inmate Khan faced a proceeds of crime hearing at Liverpool Crown Court last week and was ordered to pay £2.2million within six months.
+Sentence 5: If he fails to hand over the cash he faces a further ten years in prison.
+Sentence 6: The tax fraudster had contested the order, brought by West Midlands Police and prosecuted at court by Andrew Smith QC.
+Sentence 7: Judge Andrew Menary QC presided over the week-long case, which heard details of Khan's complicated financial affairs.
+Sentence 8: The original tax fraud court case heard how he had lived in a gated £500,000 house in Moseley and drove a BMW, but had no obvious job.
+Sentence 9: His family home belonged to relatives and only small amounts of money went through his bank accounts.
+
+Annotator 0: Sentences 2 (importance 2), 1 (importance 1), 3 (importance 1)
+Annotator 1: Sentences 3 (importance 3), 2 (importance 2), 1 (importance 1)
+Annotator 2: Sentences 8 (importance 3), 3 (importance 2), 2 (importance 1)
+Annotator 3: Sentences 1 (importance 2), 8 (importance 2), 0 (importance 1)
+Annotator 4: Sentences 0 (importance 3), 1 (importance 2), 3 (importance 2)
+
+
+Sentence 0: A benefits cheat who claimed he could barely walk while starring for his pub football team has avoided jail.
+Sentence 1: Raymond Billam illegally pocketed £15,000 of taxpayers' money after he said he was severely disabled due to back and knee problems.
+Sentence 2: But fraud investigators secretly filmed the 40-year-old midfielder taking to the pitch for a Sunday League team after being tipped-off about his fraudulent claims.
+Sentence 3: The grandfather-of-four admitted benefit fraud and was sentenced to 26-weeks in prison suspended for two years.
+Sentence 4: Cheat: Raymond Billam, 40, claimed he was unable to walk more than a few metres, but was filmed running and jumping as he took to the pitch for his pub football team .
+Sentence 5: Shaven headed Billam claimed he was unable to walk more than 20 metres without falling and needed crutches to get around.
+Sentence 6: But between September 2008 and April 2014 he pulled on the green and black shirt of Ingsfield Lane football club and two other teams in the Mexborough and District Sunday League.
+Sentence 7: In total Billam of Bolton-on-Dearne, South Yorkshire, played over 87 games while dishonestly claiming incapacity benefit, Barnsley Magistrates Court was told.
+Sentence 8: Julie Grant, prosecuting, said: 'Over three consecutive Sundays he was playing football, running, jumping and participating fully showing no signs of discomfort.'
+Sentence 9: His appearances and goals were even posted on the internet, magistrates' heard. '
+
+Annotator 0: Sentences 6 (importance 3), 2 (importance 2), 0 (importance 1)
+Annotator 1: Sentences 8 (importance 3), 7 (importance 2), 6 (importance 1)
+Annotator 2: Sentences 6 (importance 3), 4 (importance 2), 2 (importance 1)
+Annotator 3: Sentences 2 (importance 2)
+Annotator 4: Sentences 4 (importance 3), 2 (importance 2), 1 (importance 1)
+
+
+Sentence 0: A police corruption trial in Philadelphia is far from over, but already one trial witness has been handed a losing verdict.
+Sentence 1: Witness Robert Kushner lost his varsity coaching job at a private academy after testifying this week about his years selling marijuana.
+Sentence 2: Kushner, 32, is one of more than a dozen former drug dealers testifying for the federal government about allegations of police wrongdoing.
+Sentence 3: Witness Robert Kushner lost his varsity coaching job at the Jack M. Barrack Hebrew Academy after testifying this week about his years selling marijuana .
+Sentence 4: He told jurors Tuesday that some of the undercover officers on trial had stolen $81,000 in cash and 7 pounds of marijuana from him during a 2007 arrest.
+Sentence 5: That history came as news to officials at Jack M. Barrack Hebrew Academy in suburban Bryn Mawr.
+Sentence 6: Kushner had passed a background check when he was hired to coach basketball in 2010, head of school Sharon Levin told The Philadelphia Inquirer.
+Sentence 7: Kushner testified that the 2007 charges were expunged as part of a probationary sentence.
+Sentence 8: On cross-examination, he acknowledged that he was arrested again in 2011 and sentenced to four years of probation.
+Sentence 9: He also pleaded guilty to driving under the influence in 2008.
+
+Annotator 0: Sentences 3 (importance 3), 4 (importance 3), 6 (importance 3)
+Annotator 1: Sentences 2 (importance 3), 4 (importance 3), 3 (importance 2)
+Annotator 2: Sentences 0 (importance 2), 3 (importance 2), 4 (importance 2)
+Annotator 3: Sentences 0 (importance 2), 1 (importance 2), 2 (importance 2)
+Annotator 4: Sentences 4 (importance 2), 3 (importance 1)
+
+
+Sentence 0: HSBC has apologised after a link on its official website directed visitors to a pornographic page.
+Sentence 1: Anyone trying to access the bank's page for the Young Entrepreneur Awards - which has since been shut down - was greeted by images of women posing naked or having sex.
+Sentence 2: The porn site took over the address after the awards were scrapped in 2011 and the organisers allowed its registration on HSBC.com.hk to retire.
+Sentence 3: Blunder: HSBC has apologised after a link on its official website directed visitors to a pornographic page (pictured) For that reason, the website's URL address which would usually connect to a third-party website transferred visitors to the porn business instead, a banking source told the South China Morning Post.
+Sentence 4: HSBC yesterday removed the hyperlink from its main website after realising its embarrassing mistake.
+Sentence 5: A spokesman denied the bank had any associations with the external site and offered its apology to the public.
+Sentence 6: In a public statement dated April 20, HSBC said 'a link to an external third-party website has been removed' from its community projects webpage.
+Sentence 7: It added: 'HSBC is not in any way associated with the external third-party website.
+Sentence 8: HSBC would like to apologise to the public for any inconvenience caused.
+Sentence 9: ' The banking giant insisted its website remained secure.
+
+Annotator 0: Sentences 2 (importance 2), 3 (importance 1)
+Annotator 1: Sentences 7 (importance 3), 3 (importance 2), 1 (importance 1)
+Annotator 2: Sentences 1 (importance 3), 2 (importance 2), 3 (importance 1)
+Annotator 3: Sentences 1 (importance 1), 2 (importance 1), 3 (importance 1)
+Annotator 4: Sentences 1 (importance 3), 3 (importance 3), 0 (importance 1)
+
+
+Sentence 0: Bernie Madoff allegedly tried to persuade his drug dealer's girlfriend to become his mistress .
+Sentence 1: Bernie Madoff, who carried out one of the world's largest frauds, tried to persuade his drug dealer's girlfriend to become his mistress, it has emerged.
+Sentence 2: Madoff is serving 150 years in prison for carrying out a $65 billion Ponzi style fraud - which became the largest in financial history.
+Sentence 3: A new book about the financier claims he had put pressure on an Israeli model who was working for him as a stock analyst and dating his dealer Silvio Eboli to sleep with him.
+Sentence 4: He is said to have met Eboli at a Christmas party in 1997 at the Montauk Yacht Club with his son Mark, who later committed suicide over his father's fraudulent activities, Page Six reported.
+Sentence 5: 'Bernie had put enormous pressure on 'Leah' to sleep with him and be his mistress, offering her practically anything if she just let him f*** her,' the book by Toby Rogers states.
+Sentence 6: Eboli is believed to have never confronted Madoff but warned he would injure him if he ever crossed the line with his girlfriend.
+Sentence 7: After 'Leah' became pregnant with Eboli's child in 2001 Madoff apparently summoned her into his office to say she had made a mistake.
+Sentence 8: In the book Madoff is described as bellowing 'You could have had gold.
+Sentence 9: You could have had me.
+
+Annotator 0: Sentences 8 (importance 2), 9 (importance 2)
+Annotator 1: Sentences 4 (importance 3), 1 (importance 2)
+Annotator 2: Sentences 3 (importance 3), 1 (importance 2)
+Annotator 3: Sentences 4 (importance 3), 1 (importance 2), 0 (importance 1)
+Annotator 4: Sentences 1 (importance 3), 2 (importance 3)
+
+
+Sentence 0: (CNN)After years of making the case that the education of athletes is paramount, the NCAA now says it has no legal responsibility to make sure education is actually delivered.
+Sentence 1: On its website, the NCAA prominently states, "It's our commitment -- and our responsibility -- to give young people opportunities to learn, play and succeed."
+Sentence 2: And later, it says that "in the collegiate model of sports, the young men and women competing on the field or court are students first, athletes second."
+Sentence 3: But the NCAA is taking a very different position in response to a lawsuit filed by former University of North Carolina athletes.
+Sentence 4: The lawsuit claimed the students didn't get an education because they were caught up in the largest known academic fraud scandal in NCAA history.
+Sentence 5: In its response, the NCAA says it has no legal responsibility "to ensure the academic integrity of the courses offered to student-athletes at its member institutions."
+Sentence 6: Even with pages of online information about academic standards, and even though the NCAA has established a system of academic eligibility and accountability that it boasts of regularly, NCAA attorneys wrote in this court filing that "the NCAA did not assume a duty to ensure the quality of the education of student-athletes," and "the NCAA does not have 'direct, day-to-day, operational control' " over member institutions like UNC.
+Sentence 7: "It's nonsense.
+Sentence 8: It's double talk," said Gerald Gurney, a former athletic-academic director who is now president of The Drake Group for academic integrity in collegiate sport. "
+Sentence 9: If you look at their basic core principles, it's all about academics, the experience, the integration of academics, and the education of the student is paramount," Gurney said. "
+
+Annotator 0: Sentences 6 (importance 3), 2 (importance 2), 1 (importance 1)
+Annotator 1: Sentences 4 (importance 1)
+Annotator 2: Sentences 0 (importance 3), 4 (importance 2), 5 (importance 1)
+Annotator 3: Sentences 6 (importance 2), 0 (importance 1), 8 (importance 1)
+Annotator 4: Sentences 4 (importance 3)
+
+
+Sentence 0: Real Housewives Of New Jersey star Joe Giudice has had his driving license suspended for two years by a state judge who called his driving record the worst he's ever seen.
+Sentence 1: Giudice, who is preparing to head to federal prison for bankruptcy fraud, lost his driver's license and was fined the maximum of $10,000.
+Sentence 2: He pleaded guilty in October to unlawful use of an ID and impersonation.
+Sentence 3: His guilty plea included an 18-month sentence.
+Sentence 4: Scroll down for more .
+Sentence 5: Real Housewives Of New Jersey star Joe Giudice has had his driving license suspended for two years by a state judge who called his driving record the worst he's ever seen .
+Sentence 6: That will run concurrent with his 41-month federal sentence for bankruptcy fraud and failing to file taxes.
+Sentence 7: His wife, Teresa, is serving a 15-month federal sentence on the fraud charges.
+Sentence 8: He will begin his sentence when hers is over.
+Sentence 9: Superior Court Judge Adam Jacobs said Joe Giudice has a 'general disrespect for the law,' citing dozens of previous driving infractions and suspensions.
+
+Annotator 0: Sentences 7 (importance 3), 6 (importance 2), 5 (importance 1)
+Annotator 1: Sentences 3 (importance 3), 2 (importance 2), 1 (importance 1)
+Annotator 2: Sentences 6 (importance 3)
+Annotator 3: Sentences 1 (importance 3), 2 (importance 3), 6 (importance 3)
+Annotator 4: Sentences 2 (importance 2), 1 (importance 1)
+
+
+Sentence 0: Beatrice Tollman, founder of a luxury hotel chain, made her most recent donation of £20,000 to the Tories earlier this month to boost the party's General Election campaign coffers .
+Sentence 1: The Conservatives yesterday returned a donation of £50,000 from a wealthy hotelier who the American authorities once wanted to extradite to face tax fraud charges.
+Sentence 2: Beatrice Tollman, founder of a luxury hotel chain, made her most recent donation of £20,000 to the Tories earlier this month to boost the party's General Election campaign coffers.
+Sentence 3: But last night it emerged that she has previously been charged with conspiracy to evade millions of dollars in tax before the charges were dismissed by a judge.
+Sentence 4: However on the same day in 2008 her husband Stanley Tollman pleaded guilty to tax evasion.
+Sentence 5: Mr Tollman repaid more than 100 million US dollars to America after the couple spent five years fighting off attempts to extradite Mrs Tollman from the UK over claims the South African couple had millions stashed in the Channel Islands.
+Sentence 6: The Tollman's son, Brett, pleaded guilty to tax evasion in 2003 and was sentenced to more than two years in prison, as well as a $3.5 million penalty.
+Sentence 7: The revelation by the Independent newspaper will prove embarrassing for David Cameron, who recently admitted he got angry over aggressive tax avoidance and people who did not pay what they owe.
+Sentence 8: Last week his party's manifesto pledged to raise £5 billion from clamping down on tax avoidance during the next Parliament.
+Sentence 9: A Conservative spokesman said: 'We were not aware of this issue but in light of these findings we will be returning donations from the Tollmans.
+
+Annotator 0: Sentences 3 (importance 3), 4 (importance 2), 6 (importance 1)
+Annotator 1: Sentences 2 (importance 3), 3 (importance 3), 1 (importance 2)
+Annotator 2: Sentences 3 (importance 2), 6 (importance 1)
+Annotator 3: Sentences 4 (importance 3), 3 (importance 2), 1 (importance 1)
+Annotator 4: Sentences 3 (importance 3), 1 (importance 2), 0 (importance 1)
+
+
+Sentence 0: (CNN)Sunday's announcement that Corinthian Colleges Inc. would shut down all of its remaining 28 campuses is a positive development in a long struggle to hold for-profit colleges accountable.
+Sentence 1: Corinthian, which once enrolled more than 70,000 students, is one of the worst of the "predator colleges" -- schools that offer dubious degrees, saddle students with high amounts of debt and gobble up tens of billions of dollars in federal money every year.
+Sentence 2: Many of these schools are for-profit career colleges that operate mostly online.
+Sentence 3: It's no wonder that Corinthian is doing this after the U.S. Department of Education curtailed its access to federal student aid last summer.
+Sentence 4: There are about 1.3 million students enrolled in for-profit colleges, many of which have questionable track records, and their students need help transitioning into legitimate postsecondary schools.
+Sentence 5: With Uncle Sam's student loan debt sheet topping $1 trillion, we literally can't afford to continue funding for-profit colleges -- which reportedly get 86% of their funding from federal student loan money.
+Sentence 6: For those not familiar with the for-profit college fiasco, here's the whole story in one telling statistic: While for-profit colleges enroll only 13% of the nation's college students, such colleges account for nearly half of all student loan defaults, according to Department of Education statistics.
+Sentence 7: For comparison's sake, the default rate of for-profit college students is worse than the default rate of the worst subprime borrowers during the financial crisis.
+Sentence 8: How do these colleges operate?
+Sentence 9: It's deviously simple: Convince low-income students into borrowing tens of thousands of dollars through easy federal student loans, keep costs low through online classes and part-time professors, and watch the money roll in.
+
+Annotator 0: Sentences 3 (importance 2), 5 (importance 2), 6 (importance 1)
+Annotator 1: Sentences 0 (importance 3), 3 (importance 2), 5 (importance 2)
+Annotator 2: Sentences 1 (importance 3), 9 (importance 3), 4 (importance 2)
+Annotator 3: Sentences 6 (importance 3), 2 (importance 2), 0 (importance 1)
+Annotator 4: Sentences 9 (importance 2), 1 (importance 1)
+
+
+Sentence 0: The Post Office failed to properly investigate why money had gone missing from branches before launching court proceedings against subpostmasters, a report revealed yesterday.
+Sentence 1: Many were sacked, stripped of their savings and even jailed after cash shortfalls were recorded at some branches – despite claims that a faulty IT system was to blame.
+Sentence 2: The Post Office asked forensic accountants Second Sight to investigate the Horizon IT system in 2012, following complaints from dozens of subpostmasters who said they had been wrongly accused of theft, fraud and false accounting when cash shortfalls were discovered.
+Sentence 3: The Post Office failed to properly investigate why money had gone missing from branches before launching court proceedings against subpostmasters, a report has revealed (file picture) Now a leaked copy of the accountants’ independent report has suggested that the discrepancies could have been caused by computer failures, cyber criminals or human error.
+Sentence 4: It also accused the Post Office of failing ‘in many cases’ to identify ‘the root cause of shortfalls’ before starting civil or criminal proceedings.
+Sentence 5: The review said some criminal cases brought by the Post Office were ‘motivated primarily’ by a desire to recover the money and did not appear to be supported by sufficient evidence.
+Sentence 6: It went on to claim that the Post Office had failed to provide the accountancy firm with the documentation they required, and had ‘terminated’ their contract before they finished their research.
+Sentence 7: The report has sparked fresh calls for a full independent inquiry into the computer system used by postmasters after the report reported concerns that ‘in some circumstances Horizon can be systemically flawed’.
+Sentence 8: Former Conservative MP James Arbuthnot said some subpostmasters had been 'dragged through the mud' Former Conservative MP James Arbuthnot, who led an MPs’ campaign to support the subpostmasters, said: ‘These people have been pillars of the community who had their reputations dragged through the mud – some have been sent to prison, they’ve been made bankrupt, they’ve had contracts terminated, I understand at least one has committed suicide.
+Sentence 9: And the way they have been treated is an utter disgrace.
+
+Annotator 0: Sentences 0 (importance 3), 3 (importance 3), 1 (importance 2)
+Annotator 1: Sentences 3 (importance 3), 2 (importance 2), 1 (importance 1)
+Annotator 2: Sentences 3 (importance 3), 2 (importance 2), 1 (importance 1)
+Annotator 3: Sentences 6 (importance 2), 3 (importance 1), 8 (importance 1)
+Annotator 4: Sentences 1 (importance 3), 2 (importance 2), 3 (importance 1)
+
+
+Sentence 0: Homeowners could face an early rise in interest rates if Ed Miliband is propped up in Downing Street by the SNP, a major bank warned last night.
+Sentence 1: US giant Morgan Stanley said the prospect of a Labour government reliant on the Scottish Nationalists would create the ‘greatest uncertainty’ of any election result.
+Sentence 2: Its inevitable ‘anti-austerity’ agenda could lead to an ‘earlier bank rate hike than was previously the case’, the bank argued.
+Sentence 3: US giant Morgan Stanley said the prospect of a Labour government reliant on the Scottish Nationalists would create the ‘greatest uncertainty’ of any election result .
+Sentence 4: Last night, a second major bank, Goldman Sachs, also raised concerns about the same outcome on May 7.
+Sentence 5: Goldman said Labour would be ‘dragged to the Left’ by the SNP, which would result in even more money going north of the border ‘at the expense of the UK as a whole’.
+Sentence 6: It warned that Labour would be then expected to abandon its pledge to manage the public finances carefully.
+Sentence 7: The reports are a double blow to Labour’s attempts to convince voters that the economy would be in safe hands with a Mr Miliband-led government.
+Sentence 8: In an election research note, Morgan Stanley said that a Labour-led government reliant on the ‘anti-austerity and separatist SNP’ would lead investors to predict a ‘substantially looser fiscal policy’.
+Sentence 9: Goldman also warned in a note to investors that a ‘Leftward shift’ could cause share prices to fall in UK firms – particularly those hit by tougher regulation and higher taxes such as banks and energy companies.
+
+Annotator 0: Sentences 5 (importance 3), 8 (importance 2), 9 (importance 2)
+Annotator 1: Sentences 2 (importance 1)
+Annotator 2: Sentences 1 (importance 1), 2 (importance 1), 3 (importance 1)
+Annotator 3: Sentences 5 (importance 2)
+Annotator 4: Sentences 8 (importance 3), 1 (importance 2), 5 (importance 2)
+
+
+Sentence 0: Richard Williams arriving at Manchester Crown Court ahead of his sentencing earlier today .
+Sentence 1: The self-styled U-boat captain who funded his eccentric and lavish lifestyle with a 'sophisticated' £1million VAT scam was today jailed for more than four years.
+Sentence 2: Fraudster Richard Williams, 54, had spent £50,000 of the cash turning a canal narrowboat into a replica German Second World War submarine with torpedo tubes and a periscope.
+Sentence 3: The Captain Birdseye lookalike was jailed at Manchester Crown Court for a total of four years and eight months after admitting cheating the taxman out of over £1million by reclaiming VAT from three false businesses.
+Sentence 4: His ex-wife Laurel Howarth, 28, was jailed for 20 months for her part in the five-year scam which defrauded Her Majesty's Revenue and Customs of £1,017,505.
+Sentence 5: Judge Michael Murray told Williams: 'This was serious offending.
+Sentence 6: It was carefully thought out, organised and planned over a long period of time.
+Sentence 7: All the indications are that the money was squandered.
+Sentence 8: 'You created three false business and there was no substance to them whatsoever.
+Sentence 9: You submitted false invoice to HMRC with a view to dishonestly reclaiming VAT.
+
+Annotator 0: Sentences 3 (importance 3), 2 (importance 2), 1 (importance 1)
+Annotator 1: Sentences 3 (importance 3), 2 (importance 2), 0 (importance 1)
+Annotator 2: Sentences 2 (importance 3), 4 (importance 3), 3 (importance 2)
+Annotator 3: Sentences 4 (importance 3), 3 (importance 2), 2 (importance 1)
+Annotator 4: Sentences 3 (importance 3), 0 (importance 2), 6 (importance 2)
+
+
+Sentence 0: (CNN)Craig Hicks, who is charged in the deaths of three Muslim college students in Chapel Hill, North Carolina, earlier this year, can face the death penalty, a judge ruled Monday, according to CNN affiliates.
+Sentence 1: Superior Court Judge Orlando Hudson Jr. ruled that Hicks' case is "death penalty qualified," WRAL and WTVD reported.
+Sentence 2: The 46-year-old was arrested February 10 in the deaths of Yusor Mohammad, 21, her 23-year-old husband, Deah Shaddy Barakat, and 19-year-old sister, Razan Mohammad Abu-Salha.
+Sentence 3: All three were shot in the head.
+Sentence 4: Hicks, who was the victims' neighbor, turned himself in to police the night of the killings.
+Sentence 5: The next week, he was indicted on three counts of first-degree murder and a count of discharging a firearm into an occupied dwelling.
+Sentence 6: He had no prior criminal record, police said.
+Sentence 7: Police said "an ongoing neighbor dispute over parking" might have been a factor in the shootings but also said they weren't dismissing the possibility of a hate crime.
+Sentence 8: On what is believed to be Hicks' Facebook page, numerous posts rail against religion.
+Sentence 9: The victims' family members have called on authorities to investigate the slayings as a hate crime.
+
+Annotator 0: Sentences 3 (importance 3), 4 (importance 3), 0 (importance 2)
+Annotator 1: Sentences 8 (importance 2), 9 (importance 2)
+Annotator 2: Sentences 8 (importance 3), 7 (importance 2), 6 (importance 1)
+Annotator 3: Sentences 2 (importance 3), 3 (importance 2), 7 (importance 2)
+Annotator 4: Sentences 6 (importance 3), 2 (importance 2), 0 (importance 1)
+
+
+Sentence 0: If you live in the UK or US you can expect to have already been hacked – at least according to the real life conman turned fraud prevention expert whose escapades inspired Catch Me If You Can.
+Sentence 1: Frank Abagnale, whose early life on the run from the FBI was brought to life on the screen by Leonardo Di Caprio, has said the public is underestimating the extent that their details have been stolen by digital fraudsters, the Times reported.
+Sentence 2: In the 2002 Steven Spielberg film Abagnale, now 66, poses as a doctor, a lecturer, a lawyer and an airline pilot over the course of a crime spree that eventually landed him in prison.
+Sentence 3: Scroll down for video .
+Sentence 4: Frank Abagnale (right) has said individuals in the western world have probably already had their identities stolen.
+Sentence 5: He was played by Leonardo Di Caprio (right) in the film about his misspent youth as a conman .
+Sentence 6: However the former conman changed his ways and has spent the rest of his career working with the FBI on fraud detection and prevention.
+Sentence 7: In an interview Mr Abagnale told of how in an age of information overload, those of us living in the western world have probably already had our identities stolen.
+Sentence 8: He highlighted the recent theft of details from more than 80 million Americans whose names, dates of birth, children’s details and and social security numbers were held by the US underwriter Anthem insurance.
+Sentence 9: He added that there had been so many similar incidents in recent years that societies should just assume personal information had been stolen.
+
+Annotator 0: Sentences 2 (importance 3), 4 (importance 2), 6 (importance 1)
+Annotator 1: Sentences 7 (importance 3), 4 (importance 2), 1 (importance 1)
+Annotator 2: Sentences 1 (importance 3), 7 (importance 2), 8 (importance 1)
+Annotator 3: Sentences 2 (importance 2), 8 (importance 1)
+Annotator 4: Sentences 1 (importance 3), 2 (importance 3), 0 (importance 1)
+
+
+Sentence 0: The owner of the Mystic Pizza restaurant made famous in a 1988 movie has pleaded guilty to federal tax charges.
+Sentence 1: The U.S. Attorney's Office says 48-year-old John Zelepos of North Stonington faces up to 15 years in prison after pleading guilty Tuesday to tax evasion and financial structuring offenses.
+Sentence 2: The restaurant owner may also be forced to pay a $500,000 fine.
+Sentence 3: Prosecutors said in a release that between 2006 and 2010, Zelepos diverted just over $567,000 from Mystic Pizza's gross receipts into his personal bank accounts and those of family members.
+Sentence 4: They say he then filed false tax returns to hide the income.
+Sentence 5: Owner: Mystic Pizza owner John Zelepos (seen here in 2008) has pleaded guilty to federal tax charges .
+Sentence 6: On the big screen: The 1988 movie 'Mystic Pizza,' starring (from left to right) Annabeth Gish, Lili Taylor and Julia Roberts, focused on three waitresses working at the pizza restaurant .
+Sentence 7: Prosecutors said he's agreed to paying $234,407 in restitution over the tax returns along with interest and penalties.
+Sentence 8: They also said that Zelepos is going to forfeit funds he put in accounts in an attempt to skip currency transaction reports (CTRs), which come to $522,658.
+Sentence 9: 'Federal law requires all financial institutions to file a CTR for currency transactions that exceed $10,000,' the release said.
+
+Annotator 0: Sentences 5 (importance 3), 7 (importance 3)
+Annotator 1: Sentences 1 (importance 3), 3 (importance 3), 4 (importance 2)
+Annotator 2: Sentences 1 (importance 3), 4 (importance 2), 5 (importance 1)
+Annotator 3: Sentences 1 (importance 3), 3 (importance 2), 4 (importance 1)
+Annotator 4: Sentences 1 (importance 3), 3 (importance 3), 2 (importance 2)
+
+
+Sentence 0: Honesty is key in any relationship – but almost half of us lie to our partners about our finances, a study has revealed.
+Sentence 1: Forty-five per cent of Britons have lied about their earnings, spending, bills or credit cards.
+Sentence 2: And 41 per cent said they were in the dark about their partner's finances.
+Sentence 3: Around one in five have lied to a partner about what they earn, with 10 per cent of those surveyed having understated their salary, four per cent having overstated it and another four per cent admitting to lying in both ways.
+Sentence 4: The survey by financial guide Money Advice Service found 45 per cent of Brion have lied about their earnings, spending and credit cars, and 41 per cent of people surveyed din't know how much their partner earned .
+Sentence 5: Of those who downplayed their wages, the main reason was to spare the feelings of a partner who earned less.
+Sentence 6: However some said they lied to make sure their partner was with them for the right reasons – and not because of their bank account.
+Sentence 7: The majority of insecure workers who exaggerated their salary to a partner because they didn't think they would stand a chance otherwise.
+Sentence 8: Not wanting a partner to think they earned more came in second.
+Sentence 9: The research by financial guide Money Advice Service also found that 24 per cent lied to their partners about what they spend on themselves.
+
+Annotator 0: Sentences 3 (importance 2), 4 (importance 2), 7 (importance 1)
+Annotator 1: Sentences 6 (importance 3), 4 (importance 2), 9 (importance 2)
+Annotator 2: Sentences 3 (importance 3), 4 (importance 2), 1 (importance 1)
+Annotator 3: Sentences 0 (importance 2), 1 (importance 2), 3 (importance 2)
+Annotator 4: Sentences 6 (importance 2), 7 (importance 2), 3 (importance 1)
+
+
+Sentence 0: Relatives of Boston bomber Dzhokhar Tsarnaev are refusing to accept that he was behind the marathon terrorist attack and want his defense lawyers fired.
+Sentence 1: The convicted bomber's aunt, Maret Tsarnaeva, and two other relatives told Time in an interview this week in Chechen capital, Grozny, that they believed he was wrongly convicted as part of a conspiracy by the U.S..
+Sentence 2: The bomber's uncle, Said-Hussein Tsarnaev, told the magazine that 'American special services' orchestrated the 2013 terrorist attack which left three dead and hundreds more wounded.
+Sentence 3: Scroll down for video .
+Sentence 4: Dzhokhar Tsarnaev's aunt, Maret Tsarnaeva, claimed in an interview this week that her nephew Dzhokhar (right) had been wrongfully convicted in the Boston bombing as part of a U.S. conspiracy .
+Sentence 5: Martin Richard, who was killed in the bombings, is seen (front circle) just meters away from Dzhokhar Tsarnaev (back circle) on April 15, 2013.
+Sentence 6: Seconds later, one of two bombs exploded, piercing his body with shrapnel .
+Sentence 7: The family members could offer no evidence to back up their allegations.
+Sentence 8: Tsarnaev was found guilty by a Boston jury on April 8 of all 30 counts - 17 of them carrying the death penalty - in connection to the deadly April 2013 attacks.
+Sentence 9: The relatives have also attempted to get messages to Tsarnaev, urging him to fire his defense lawyers.
+
+Annotator 0: Sentences 4 (importance 3), 8 (importance 3), 1 (importance 2)
+Annotator 1: Sentences 2 (importance 2)
+Annotator 2: Sentences 2 (importance 3), 0 (importance 1), 7 (importance 1)
+Annotator 3: Sentences 4 (importance 3), 6 (importance 2), 8 (importance 1)
+Annotator 4: Sentences 5 (importance 3), 1 (importance 2), 0 (importance 1)
+
+
+Sentence 0: The boss of supermarket Sainsbury's has been sentenced in his absence to two years in Egyptian jail over the company's disastrous venture into the Middle East 16 years ago.
+Sentence 1: Chief executive Mike Coupe, 53, was convicted of embezzlement last September after former Sansbury's business partner Amr el-Nasharty accused him of trying to illegally seize cheques.
+Sentence 2: Now a court has sentenced him to two years behind bars for the crime, which relates to Sainbury's joint venture with local supermarket chain Edge, owned by Mr el-Nasharty .
+Sentence 3: Mike Coupe, chief executive of Sainsbury's, has been sentenced to two years in an Egyptian jail after a former business partner of the British supermarket claimed Mr Coupe tried to seize money from him .
+Sentence 4: Mr Coupe is believed to have travelled to the Middle Eastern country last Sunday to appeal the conviction, which dates back to a time when he didn't work at the firm, but this was unsuccessful, reports The Times.
+Sentence 5: In 1999, Sainsbury's, then under the stewardship of David Bremner, opened its first store in Cairo, hoping to capitalise on a growing Arabic middle class which was still largely reliant on corner shops for their groceries.
+Sentence 6: Sainsbury's opened its first store in Egypt in Cario in 1999, hoping to capitalise on a growing middle class that were still largely reliant on corner shops for groceries.
+Sentence 7: The company initially spent £10million on 25 per cent share in local firm Edge, owned by businessman Amr el-Nasharty.
+Sentence 8: Six months later they spent another £40million buying an 80 per cent share, and by 2001 had built 100 stores, employing more than 2,500 staff.
+Sentence 9: But, during a Palestinian uprising in the region, Sainbury's found itself added to a 'boycott list' of largely American companies accused of having ties with Israel.
+
+Annotator 0: Sentences 6 (importance 3), 0 (importance 2)
+Annotator 1: Sentences 4 (importance 3), 1 (importance 1), 7 (importance 1)
+Annotator 2: Sentences 5 (importance 3), 2 (importance 2), 0 (importance 1)
+Annotator 3: Sentences 4 (importance 3), 3 (importance 2), 2 (importance 1)
+Annotator 4: Sentences 3 (importance 3), 0 (importance 2)
+
+
+Sentence 0: Mary Day (pictured outside court) fraudulently claimed £16,500 of income support and disability allowance and used the money to go on holidays .
+Sentence 1: A benefits cheat who pocketed almost £17,000 of taxpayers' money and spent it on a string of luxury holidays despite having £27,000 in the bank has avoided jail.
+Sentence 2: Mary Day, 60, of Swanage in Dorset, used taxpayers' money to go on luxury holidays to the Indian resort of Goa for up to a month each time.
+Sentence 3: Day fraudulently claimed £16,500 of income support and disability allowance despite having £27,000 of her own savings in the bank.
+Sentence 4: Her savings were £11,000 above the £16,000 threshold for savings while claiming such benefits, which meant she was overpaid benefits for more than four years.
+Sentence 5: Day went on three trips to tourist hotspot Goa in 2009, 2011 and 2014, but failed to tell the authorities.
+Sentence 6: She was caught following an anonymous tip-off to benefits officers.
+Sentence 7: Day has now pleaded guilty to five counts of dishonestly failing to notify the Department for Work and Pensions of a change in circumstances affecting her ability to claim benefits.
+Sentence 8: District Judge Stephen Nicholls sentenced her to three months in prison, but suspended the sentence for 12 months as she pleaded guilty and had repaid the money.
+Sentence 9: Sentencing Day at Bournemouth Magistrates Court, he said: 'You have been credited with the guilty plea and I have taken into account that you have no previous convictions. '
+
+Annotator 0: Sentences 4 (importance 3), 2 (importance 2), 1 (importance 1)
+Annotator 1: Sentences 1 (importance 3), 2 (importance 2), 7 (importance 1)
+Annotator 2: Sentences 7 (importance 3), 5 (importance 2), 1 (importance 1)
+Annotator 3: Sentences 2 (importance 3), 1 (importance 2), 0 (importance 1)
+Annotator 4: Sentences 0 (importance 3), 1 (importance 3), 2 (importance 2)
+
+
+Sentence 0: New Delhi  (CNN)An Indian software pioneer and nine others have been sentenced to seven years in jail for their role in what has been dubbed India's biggest corporate scandal in memory, police said.
+Sentence 1: Ramalinga Raju, the former chairman of software services exporter Satyam Computers Services, was also fined $804,000, R.K. Gaur, a spokesman for India's Central Bureau of Investigation, told CNN.
+Sentence 2: In 2009, Satyam Computers Services was at the center of a massive $1.6 billion fraud case after its then-chairman Raju admitted inflating profits with fictitious assets and nonexistent cash.
+Sentence 3: Investigators say losses to investors resulting from the company's book manipulation were much higher.
+Sentence 4: A special court convicted Raju and nine other people of cheating, criminal conspiracy, breach of public trust and other charges, said the Central Bureau of Investigation, which looked into the case.
+Sentence 5: In the media, the case has been compared to the 2001 Enron Corp. scandal, in which a Houston energy company's earnings had been overstated by several hundred million dollars.
+Sentence 6: When the scam made headlines, Satyam, which means "truth" in Sanskrit, was India's fourth-largest software services provider.
+Sentence 7: It was serving almost 700 companies, including 185 Fortune 500 companies, and generated more than half of its revenue from the United States.
+Sentence 8: The company had about 53,000 employees and operated in 65 countries.
+Sentence 9: After Raju's shock disclosures six years ago, the Indian government fired Satyam's board.
+
+Annotator 0: Sentences 6 (importance 3), 4 (importance 2), 2 (importance 1)
+Annotator 1: Sentences 5 (importance 3), 4 (importance 2), 8 (importance 2)
+Annotator 2: Sentences 5 (importance 3), 3 (importance 2), 0 (importance 1)
+Annotator 3: Sentences 4 (importance 3), 1 (importance 2), 3 (importance 1)
+Annotator 4: Sentences 4 (importance 3), 0 (importance 2), 3 (importance 2)
+
+
+Sentence 0: Apology: Clydesdale chief Debbie Crosbie whose rogue staff misled the Financial Ombudsman .
+Sentence 1: A High Street bank has been hit with a record £21million fine after being caught falsifying documents to avoid compensating victims of mis-selling.
+Sentence 2: Now there are calls for criminal charges to be brought over an extraordinary cover-up lasting more than two years at Clydesdale and Yorkshire Banks.
+Sentence 3: Rogue staff misled the Financial Ombudsman – deliberately obstructing its investigation into payment protection insurance complaints.
+Sentence 4: They deleted records and tampered with evidence to make it look like the customer was never sold PPI, or they lied about not being able to trace documents.
+Sentence 5: Politicians called for a police investigation into the wrong-doing, which took place between May 2011 and July 2013.
+Sentence 6: Mark Garnier, a Tory former member of the Treasury committee, said: ‘This all took place well after the financial crisis, when banks said they had changed.
+Sentence 7: Clearly they haven’t.
+Sentence 8: ‘It would be unacceptable if criminal charges are not brought against the people who perpetrated this.
+Sentence 9: An example must be set.’
+
+Annotator 0: Sentences 2 (importance 3), 5 (importance 2), 4 (importance 1)
+Annotator 1: Sentences 6 (importance 3), 4 (importance 2), 2 (importance 1)
+Annotator 2: Sentences 1 (importance 3), 3 (importance 2), 2 (importance 1)
+Annotator 3: Sentences 5 (importance 3), 0 (importance 1)
+Annotator 4: Sentences 6 (importance 3), 1 (importance 2), 0 (importance 1)
+
+
+Sentence 0: Police are hunting a man aged between 50 and 60 suspected of robbing a bank in broad daylight and running off with £3,000 in cash.
+Sentence 1: The robbery took place at 12.30pm at a Lloyds Bank branch in Fairwater, Cardiff, police said.
+Sentence 2: Detectives have issued CCTV images of the suspect, who is 5ft 9in to 6ft and was wearing black clothing.
+Sentence 3: Detectives have issued CCTV images of the suspect, who is 50 to 60, 5ft 9in to 6ft and was wearing black clothing .
+Sentence 4: The white male suspect, who has greying black hair and wore glasses, was captured on camera inside the bank.
+Sentence 5: Detectives said no one was injured during the robbery and they were 'confident' the public would be able to identify the suspect.
+Sentence 6: Detective Sergeant Andy Miles, from Fairwater CID, said: 'Inquiries are continuing to identify the culprit.
+Sentence 7: The CCTV is clear and I am confident that members of the public will know his identity.
+Sentence 8: 'I can confirm there have been no reports of any injuries as a result of the incident. '
+Sentence 9: While incidents of this nature are rare in South Wales, when they do occur we will investigate them thoroughly to trace whoever is responsible.
+
+Annotator 0: Sentences 0 (importance 3), 1 (importance 2), 2 (importance 1)
+Annotator 1: Sentences 5 (importance 3), 3 (importance 1)
+Annotator 2: Sentences 0 (importance 3), 1 (importance 2), 7 (importance 2)
+Annotator 3: Sentences 1 (importance 2), 2 (importance 2), 3 (importance 2)
+Annotator 4: Sentences 6 (importance 3), 3 (importance 2), 1 (importance 1)
+
+
+Sentence 0: Sisters Sophie Morgan , 21, and Sheree, 25, (both pictured outside Burnley Crown Court) allowed their bank accounts to be used to accept stolen money .
+Sentence 1: Two sisters who allowed their bank accounts to be used in a 'vile' plot to con an elderly couple out of their £36,000 life savings have avoided jail.
+Sentence 2: Sheree Morgan, 25,  and younger sister Sophie, 21, both of Nelson, Lancashire, agreed to let their bank accounts be used to accept thousands of pounds in stolen money after the victims were conned out of over £36,000 over the telephone by a fraudster posing as a policeman.
+Sentence 3: The couple, a man aged 86, and his 84-year old wife from Cardiff in South Wales, were contacted by a man pretending to be a Metropolitan Police detective sergeant falsely claiming they were about to fall victim to an Eastern European crime gang who had got hold of their bank account details.
+Sentence 4: He urged the elderly couple they needed to transfer their money into various accounts 'for their own security.'
+Sentence 5: The caller even pretended he knew of a list of previous transactions the elderly couple had made, initially rattling off eight incorrect withdrawals before correctly guessing a £50 shopping bill at Asda.
+Sentence 6: Consequently the couple were persuaded to go to their local Leeds Building Society and make transfers from their account and makes others from their HSBC savings totalling £36,140 to other accounts.
+Sentence 7: The cash was immediately withdrawn after the transfers and were used pay for travellers cheques and Euros at travel agents.
+Sentence 8: The elderly couple tried to get their money back when they realised they had been duped but their plea was refused after the banks said staff had acted 'without negligence and acted upon instruction.'
+Sentence 9: Sheree claimed she was approached by a friend from school who asked her if she wanted to make some money.
+
+Annotator 0: Sentences 2 (importance 3), 3 (importance 3), 1 (importance 2)
+Annotator 1: Sentences 5 (importance 3), 3 (importance 2), 2 (importance 1)
+Annotator 2: Sentences 5 (importance 3), 3 (importance 2), 2 (importance 1)
+Annotator 3: Sentences 3 (importance 3), 6 (importance 3), 1 (importance 2)
+Annotator 4: Sentences 1 (importance 3), 6 (importance 3), 2 (importance 2)
+
+
+Sentence 0: Sean Donohoe, 30, from Wilnecote, Tamworth, plundered a pensioner's life savings, blowing £28,500 on shopping sprees and lavish meals out .
+Sentence 1: A crooked builder befriended a widowed pensioner so he could fritter away her £28,500 life savings on shopping sprees and lavish meals out.
+Sentence 2: Sean Donohoe, 30, from Wilnecote, Tamworth, plundered the elderly woman's accounts before spending tens of thousands of pounds on trips to the Snowdome and in shops such as Argos and HMV.
+Sentence 3: He even persuaded his victim to change her will so he could reap the benefits, before secretly taking out two life insurance policies, both of which named him as the beneficiary.
+Sentence 4: The builder has now been jailed for 21 months after admitting charges of fraud and theft.
+Sentence 5: Sentencing him at Birmingham Crown Court, the judge said Donohoe abused the woman's trust in 'every conceivable way'.
+Sentence 6: Judge Francis Laird QC said: 'You befriended her, you became a close friend and confidante.
+Sentence 7: Because of your behaviour towards her she absolutely trusted you with her financial affairs.
+Sentence 8: 'You abused that trust.
+Sentence 9: You did so in every conceivable way.
+
+Annotator 0: Sentences 4 (importance 1)
+Annotator 1: Sentences 6 (importance 3), 2 (importance 2), 0 (importance 1)
+Annotator 2: Sentences 2 (importance 3), 1 (importance 2), 0 (importance 1)
+Annotator 3: Sentences 0 (importance 3), 4 (importance 2), 3 (importance 1)
+Annotator 4: Sentences 3 (importance 3), 6 (importance 3), 1 (importance 2)
+
+
+Sentence 0: Barclays chairman Sir David Walker defended the bank’s decision to pay out £1.86billion in bonuses .
+Sentence 1: Furious Barclays shareholders vented frustration at the generous pay packages handed to hundreds of its top traders yesterday – with one investor asking: ‘What has their “talent” ever done for us?’
+Sentence 2: The scandal-hit lender faced a barrage of criticism from long-suffering investors, many of them pensioners, at its annual general meeting in London.
+Sentence 3: Shareholders are reeling from big losses in their investments and pension funds as Barclays’ share price has plunged since the financial crisis.
+Sentence 4: Last year its profits dropped again by 21 per cent to £2.3billion after it was hit by huge bills for wrongdoing.
+Sentence 5: But yesterday chairman Sir David Walker defended the bank’s decision to pay out £1.86billion in bonuses, including packages of more than £1million to 359 employees.
+Sentence 6: Group chief executive Antony Jenkins saw his pay package more than triple to £5.5million, after opting to accept a £1.1million bonus.
+Sentence 7: Facing criticism over the pay package, Sir David claimed the bank needed to pay ‘competitively’ to attract the best talent.
+Sentence 8: But the argument received short shrift from investors who have seen Barclays fork out billions for various scandals while the share price has fallen from £7 to just under £2.60.
+Sentence 9: During the height of the financial crisis in 2009 they fell to 47p, leaving many savers who sold their shares with huge losses.
+
+Annotator 0: Sentences 8 (importance 2), 0 (importance 1)
+Annotator 1: Sentences 7 (importance 3), 5 (importance 2), 6 (importance 2)
+Annotator 2: Sentences 5 (importance 2), 8 (importance 2), 2 (importance 1)
+Annotator 3: Sentences 7 (importance 3), 6 (importance 2), 0 (importance 1)
+Annotator 4: Sentences 6 (importance 3), 8 (importance 3)
+
+
+Sentence 0: Model: Olsi Beheluli, pictured, claimed he appeared on Channel 4 dating show My Little Princess .
+Sentence 1: A drug dealing model was jailed after he posted a picture of himself surrounded by £240,000 in cash on Twitter.
+Sentence 2: Olsi Beheluli, who claims he appeared on Channel 4 dating show My Little Princess, was a member of a gang responsible for selling 'significant quantities' of class A drugs.
+Sentence 3: The 24-year-old enjoyed living the 'high life' and gambling with the money he made from the illegal operation, police said.
+Sentence 4: Officers seized more than £4million worth of heroin and cocaine when they raided the gang's 'stash house' in Brent, north west London.
+Sentence 5: They also found stacks of money, counterfeit identity documents, and equipment used for drug dealing.
+Sentence 6: Beheluli was jailed alongside fellow gang members Besim Topalli, 29, and Azem Proshka, 23, for a total of 31 years at Blackfriars Crown Court, London, on Wednesday.
+Sentence 7: Officers arrested Beheluli, from Harrow, north west London, in October 2014 and searched his phone to discover a further picture of him with bundles of cash.
+Sentence 8: He tried to claim it was a relative's money and was taken in Albania but detectives matched the distinctive wallpaper and furniture in the image to a picture of a home that Beheluli used to rent.
+Sentence 9: A raid of the gang's 'stash house' in Brent, north west London, unearthed cash, drugs, counterfeit identity documents and drug dealing equipment such as scales.
+
+Annotator 0: Sentences 1 (importance 3), 5 (importance 2), 6 (importance 1)
+Annotator 1: Sentences 3 (importance 3), 9 (importance 3), 2 (importance 2)
+Annotator 2: Sentences 5 (importance 3), 3 (importance 2), 1 (importance 1)
+Annotator 3: Sentences 8 (importance 3), 4 (importance 2), 6 (importance 1)
+Annotator 4: Sentences 6 (importance 2), 7 (importance 2), 8 (importance 2)
+
+
+Sentence 0: Hilary Border, 54, stole £20,000 from her dementia-stricken mother, pictured outside Nottingham Crown Court .
+Sentence 1: A 'wicked' daughter who stole £20,000 from her dementia-stricken mother and spent it on herself instead of paying care home fees has been spared jail.
+Sentence 2: Hilary Border, 54, from Newark, Nottinghamshire, had power of attorney over her 83-year-old mother Dorothy's affairs when her health deteriorated.
+Sentence 3: The mother-of-three was required to pay £300-a-week for the 83-year-old's care but when it doubled to £600 the money was either late or stopped being paid at all.
+Sentence 4: Care home staff tried to contact Border over an outstanding £16,000 debt over two years before reporting her to police.
+Sentence 5: She pleaded  guilty to fraud on the basis she took £20,000 between October 2012, and November 20 last year, despite the fact that prosecution said it was £39,500.
+Sentence 6: Border was sentenced to 16 months in prison, suspended for two years, at Nottingham Crown Court yesterday.
+Sentence 7: Judge Andrew Hamilton said: 'You stole money from your mum.
+Sentence 8: You were trusted to be her power of attorney to deal with her money.
+Sentence 9: 'It was wicked to steal from someone who was in a care home. '
+
+Annotator 0: Sentences 5 (importance 3), 4 (importance 2), 0 (importance 1)
+Annotator 1: Sentences 0 (importance 3), 1 (importance 3), 2 (importance 2)
+Annotator 2: Sentences 2 (importance 3), 1 (importance 2), 0 (importance 1)
+Annotator 3: Sentences 1 (importance 3), 2 (importance 2), 0 (importance 1)
+Annotator 4: Sentences 9 (importance 3), 7 (importance 2)
+
+
+Sentence 0: The nation's largest suppliers of HIV and AIDS medical care is accused of bilking Medicare and Medicaid in an elaborate $20 million dollar scam that spanned 12-states, according to a lawsuit filed in South Florida federal court.
+Sentence 1: Three former managers of the AIDS Healthcare Foundation filed a suit last week alleging the company paid employees and patients kickbacks for patient referrals in an effort to boost funding from federal health programs.
+Sentence 2: Employees were paid $100 bonuses for referring patients with positive test results to its clinics and pharmacies.
+Sentence 3: The lawsuit alleges kickbacks started in 2010 at the company's California headquarters and spread to programs in Florida and several other locations.
+Sentence 4: Lawsuit: Three former managers of the AIDS Healthcare Foundation filed a suit last week alleging the company paid employees and patients kickbacks for patient referrals in an effort to boost funding from federal health programs (file photo) The Los Angeles-based company cares for more than 400,000 patients in 36 countries and is leading a mass testing initiative to identify and treat an estimated 25 million people who don't know they are infected, according to its website.
+Sentence 5: The referrals were key to the company's business model and touted by AHF President Michael Weinstein at a 2013 leadership summit, where the complaint alleges he specifically directed staff to immediately raise the patient financial incentive to $50 and to implement the incentive program nationally throughout the organization.
+Sentence 6: Weinstein said small incentives for linking people to services and keeping them there are 'mainstays of public health interventions.'
+Sentence 7: 'Not only has AIDS Healthcare Foundation done nothing wrong, our pro-active approach to finding and linking HIV-positive individuals to lifesaving care and treatment is critical to stopping HIV in this country,' Weinstein said in a statement.
+Sentence 8: He noted that the federal government and state of Florida formally declined to intervene in the legal action, which he says 'speaks volumes about the merits of the case.'
+Sentence 9: Former managers Jack Carrel of Louisiana, Mauricio Ferrer of Florida, and Shawn Loftis of New York, filed the whistleblower complaint.
+
+Annotator 0: Sentences 1 (importance 3), 4 (importance 3), 5 (importance 1)
+Annotator 1: Sentences 0 (importance 3), 4 (importance 2), 5 (importance 1)
+Annotator 2: Sentences 8 (importance 2), 9 (importance 2)
+Annotator 3: Sentences 5 (importance 3), 4 (importance 2), 3 (importance 1)
+Annotator 4: Sentences 6 (importance 3), 5 (importance 2), 4 (importance 1)
+
+
+Sentence 0: A New York detective has been suspended after being accused of robbing a store while colleagues were arresting workers for selling illegal cigarettes.
+Sentence 1: The manager of the deli in Brooklyn said Detective Ian Cyrus, who has been suspended without pay, was caught on camera stealing cash.
+Sentence 2: His supervisor has been placed on desk duty.
+Sentence 3: Scroll down for video .
+Sentence 4: Caught on camera: On viewing the CCTV security cameras, the store manager said he saw one of the detectives finding the rent money box under the counter, and Detective Ian Cyrus grabbing a handful of it .
+Sentence 5: Mr Abdullah said Detective Ian Cyrus then bends down and when he stands up, he appears to put the money in his coat pocket .
+Sentence 6: Five New York Police Department (NYPD) detectives went to the Brooklyn store on Friday April 3 and arrested two employees accused of selling untaxed cigarettes, according to ABC7 Eyewitness News.
+Sentence 7: Officers reportedly took money from the cash register and packs of cigarettes as evidence.
+Sentence 8: Manager Ali Abdullah, who was not in the shop at the time, was given a receipt from the police the following day saying $593 had been seized, but he realised $2,650 in store rent money was missing.
+Sentence 9: On viewing the CCTV security cameras, he said Detective Cyrus grabbed a handful of cash from the rent money box under the counter.
+
+Annotator 0: Sentences 4 (importance 2), 7 (importance 1)
+Annotator 1: Sentences 4 (importance 3), 0 (importance 2), 1 (importance 2)
+Annotator 2: Sentences 4 (importance 3), 8 (importance 2)
+Annotator 3: Sentences 2 (importance 2), 7 (importance 2), 6 (importance 1)
+Annotator 4: Sentences 0 (importance 3), 4 (importance 2), 5 (importance 1)
+
+
+Sentence 0: A meat trader who swindled cash through a mortgage fraud scam to pay for luxury holidays was ordered to pay back £500,000 today.
+Sentence 1: Grant Allen, 38, of Harlow, Essex, travelled first class around the world with his girlfriend Gaynor Godwin and bought a holiday home on the Costa Del Sol, Spain, using criminally gained money.
+Sentence 2: The pair stayed at top hotels on at least eight holidays costing £30,000 between 2006 and 2010, including a trip to Dubai, United Arab Emirates, in 2009 worth £7,600.
+Sentence 3: Grant Allen (left), 38, of Harlow, Essex, travelled round the world with his girlfriend, Gaynor Godwin (right) using money from a mortgage fraud scam.
+Sentence 4: Edward Byatt (behind Allen, left) was also involved in the fraud .
+Sentence 5: Allen also splurged £8,700 on a holiday to Florida in 2009 when he took his girlfriend and children to Disney World.
+Sentence 6: The Old Bailey heard that he hid the fraud by buying and trading properties and funnelling large amounts of cash through his unwitting girlfriend's bank account.
+Sentence 7: The couple lived in a £700,000 home in Rayne, Essex - where £33,000 was spent on landscaping the garden - and also owned a property in Hertfordshire, bought with the proceeds of the fraud.
+Sentence 8: When the home in Essex was raided in 2011, detectives found large piles of cash including £1,000 which was stashed in the extractor fan in the kitchen.
+Sentence 9: Judge Stephen Kramer QC today ordered Allen to pay back £491,000 as the proceeds of crime.
+
+Annotator 0: Sentences 9 (importance 3), 7 (importance 2), 4 (importance 1)
+Annotator 1: Sentences 3 (importance 3), 0 (importance 2), 1 (importance 1)
+Annotator 2: Sentences 0 (importance 3), 1 (importance 2), 2 (importance 1)
+Annotator 3: Sentences 2 (importance 3), 5 (importance 3), 6 (importance 3)
+Annotator 4: Sentences 3 (importance 3), 2 (importance 2), 1 (importance 1)
+
+
+Sentence 0: Hundreds of payday lenders will be wiped out by tougher rules designed to protect customers, experts have predicted.
+Sentence 1: It comes as Wonga, the UK’s biggest payday loans firm, today revealed it racked up a £37.3million loss last year following a significant reduction in UK consumer lending while it attempts to clean up its tarnished image.
+Sentence 2: Revenues declined to £217.2million in the period, down by almost £100million.
+Sentence 3: Wonga's executive chairman Andy Haste said: 'We know it will take time to repair our reputation and gain an accepted place in the financial services industry, but we're determined to deliver on our plans and serve our customers in the right way.'
+Sentence 4: Hundreds of payday lenders, such as Wonga, will be wiped out by tougher rules designed to protect customers, experts have predicted .
+Sentence 5: The City watchdog has forecast that just three or four payday lenders out of 400 will be left standing following the introduction of the rules in January.
+Sentence 6: They include a daily interest cap of 0.8 per cent and stricter affordability checks to ensure customers can repay loans.
+Sentence 7: The true picture should become clearer later this year, as the Financial Conduct Authority (FCA) attempts to weed out dodgy firms.
+Sentence 8: Payday lenders have all had to apply for a license to trade and will learn in the coming months whether they have been successful.
+Sentence 9: Robin Savage, an analyst from investment bank Canaccord Genuity described some of the tactics used by payday lenders – such as extending loan terms and adding interest to customers who cannot afford to repay - as ‘evil’.
+
+Annotator 0: Sentences 3 (importance 3), 5 (importance 3), 2 (importance 2)
+Annotator 1: Sentences 1 (importance 1)
+Annotator 2: Sentences 9 (importance 3), 3 (importance 2)
+Annotator 3: Sentences 1 (importance 3), 9 (importance 2)
+Annotator 4: Sentences 2 (importance 3), 1 (importance 2), 6 (importance 1)
+
+
+Sentence 0: A British-born businessman has been placed on the FBI's Most Wanted list over claims he conducted a multi-million pound luxury car scam.
+Sentence 1: Afzal Khan is accused of conning a string of customers and financial firms at a motor dealership he ran in the US.
+Sentence 2: Federal agents hunting the 32-year-old, originally from Edinburgh, fear he may have fled the country and have offered a $20,000 reward for information leading to his arrest.
+Sentence 3: Afzal Khan (pictured) is accused of conning a string of customers and financial firms at a motor dealership he ran in the US .
+Sentence 4: Federal agents hunting the 32-year-old, originally from Edinburgh, fear he may have fled the country and have offered a $20,000 reward for information leading to his arrest .
+Sentence 5: Khan is accused of obtaining loans from a bank for cars that he never delivered, but for which the purchaser was still responsible .
+Sentence 6: Flamboyant Khan, known to his clients as 'Bobby', opened the Emporio Motor Group in New Jersey in 2013 and maintained a high profile.
+Sentence 7: He appeared on US reality series The Real Housewives Of New Jersey and counted members of the show's cast among his clients.
+Sentence 8: He has now been accused of a massive fraud involving super cars including Lamborghinis, Bentleys and Rolls Royces.
+Sentence 9: He is accused of obtaining loans from a bank for cars that he never delivered, but for which the purchaser was still responsible.
+
+Annotator 0: Sentences 3 (importance 3), 5 (importance 3)
+Annotator 1: Sentences 6 (importance 3), 5 (importance 2), 1 (importance 1)
+Annotator 2: Sentences 5 (importance 3), 0 (importance 2), 1 (importance 1)
+Annotator 3: Sentences 3 (importance 3), 1 (importance 2), 5 (importance 1)
+Annotator 4: Sentences 4 (importance 3), 3 (importance 2), 1 (importance 1)
+
+
+Sentence 0: A mother-of-two has been jailed after stealing almost £80,000 from her dying parents to go on shopping sprees - leaving her elderly father in debt and too poor to afford a telephone.
+Sentence 1: Christine Lillico, 47, from  Heddon-on-the-Wall, Northumberland, was trusted with looking after her elderly parents' bank accounts as their health deteriorated with age.
+Sentence 2: But instead of using the money to care for John and Audrey Air she plundered their life savings to bankroll her own lifestyle.
+Sentence 3: Newcastle Crown Court (pictured) heard mother-of-two Christine Lillico, 47 was supposed to look after her elderly parents' bank accounts - but instead stole almost £80,000 from them over a six year period .
+Sentence 4: By the time her fraud was discovered Lillico had stolen a total of £78,000.
+Sentence 5: Newcastle Crown Court heard in the last months of his life Mr Air went without a telephone and basic amenities, while suffering the shame of being in debt for the first time in his life because of his daughter's crimes.
+Sentence 6: A judge has now sent Lillico to jail and ordered she pay her brother John Air junior £39,000 - which would have been his inheritance has she not stolen it.
+Sentence 7: Sentencing her to 20 months behind bars, Mr Recorder Baird said: 'You were trusted by your parents to look after them in their elderly years. '
+Sentence 8: They had modest savings which had taken all their lives to accumulate through hard work.
+Sentence 9: 'Over a period of six years you plundered those savings. '
+
+Annotator 0: Sentences 5 (importance 3), 3 (importance 2), 0 (importance 1)
+Annotator 1: Sentences 4 (importance 3), 3 (importance 2), 1 (importance 1)
+Annotator 2: Sentences 9 (importance 2), 8 (importance 1)
+Annotator 3: Sentences 2 (importance 2), 0 (importance 1)
+Annotator 4: Sentences 0 (importance 2), 1 (importance 2), 2 (importance 2)
+
+
+Sentence 0: Britain's biggest banks earmarked billions of pounds for 'remediation costs' and fines over the last three years .
+Sentence 1: Britain's biggest banks have racked up a £39billion bill in just three years to pay for their financial scandals.
+Sentence 2: ‘Remediation costs’ wiped out 61 per cent of their profits between 2011 and 2014, according to accountants KPMG.
+Sentence 3: The bill has been driven by the payment protection insurance scandal, with banks setting aside £4.7billion last year to compensate customers.
+Sentence 4: Another £2.3billion was earmarked by banks including Barclays, Royal Bank of Scotland and HSBC to pay fines for rigging foreign exchange markets.
+Sentence 5: The total charge for wrongdoing last year – £9.9billion – was only 8 per cent less than the previous year.
+Sentence 6: Describing it as a ‘problem that won’t go away’, KPMG said banks also face mounting costs from employing an army of compliance staff to keep them out of trouble.
+Sentence 7: RBS is thought to be facing a multibillion-pound settlement in the US for mis-selling toxic bundles of mortgage debt – known as mortgage-backed securities – in the run up to the financial crisis.
+Sentence 8: Barclays is also braced for a huge fine for rigging foreign exchange rates, having put aside £1.25billion so far to cover the bill.
+Sentence 9: But the UK’s strengthening economy has driven a 72 per cent drop in losses from bad loans, with write-offs falling to £5.2billion last year.
+
+Annotator 0: Sentences 1 (importance 3), 3 (importance 2), 4 (importance 1)
+Annotator 1: Sentences 7 (importance 3), 4 (importance 2), 3 (importance 1)
+Annotator 2: Sentences 3 (importance 2), 4 (importance 2), 7 (importance 2)
+Annotator 3: Sentences 7 (importance 3), 4 (importance 2), 1 (importance 1)
+Annotator 4: Sentences 3 (importance 1), 4 (importance 1), 5 (importance 1)
+
+
+Sentence 0: Arizona officials who botched an investigation into the rape of a 13-year-old girl - allowing her rapist to continue to assault her for four years - have agreed to pay her $3.5 million.
+Sentence 1: The payout by Maricopa County, which was revealed on Wednesday, comes after it emerged that Patrick Morrison continued to assault the mentally-disabled girl, his niece, and even got her pregnant when detectives failed to properly investigate the case.
+Sentence 2: Her rape was among more than 400 sex-crime cases that were inadequately investigated or not looked into at all by Sheriff Joe Arpaio's office over a three-year period ending in 2007.
+Sentence 3: Morrison, from Mesa, first raped his niece Sabrina Morrison in March 2007, and after she told a teacher the following day, authorities performed a rape kit on her.
+Sentence 4: Payout: Sabrina Morrison, pictured left in an interview in 2012, will receive $3.5 million after sheriff's deputies failed to arrest her uncle, Patrick Morrison, right, after he raped her when she was 13 .
+Sentence 5: Even though the kit showed traces of semen, the sheriff's deputies did not collect a blood sample from Patrick Morrison - as requested by the lab - and left him walking the streets.
+Sentence 6: Sabrina's mother, Vikki Morrison, said her daughter was known to make up stories, so when sheriff's deputies told her the rape kit had shown no evidence of a rape, she believed them.
+Sentence 7: 'I was told straight to my face there was no evidence of any trauma or any sexual assault, so we thought she was lying the whole time,' she told CBS5AZ in a 2012 interview.
+Sentence 8: It meant that for the next four years, Morrison continued to rape his niece and even got her pregnant in 2009.
+Sentence 9: But because of physical complications, the baby was aborted.
+
+Annotator 0: Sentences 6 (importance 3), 2 (importance 2), 0 (importance 1)
+Annotator 1: Sentences 1 (importance 2), 2 (importance 2), 4 (importance 2)
+Annotator 2: Sentences 1 (importance 1)
+Annotator 3: Sentences 0 (importance 3), 3 (importance 3), 2 (importance 2)
+Annotator 4: Sentences 5 (importance 3), 4 (importance 2), 6 (importance 1)
+
+
+Sentence 0: Marylin Stoneman, pictured leaving court, stole more than £22,000 from her vulnerable victim to fund her gambling addiction .
+Sentence 1: A gambling addict stole more than £22,000 from her grandmother's 98-year-old partner to blow on her scratchcard habit, a court heard.
+Sentence 2: Marylin Stoneman had been entrusted with the vulnerable victim's pin number, cheque books and bank cards to manage his financial affairs after he went into care at Cedar House, Rothley.
+Sentence 3: But the court heard that she abused that trust and began withdrawing up to £200 a day to feed her gambling habit.
+Sentence 4: The 64-year-old admitted stealing £22,650 from the elderly victim but was ordered to pay back just £1,350 - which was all that remained of the stolen funds.
+Sentence 5: The theft was  discovered after the deputy manager of the care home became suspicious that Stoneman's step-grandfather, Douglas Woodrow, was receiving a number of letters from the bank.
+Sentence 6: On August 19, he asked a member of staff to open one of the letters which indicated the victim had no money left in his accounts.
+Sentence 7: The care home alerted Lloyds Bank in Loughborough, where they noticed unauthorised cash withdrawals had taken place from July 2013 and the police were contacted.
+Sentence 8: Leicester Crown Court heard that Stoneman was 'solely responsible' and 'had been waiting for the police.'
+Sentence 9: She had also taken an overdose as a result, the court heard.
+
+Annotator 0: Sentences 0 (importance 3), 2 (importance 3), 5 (importance 2)
+Annotator 1: Sentences 7 (importance 3), 5 (importance 2), 2 (importance 1)
+Annotator 2: Sentences 0 (importance 3), 2 (importance 2), 4 (importance 1)
+Annotator 3: Sentences 6 (importance 3), 5 (importance 2), 2 (importance 1)
+Annotator 4: Sentences 9 (importance 2), 8 (importance 1)
+
+
+Sentence 0: V.Stiviano, the alleged mistress of Clippers owner Donald Sterling, who he showered with expensive gifts, has been ordered to pay his wife $2.6million.
+Sentence 1: Los Angeles judge Richard Fruin Jr. awarded Shelly Sterling most of the nearly $3million she had sought.
+Sentence 2: Lawyers for Sterling had claimed that money used to buy V. Stiviano a house, luxury cars and stocks was her community property the couple had acquired over six decades of marriage.
+Sentence 3: Stiviano's lawyer had argued that the gifts were made when Donald and Shelly were separated and that Shelly Sterling couldn't seek them from a third party.
+Sentence 4: Scroll down for video .
+Sentence 5: Shelly Sterling has been awarded nearly all of the $3 million she had sought to be returned from V. Stiviano, who had argued that the gifts were made when Donald Sterling was separated from his wife .
+Sentence 6: Tuesday's ruling comes nearly a year after Stiviano's recording of Donald Sterling making racially offensive remarks bounced him from the NBA and cost him team ownership.
+Sentence 7: Shelly Sterling's lawyers used other recordings to show he bought Stiviano a house, a Ferrari and other things.
+Sentence 8: In the recordings on Stiviano's iPhone, she and the 80-year-old billionaire are heard discussing how to shield gifts from his wife.
+Sentence 9: 'The truth is that everything that I have, you've given me from your heart without me begging or asking or throwing myself all over you,' Stiviano said in snippet played in court.
+
+Annotator 0: Sentences 2 (importance 3), 0 (importance 2), 1 (importance 1)
+Annotator 1: Sentences 2 (importance 2), 0 (importance 1)
+Annotator 2: Sentences 2 (importance 2), 7 (importance 2), 0 (importance 1)
+Annotator 3: Sentences 9 (importance 3), 5 (importance 2), 1 (importance 1)
+Annotator 4: Sentences 2 (importance 3), 0 (importance 2), 5 (importance 1)
+
+
+Sentence 0: Detectives have released a CCTV image of a woman (pictured) they want to trace after £60 was stolen from an epileptic woman's handbag .
+Sentence 1: A 'despicable' thief who stole £60 from an epileptic woman's handbag after she collapsed and suffered a violent fit is being hunted by police.
+Sentence 2: Detectives have released a CCTV image of a woman they want to trace after the money was stolen in Ryemarket Shopping Centre, Stourbridge, West Midlands.
+Sentence 3: The female victim collapsed and started violently fitting in a seizure that lasted 20 minutes, leaving her in 'great distress'.
+Sentence 4: Passers-by rushed to comfort her but police believe one person took advantage of the drama, reaching into the woman's handbag and stealing £60 cash.
+Sentence 5: Officers said the CCTV showed a woman moving the victim's shopping trolley before leaving the market on the afternoon of April 7, West Midlands Police said.
+Sentence 6: She has been  described as a white woman in her 30s or 40s, around 5ft 5in tall and with long dark hair which was tied back in a ponytail.
+Sentence 7: Detective Inspector Nigel Smith said: 'It's a truly despicable crime. '
+Sentence 8: The lady is clearly in great distress on the floor and, while most people's immediate concern is for her well-being, one person sees it as an opportunity to steal from her.
+Sentence 9: ' The victim made a full recovery and only realised her money had gone after the incident.
+
+Annotator 0: Sentences 2 (importance 3), 3 (importance 3), 0 (importance 2)
+Annotator 1: Sentences 4 (importance 3), 2 (importance 2), 1 (importance 1)
+Annotator 2: Sentences 4 (importance 3), 2 (importance 2), 0 (importance 1)
+Annotator 3: Sentences 0 (importance 3), 1 (importance 3), 8 (importance 2)
+Annotator 4: Sentences 8 (importance 2)
+
+
+Sentence 0: A gay porn star allegedly blackmailed a wealthy California man out of $500,000 by threatening to reveal details of his personal life.
+Sentence 1: Teofil Brank, better known by his stage name Jarec Wentworth, was arrested on March 4 by the FBI in Los Angeles.
+Sentence 2: Investigators said he tried to exact the ownership of a condo and $1 million in cash from the victim, who has only been identified as D.B. Teofil Brank, better known by his stage name Jarec Wentworth, was arrested on March 4 by the FBI in Los Angeles on blackmail charges .
+Sentence 3: Investigators said Brank tried to exact the ownership of a condo and $1 million in cash from the victim .
+Sentence 4: In a March 20 indictment, Brank was charged with felony extortion by threatening to injure someone's reputation.
+Sentence 5: He faces up to two years in prison.
+Sentence 6: In text messages to the victim, Brank threatened to post photos and other details of the man's trysts through his Twitter account, according to the affidavit.
+Sentence 7: Prosecutors said the accused published a damaging comment online about the unidentified man, then removed it, the LA Times reported.
+Sentence 8: The porn star wrote in text messages to the victim in February: 'I'm just going to bite hard.
+Sentence 9: I want a new car,motorcycle and both hands full of cash.
+
+Annotator 0: Sentences 3 (importance 3), 4 (importance 2), 1 (importance 1)
+Annotator 1: Sentences 8 (importance 3), 2 (importance 2), 1 (importance 1)
+Annotator 2: Sentences 0 (importance 2), 5 (importance 2), 2 (importance 1)
+Annotator 3: Sentences 1 (importance 3), 4 (importance 3), 8 (importance 2)
+Annotator 4: Sentences 0 (importance 3), 3 (importance 3), 6 (importance 3)
+
+
+Sentence 0: Two sons of an ailing bestselling true crime writer are accused of defrauding and bullying her into giving them more than $125,000 - despite the pair already receiving a monthly allowance of $25,000 combined with their two sisters through their mother's corporation.
+Sentence 1: Ann Rule's son, 54-year-old Andrew Rule, is accused of bullying her into giving him $23,327, according to court documents, and admitted to authorities that he blew the money given to him on gambling and strip clubs.
+Sentence 2: Michael Rule, 51, who receives approximately $9,000 a month between salaries paid to him and his wife by Rule Enterprises, LLC, is accused of forging his mother's signature on her checks from March 2014 to February 2015 amounting to $103,628.
+Sentence 3: Prosecutors have filed a restraining order against both men to stay away from Ann Rule, and the two sons accused of wrongdoing are set to appear in court on April 30.
+Sentence 4: Famous true crime writer Ann Rule (above), 84, had more than $100,000 allegedly stolen and defrauded from her by her two sons .
+Sentence 5: Ann Rule, 84, is known for many of her crime books, notably the 1980 bestseller The Stranger Beside Me based on serial killer Ted Bundy.
+Sentence 6: She has published 33 books and eight of those have been turned into movies including Ann Rule Presents: The Stranger Beside Me and Small Sacrifices.
+Sentence 7: The Washington-based author has been in declining health since 2013 after she broke her hip, she also suffers from periods of extreme confusion and is vulnerable to undue influence, according to the Huffington Post.
+Sentence 8: Court documents also said she is 'largely confined to a wheelchair', is unable to 'perform many activities of daily living without assistance' and 'she is on oxygen at all times'.
+Sentence 9: Her son-in-law, Glen Scorr, alerted authorities in March after he became suspicious that she was being 'financially exploited' by her two sons.
+
+Annotator 0: Sentences 1 (importance 3), 2 (importance 2), 0 (importance 1)
+Annotator 1: Sentences 1 (importance 2), 3 (importance 2), 8 (importance 2)
+Annotator 2: Sentences 2 (importance 3), 1 (importance 2), 0 (importance 1)
+Annotator 3: Sentences 0 (importance 3), 1 (importance 3), 2 (importance 3)
+Annotator 4: Sentences 0 (importance 3), 1 (importance 3), 2 (importance 3)
+
+
+Sentence 0: Marcus Copeland, 44, admitted one count of fraud at Caernarfon Crown Court.
+Sentence 1: He was told he faces jail .
+Sentence 2: A top mortgage broker who bragged that he ‘spared no expense’ to build his dream home is facing jail after conning a bank into giving him the money for it.
+Sentence 3: Marcus Copeland, 44, splashed out almost £1million to complete the six- bedroomed eco house.
+Sentence 4: He sourced specialist Scottish stone and installed the latest environmentally friendly technologies to make the house in Cwm Dyserth, near St Asaph, North Wales, one of the most ‘green’ new builds in the country.
+Sentence 5: But yesterday it emerged that the married father-of-two’s dream had become a nightmare, after he admitted lying on mortgage forms to secure more than £800,000 for the property.
+Sentence 6: At Caernarfon Crown Court the former journalist, who was once named best mortgage broker in the Midlands and Wales, admitted two counts of fraud by lying to Abbey National about the profitability of his business to secure the £847,000 loan in March 2007.
+Sentence 7: At an earlier hearing, he also pleaded guilty to five charges of deception after he used his position to inflate the salaries of five of his clients and help them obtain mortgages totalling £686,000.
+Sentence 8: Jonathan Austin, defending, said Copeland maintained that all the customers knew he had boosted their wages when making the applications.
+Sentence 9: The barrister added that none of the loans had ever been defaulted upon.
+
+Annotator 0: Sentences 8 (importance 3), 6 (importance 2)
+Annotator 1: Sentences 9 (importance 3), 8 (importance 2), 7 (importance 1)
+Annotator 2: Sentences 5 (importance 3), 4 (importance 2), 2 (importance 1)
+Annotator 3: Sentences 4 (importance 3), 7 (importance 3), 6 (importance 2)
+Annotator 4: Sentences 4 (importance 3), 3 (importance 2)
+
+
+Sentence 0: A counterfeit drug gang has been jailed after raking in £10million by selling fake Viagra while pretending to be a fishing tackle business.
+Sentence 1: Judge Charles Wide QC described it as a 'highly organised, large-scale criminal enterprise' which risked the health of members of the public, as he sentenced the gang at the Old Bailey.
+Sentence 2: The UK-wide conspiracy offered cheap erectile dysfunction pills to online and face-to-face customers around the world.
+Sentence 3: This was a 'sophisticated and carefully planned' scam which had bases in north-east Lincolnshire and Sussex, the judge said.
+Sentence 4: A counterfeit drug gang has been jailed after raking in £10million by selling fake Viagra.
+Sentence 5: Neil Gilbert (pictured left) was jailed for six years and Catherine Laverick (right) was sentenced to three years and 10 months .
+Sentence 6: He said the 'the real mischief is the catastrophic damage that could be caused' to the public, noting that genuine drug companies had pointed out that acid, brick dust and road paint had been found in fake Viagra.
+Sentence 7: One group based in southern England was headed by Neil Gilbert, 42, who made up to £60,000 a week selling unlicensed and counterfeit drugs to unsuspecting customers.
+Sentence 8: The northern branch was led by Thailand-based Stephen Laverick, but his ex-wife Catherine Laverick, 47, was in charge of day-to-day operations in the UK.
+Sentence 9: And their family members and friends were recruited to assist with the massive criminal enterprise.
+
+Annotator 0: Sentences 9 (importance 3), 8 (importance 2), 7 (importance 1)
+Annotator 1: Sentences 8 (importance 2)
+Annotator 2: Sentences 8 (importance 3), 6 (importance 2), 7 (importance 2)
+Annotator 3: Sentences 0 (importance 3), 7 (importance 2), 1 (importance 1)
+Annotator 4: Sentences 6 (importance 3), 4 (importance 2), 2 (importance 1)
+
+
+Sentence 0: This is the shocking moment a single mother was caught on a hidden camera stealing money from the wallet of her boyfriend’s frail 89-year old grandfather.
+Sentence 1: Hayley Adams, 29, of Barnstaple, Devon, was seen sneaking into William Tanner’s bedroom and taking cash from his coat, after a CCTV device was put in the room by his daughter Angela Wrenn.
+Sentence 2: Ms Wrenn, 56, had earlier expressed concern that his money kept going missing, but was shocked to discover the culprit was a trusted relative - and the mother to Mr Tanner’s great-grandchildren.
+Sentence 3: While Adams admitted to taking about £65, North Devon Magistrates' Court was told that the victim's relatives suspected the amount stolen in one year was closer to thousands of pounds.
+Sentence 4: Caught: Hayley Adams (above), 29, of Barnstaple, Devon, was seen sneaking into William Tanner’s bedroom and taking cash from his coat, after a CCTV device was put in the room by his daughter Angela Wrenn .
+Sentence 5: The videos were handed to police and have now led to Adams being convicted of three counts of theft - although she escaped with a community order, restraining order and a total fine of £175.
+Sentence 6: Mr Tanner told the court he was left feeling violated and vulnerable after Adams stole money during several visits to his house in Barnstaple.
+Sentence 7: Karen Ball, prosecuting, said the victim noticed money going missing from his wallet and thought at first he was being forgetful.
+Sentence 8: She said he lived with his daughter Ms Wrenn who then became suspicious about Adams’s behaviour - so secretly installed the CCTV.
+Sentence 9: Adams visited frequently and was overheard telling friends she had no money to go out with them, before she suddenly acquired some.
+
+Annotator 0: Sentences 1 (importance 3), 3 (importance 3), 4 (importance 3)
+Annotator 1: Sentences 3 (importance 3), 5 (importance 2)
+Annotator 2: Sentences 8 (importance 3), 3 (importance 2), 5 (importance 1)
+Annotator 3: Sentences 6 (importance 2), 8 (importance 2), 5 (importance 1)
+Annotator 4: Sentences 4 (importance 3), 5 (importance 3), 1 (importance 2)
+
+
+Sentence 0: Police have charged a woman with fraud after she allegedly faked a terminal illness to raise thousands of dollars from sympathetic strangers.
+Sentence 1: In August 2014 Elizabeth 'Elle' Edmunds established an online fundraising page claiming she had ovarian cancer and seeking money for medical treatment.
+Sentence 2: Police alleged the 31-year-old mother from Belmont, near Newcastle in NSW, used a falsified doctor's certificate stating she had terminal cancer to raise about $2500 from her page.
+Sentence 3: In February, Ms Edmunds told a Belmont Local Court she was put up to the act by her violent partner John Heagney, and did it because she feared for her life.
+Sentence 4: Elizabeth 'Elle' Edmunds, 31, was issued a court notice this week for the offence of two counts of obtaining benefits by deception, after she faked having terminal cancer to raise money in 2014 .
+Sentence 5: In October, a report was made to police regarding Ms Edmund's activities, and detectives from the Lake Macquarie Local Area Command soon after launched an investigation.
+Sentence 6: She was issued a court notice this week for the offence of two counts of obtaining benefits by deception, and will appear at Belmont Local Court in June.
+Sentence 7: Police inquiries into the matter are continuing and investigators are appealing for anyone with information to come forward.
+Sentence 8: Ms Edmunds went into hiding after revelations of her alleged fraud came to light last year.
+Sentence 9: ‘I was in fear for my life,’ she told Belmont Local Court, near Lake Macquarie in the Hunter Valley north of Sydney, at a hearing in February.
+
+Annotator 0: Sentences 0 (importance 3), 2 (importance 2), 1 (importance 1)
+Annotator 1: Sentences 5 (importance 3), 4 (importance 1)
+Annotator 2: Sentences 8 (importance 3), 7 (importance 2), 6 (importance 1)
+Annotator 3: Sentences 6 (importance 3), 3 (importance 2), 1 (importance 1)
+Annotator 4: Sentences 2 (importance 3), 4 (importance 2)
+
+
+Sentence 0: Mila Kunis is to counter-sue the woman who is suing her for stealing her chicken.
+Sentence 1: The actress and her fiance Ashton Kutcher responded to the impending lawsuit with a tongue-in-cheek video, claiming they were going to file a lawsuit against the accuser Kristina Karo, because of injuries suffered while being forced to watch her music video.
+Sentence 2: On Wednesday the story broke that the 31-year-old was being sued for $5,000 by a woman claiming to be her former childhood friend, who said she suffered emotional trauma when a seven-year-old Kunis stole her pet foul.
+Sentence 3: Fight fire with fire: Mila Kunis has responded to Kristina Karo's accusations she stole her chicken as a child, with a video claiming she will counter-sue for injuries sustained while watching Karo's music video .
+Sentence 4: But within hours Kutcher had posted a video - obtained by TMZ - pointing out some of the holes in Karo's story.
+Sentence 5: 'Let's just get this clear: you stole a chicken from a one-month-old child who spoke to you in an entire conversation,' the 37-year-old declares in the self-shot vid.
+Sentence 6: 'It's just shocking to me.
+Sentence 7: Not only did she have a conversation at one-month old in Ukraine, she was speaking English!
+Sentence 8: This is the smartest girl I've ever heard of!
+Sentence 9: ' Kunis herself appears on the clip pointing out that it must be 'just coincidental' he accuser has a new music video out, and is trying to launch a singing career here in LA.
+
+Annotator 0: Sentences 2 (importance 3), 0 (importance 2), 3 (importance 2)
+Annotator 1: Sentences 5 (importance 3), 2 (importance 2), 1 (importance 1)
+Annotator 2: Sentences 1 (importance 2), 3 (importance 2), 2 (importance 1)
+Annotator 3: Sentences 4 (importance 3), 3 (importance 2), 2 (importance 1)
+Annotator 4: Sentences 1 (importance 3), 2 (importance 2), 3 (importance 1)
+
+
+Sentence 0: Disgraced former mayor Lutfur Rahman (pictured) is said to have played the race card to silence opponents - and his deputy today reiterated claims there is deep seated racism in the borough of Tower Hamlets, in east London .
+Sentence 1: A deputy of disgraced former mayor Lutfur Rahman yesterday appeared to blame the vote-rigging scandal on ‘institutional racism’.
+Sentence 2: Oliur Rahman, who took over from the deposed leader yesterday, insisted there was deep-rooted racism within the East London borough of Tower Hamlets.
+Sentence 3: His comment was at odds with a devastating legal ruling that condemned his predecessor for bribery and ballot fraud and found he had repeatedly ‘played the race card’ to silence critics.
+Sentence 4: The two men – who are not related – are both members of the Tower Hamlets First party.
+Sentence 5: Political opponents said they were playing the same ‘cracked record’ by seeking to blame racism and Islamophobia for their problems.
+Sentence 6: Oliur Rahman told the BBC: ‘If people say there is no racism in Tower Hamlets, then they are very much mistaken because there is institutional racism.
+Sentence 7: ‘If people want to turn a blind eye to the racism then that’s their decision but they are very much mistaken if they turn round and say there is no racism in Tower Hamlets, and that people are not judged because of their skin colour and their religion.’
+Sentence 8: On Thursday, electoral judge Richard Mawrey QC found that Lutfur Rahman, 49, and his cronies had rigged the 2014 mayoral ballot by creating an army of ‘ghost voters’, forging postal votes, bribing Muslim voters and using religious intimidation against them and branding opponents as racists.
+Sentence 9: He found that all the councillors from the Tower Hamlets First party were elected corruptly.
+
+Annotator 0: Sentences 9 (importance 1)
+Annotator 1: Sentences 2 (importance 3), 0 (importance 2), 3 (importance 2)
+Annotator 2: Sentences 8 (importance 3), 9 (importance 2)
+Annotator 3: Sentences 3 (importance 3), 0 (importance 1)
+Annotator 4: Sentences 5 (importance 3), 1 (importance 2)
+
+
+Sentence 0: (CNN)Remember the Tuskegee syphilis experiment from the 1930s?
+Sentence 1: Scientists studied poor African-Americans in Alabama who'd contracted the venereal disease but didn't tell them they had the disease or do anything to cure them.
+Sentence 2: A lawsuit filed this week alleges Johns Hopkins University and the Rockefeller Foundation helped conduct a similar study in Guatemala from 1945 to 1956.
+Sentence 3: Orphans, inmates, psychiatric patients and prostitutes were deliberately infected with sexually transmitted diseases to determine what drugs, including penicillin, worked best in stopping the diseases, the lawsuit says.
+Sentence 4: The subjects of the experiments weren't told they'd been infected, the lawsuit says, causing some to die and others to pass the disease to their spouses, sexual partners and children.
+Sentence 5: The suit seeks more than $1 billion in damages and has 774 plaintiffs, including people who were subjects in the experiments and their descendants.
+Sentence 6: This is the second attempt to collect damages.
+Sentence 7: In 2012, a class-action federal lawsuit was filed against the U.S. government over the Guatemala experiments conducted by the U.S. Public Health Service.
+Sentence 8: A judge dismissed it, saying the Guatemalans could not sue the United States for grievances that happened overseas.
+Sentence 9: The new lawsuit was filed in the Baltimore City Circuit Court.
+
+Annotator 0: Sentences 6 (importance 3), 3 (importance 2), 1 (importance 1)
+Annotator 1: Sentences 2 (importance 2), 3 (importance 2), 4 (importance 2)
+Annotator 2: Sentences 1 (importance 3), 5 (importance 2), 4 (importance 1)
+Annotator 3: Sentences 3 (importance 3), 2 (importance 2), 4 (importance 2)
+Annotator 4: Sentences 5 (importance 3), 3 (importance 2)
+
+
+Sentence 0: In one of the biggest cheating scandals of its kind in the U.S., 11 former Atlanta public school educators were convicted Wednesday of racketeering for their role in a scheme to inflate students' scores on standardized exams.
+Sentence 1: The defendants - including teachers, a principal and other administrators - were accused of falsifying test results to collect bonuses or keep their jobs in the 50,000-student Atlanta school system.
+Sentence 2: The educators fed answers to students or erased and changed the answers on tests after they were turned in to secure promotions or up to $5,000 each in bonuses, the court was told.
+Sentence 3: However the person accused of benefiting the most from the conspiracy, Superintendent Beverly Hall - who is thought to have received up to $500,000 in bonus payouts - died of breast cancer over the course of the trial.
+Sentence 4: A 12th defendant, a teacher, was acquitted of all charges by the jury this week.
+Sentence 5: The 11 will all be sentenced on April 8 and could face up to 20 years in prison for the racketeering charges.
+Sentence 6: They were all found guilty under the the Racketeer Influenced and Corrupt Organizations Act, or RICO, which is typically reserved for major mobsters and organized crime bosses.
+Sentence 7: Scroll down for video .
+Sentence 8: Convicted: Donald Bullock, left, former Atlanta Public Schools Usher-Collier Heights Elementary testing coordinator, is led to a holding cell after a jury found him guilty in the Atlanta Public Schools cheating trial .
+Sentence 9: Cheating: During the trial prosecutors accused a dozen former teachers, principals and administrators of erasing incorrect answers or instructing students to change their answers to secure promotions and cash bonuses in 2009.
+
+Annotator 0: Sentences 6 (importance 3), 4 (importance 2), 1 (importance 1)
+Annotator 1: Sentences 6 (importance 3), 2 (importance 2), 0 (importance 1)
+Annotator 2: Sentences 4 (importance 3), 6 (importance 2), 1 (importance 1)
+Annotator 3: Sentences 1 (importance 3), 2 (importance 3), 0 (importance 2)
+Annotator 4: Sentences 0 (importance 3), 1 (importance 2), 3 (importance 1)
+
+
+Sentence 0: Former NFL cornerback Will Allen and his business partner are facing civil fraud charges from federal regulators over allegations the pair ran a multi-million dollar Ponzi scheme.
+Sentence 1: They're accused of reaping more than $31 million in a Ponzi scheme that promised high returns to investors from funding loans to cash-strapped pro athletes.
+Sentence 2: The Securities and Exchange Commission announced the charges Monday against William D. Allen, Susan Daub and their Capital Financial Partners investment firms.
+Sentence 3: Allen, 36, was a cornerback in the NFL from 2001 to 2012, playing for the New York Giants and the Miami Dolphins.
+Sentence 4: Accused: Former NFL cornerback Will Allen and his business partner are facing civil fraud charges from federal regulators over allegations the pair ran a multi-million dollar Ponzi scheme (file photo) He was signed by the New England Patriots in March 2012 but was placed on injured reserve the following August, and he left football in March 2013.
+Sentence 5: Daub, 54, is a financial professional who also lives in Florida, according to the SEC.
+Sentence 6: The SEC said Allen and Daub paid about $20 million to investors but received only around $13 million in loan repayments from athletes.
+Sentence 7: To make up the gap they paid investors with other investors' money rather than actual profits on the investments, in a classic Ponzi scheme, the agency said.
+Sentence 8: The SEC said Allen and Daub misled investors about the terms and even the existence of some of the loans, telling them they could receive interest on the loans of up to 18 percent from the athletes.
+Sentence 9: The pair used some funds from investors to cover personal charges at casinos and nightclubs and to finance other business ventures, the agency alleged.
+
+Annotator 0: Sentences 7 (importance 3), 1 (importance 2), 6 (importance 2)
+Annotator 1: Sentences 9 (importance 3), 8 (importance 2), 7 (importance 1)
+Annotator 2: Sentences 4 (importance 3), 2 (importance 2), 1 (importance 1)
+Annotator 3: Sentences 9 (importance 3), 8 (importance 2), 7 (importance 1)
+Annotator 4: Sentences 4 (importance 3), 1 (importance 2), 0 (importance 1)
+
+
+Sentence 0: Joanna Goodall (pictured outside court) stole £19,000 from the Premier Inn hotel where she worked as a receptionist .
+Sentence 1: A receptionist who stole £19,000 from the hotel she worked at has been told to pay back just £1.
+Sentence 2: Joanna Goodall forged signatures of customers and colleagues for cash refunds at a Premier Inn in Newcastle and took the money for herself.
+Sentence 3: Bosses noticed the high level of refunds and CCTV showed Goodall taking money from the till.
+Sentence 4: The 30-year-old mother, who is pregnant, admitted the thefts between March 2013 and February 2014 at Newcastle Crown Court.
+Sentence 5: Goodall, of Lemington in Newcastle, was given a nine-month suspended sentence but ordered to pay back just £1 under the Proceeds of Crime Act as she has no assets.
+Sentence 6: Mr Recorder Wheeler told her: 'You have a number of personal issues, family issues and health issues. '
+Sentence 7: You were subject to a lot of stress as a result of other people leaning on you for support and trying to balance your life and keep everyone happy.
+Sentence 8: The way you chose to do that ultimately was to steal from your employer.
+Sentence 9: ' Prosecutors had initially accused her of stealing £35,000, but accepted her guilty plea on the basis of the amount being around £19,000.
+
+Annotator 0: Sentences 3 (importance 2), 6 (importance 2), 8 (importance 2)
+Annotator 1: Sentences 7 (importance 3), 5 (importance 2), 1 (importance 1)
+Annotator 2: Sentences 4 (importance 3), 1 (importance 2), 0 (importance 1)
+Annotator 3: Sentences 1 (importance 3), 2 (importance 3), 3 (importance 2)
+Annotator 4: Sentences 3 (importance 2), 4 (importance 2), 6 (importance 1)
+
+
+Sentence 0: Diamond fraudster Anna Foord jetted around the world buying designer shoes and bags using cash she swindled from her victims .
+Sentence 1: A diamond fraudster who jetted around the world buying designer shoes and bags using the cash she swindled from her victims is facing jail.
+Sentence 2: Anna Foord, of Elstree, Hertfordshire, convinced investors to buy low grade gems overvalued by up to 2,000 per cent, a court heard.
+Sentence 3: The 30-year-old even flew to New York to shop in Fifth Avenue's most exclusive boutiques using the money she made.
+Sentence 4: She was part of a gang of fraudsters who lived lavish lifestyles by selling investors coloured diamonds in the £1.5m 'boiler room' scam.
+Sentence 5: But they were arrested and Foord was convicted of conspiracy to defraud and money laundering today while other members of the gang admitted similar charges.
+Sentence 6: Foord was clutching a £1,000 Louis Vuitton bag when police arrested her while it was later revealed how she had her collection of expensive Jimmy Choo shoes destroyed in an attempt to conceal the fraud.
+Sentence 7: The court heard how smooth-talking salesmen convinced clients the diamonds were a better investment prospect than gold and would pay handsome returns.
+Sentence 8: But in reality, the diamonds were 'what the miners leave on the floor' and the gang were using their victims as 'cash cows', the court heard.
+Sentence 9: Prosecutor Esther Schutzer-Weissman told how diamond investors lost in excess of £1.5m. 'The caller was persuasive, the caller was persistent and always suggesting to the investor that purchasing coloured diamonds was an investment that would get good and reliable returns,' she said.
+
+Annotator 0: Sentences 5 (importance 2), 4 (importance 1)
+Annotator 1: Sentences 6 (importance 3), 8 (importance 3), 4 (importance 2)
+Annotator 2: Sentences 5 (importance 3), 1 (importance 2), 3 (importance 2)
+Annotator 3: Sentences 6 (importance 2), 7 (importance 2), 5 (importance 1)
+Annotator 4: Sentences 6 (importance 3), 5 (importance 2), 4 (importance 1)
+
+
+Sentence 0: An Iowa lottery worker is accused of manipulating the system to try and collect a $14.3million payday.
+Sentence 1: Eddie Raymond Tipton, 51, of Norwalk, Iowa, was originally charged with two felony counts of fraud when he was arrested in January for illegally playing the lottery and having a friend collect his prize, but now prosecutors say he used an intricate system to make sure he would win.
+Sentence 2: They argue he installed a self-destructing hack program to make sure the Random Number Generator selected his number in December 2010, and that he tampered with security cameras in the building so he would not be caught installing the program.
+Sentence 3: Scroll down for video .
+Sentence 4: Eddie Raymond Tipton (above) of Norwalk, Iowa was charged with two felony counts of fraud for illegally playing the lottery .
+Sentence 5: Now prosecutors believe the Iowa lottery worker used an intricate hack to ensure his numbers were drawn by the system .
+Sentence 6: 'There is sufficient evidence for a jury to reasonably conclude from the evidence that Defendant tampered with lottery equipment,' prosecutors wrote in their filing according to Lottery Post.
+Sentence 7: His trial had been due to start Monday but defense lawyers asked for it to be delayed to they could examine the new evidence.
+Sentence 8: Authorities had been trying to identify the winner of the $14.3 million Hot Lotto ticket since a New York lawyer tried to claim the prize shortly before the one-year deadline in 2011.
+Sentence 9: When attorney Crawford Shaw tried to claim the jackpot with the winning ticket in his hands, lottery officials confirmed the ticket was valid, but they refused to pay because Shaw wouldn't name anyone involved with the purchase and handling of the ticket.
+
+Annotator 0: Sentences 7 (importance 3), 6 (importance 2), 8 (importance 1)
+Annotator 1: Sentences 2 (importance 3), 1 (importance 2), 0 (importance 1)
+Annotator 2: Sentences 0 (importance 3), 2 (importance 2), 8 (importance 2)
+Annotator 3: Sentences 2 (importance 3), 1 (importance 2), 0 (importance 1)
+Annotator 4: Sentences 1 (importance 3), 2 (importance 3), 0 (importance 1)
+
+
+Sentence 0: Payback: Scammer Rilwan Oshodi has been told he must repay nearly £1million in fraudulent gains .
+Sentence 1: A scammer who was the ringleader of a fraud gang has been ordered to repay nearly £1million which he stole from the life savings of an innocent victim.
+Sentence 2: Rilwan Oshodi bought Karen Budow's bank account details for just £3,200 and spent her savings on cheeseburgers, bottles of champagne and top-of-the-range computers.
+Sentence 3: He now claims he is so broke he can't even pay his lawyers - but a judge told him today that if he does not return his ill-gotten gains he will have to spend four more years in prison.
+Sentence 4: Nigerian Oshodi, 31, bought Ms Budow's Santander details from an Egyptian hacker Tamer Abdulhamid, who had persuaded her to hand them over as part of a fishing scam.
+Sentence 5: His girlfriend Annette Jabeth then posed as the victim and withdrew her £1million life savings, which the gang spent in a three-day shopping splurge in the New Year sales in January 2012.
+Sentence 6: Detectives said that their purchases had ranged from cheeseburgers to high-end computers and gold', while Oshodi spent £1,134 on taxis and bought expensive gadgets including a MacBook and an iPhone.
+Sentence 7: One picture of him even appears to show him holding a 'money sandwich', with Nigerian banknotes stashed between two slices of bread.
+Sentence 8: He was jailed for eight years in 2013 after being convicted of two counts of conspiracy to defraud and conspiracy to conceal criminal property.
+Sentence 9: Appearing at Southwark Crown Court for a confiscation hearing today, Oshodi insisted he had not profited from the scam, and denied hiding money in overseas bank accounts.
+
+Annotator 0: Sentences 2 (importance 3), 5 (importance 3), 1 (importance 2)
+Annotator 1: Sentences 5 (importance 3), 4 (importance 2), 3 (importance 1)
+Annotator 2: Sentences 4 (importance 3), 6 (importance 3), 2 (importance 2)
+Annotator 3: Sentences 5 (importance 2), 8 (importance 2), 6 (importance 1)
+Annotator 4: Sentences 4 (importance 1)
+
+
+Sentence 0: The Tories have accepted hundreds of thousands of pounds from a businessman whose company duped thousands of families in a mis-selling scandal.
+Sentence 1: Multi-millionaire Richard Harpin has given the Tories £375,000 since 2008 – including £50,000 in the first week of the election campaign, official records show.
+Sentence 2: The revelation will raise fresh questions for David Cameron over his links to millionaire donors.
+Sentence 3: Multi-millionaire Richard Harpin has given the Tories £375,000 since 2008 – including £50,000 in the first week of the election campaign .
+Sentence 4: Mr Harpin is the chief executive of HomeServe – the maintenance firm which styles itself as the UK's 'fifth emergency service'.
+Sentence 5: But the firm was handed a record £30million fine last year for selling families expensive home insurance cover using misleading information and hard sell tactics.
+Sentence 6: The fine came on top of some £40million it is paying in refunds to thousands of wronged customers who took out the policies.
+Sentence 7: Industry regulator the Financial Conduct Authority found customers were misled or bullied into taking out policies they did not need or did not cover all the problems claimed.
+Sentence 8: The company – which claims it offers peace of mind to consumers who are worried about losing their boiler or water supply in the dead of winter – has three million customers in the UK, holding 7.5million policies.
+Sentence 9: Tory donor Mr Harpin founded the company in 1993.
+
+Annotator 0: Sentences 1 (importance 1), 7 (importance 1), 8 (importance 1)
+Annotator 1: Sentences 8 (importance 2), 5 (importance 1)
+Annotator 2: Sentences 0 (importance 3), 1 (importance 3), 5 (importance 3)
+Annotator 3: Sentences 8 (importance 3), 2 (importance 2), 1 (importance 1)
+Annotator 4: Sentences 0 (importance 3), 7 (importance 3), 5 (importance 2)
+
+
+Sentence 0: German banking giant Deutsche Bank will pay $2.5 billion in fines for its role in a vast multi-year conspiracy to rig LIBOR interest rates, US and British authorities said on Thursday.
+Sentence 1: 'Deutsche Bank secretly conspired with its competitors to rig the benchmark interest rates at the heart of the global financial system,' said US Assistant Attorney General Bill Baer.
+Sentence 2: 'Deutsche Bank's misconduct not only harmed its unsuspecting counterparties, it undermined the integrity and the competitiveness of financial markets everywhere.'
+Sentence 3: German banking giant Deutsche Bank will pay $2.5 billion in fines for its role in a vast multi-year conspiracy to rig LIBOR interest rates, US and British authorities said on Thursday .
+Sentence 4: The case centers on charges that Deutsche Bank derivatives traders manipulated the London InterBank Offered Rate, used to peg millions of interest rate-sensitive contracts and loans around the world, from at least 2003-2011 to boost their trading positions.
+Sentence 5: Under the deferred prosecution agreement,  Deutsche Bank agreed to plead guilty to a US charge of wire fraud, a criminal offense, in connection with the scam and admitted participating in price-fixing conspiracy with other banks.
+Sentence 6: Deutsche Bank employees defrauded counterparties in emails, telephone calls and electronic chats, the US said.
+Sentence 7: The $2.5 billion fine is a record for interest-rate manipulation.
+Sentence 8: The largest German bank will pay $775 million in penalties to the Justice Department, $800 million to the US Commodity Futures Trading Commission, $600 million to the New York Department of Financial Services and $344 million to Britain's Financial Conduct Authority.
+Sentence 9: The settlement agreement allows Deutsche Bank to keep its operating license in the United States.
+
+Annotator 0: Sentences 7 (importance 3), 3 (importance 2), 5 (importance 2)
+Annotator 1: Sentences 7 (importance 3), 4 (importance 2), 3 (importance 1)
+Annotator 2: Sentences 7 (importance 3), 4 (importance 2), 0 (importance 1)
+Annotator 3: Sentences 1 (importance 3), 4 (importance 2), 9 (importance 1)
+Annotator 4: Sentences 1 (importance 3), 4 (importance 3), 6 (importance 2)
+
+
+Sentence 0: A man  with bandages wrapped around his face stormed into a bank in a coastal town before fleeing with a 'significant' amount of cash in a bizarre robbery, police have revealed.
+Sentence 1: The thief entered a branch of Lloyds bank in New Milton, Hampshire before threatening cashier staff and ordering them to hand over money.
+Sentence 2: The man, whose face and hands were heavily swathed in bandages, then fled from the Station Road bank.
+Sentence 3: The thief entered a branch of Lloyds bank in New Milton, Hampshire (pictured) before threatening cashier staff and ordering them to hand over money .
+Sentence 4: After the robbery on Thursday, a spokesman for Hampshire police said: 'A man entered the front of the bank and approached the cashiers and demanded they hand over cash. '
+Sentence 5: He left via the entrance and made off up Station Road, turning left into an alleyway by Lloyds Pharmacy and into the car park on Spencer Road.
+Sentence 6: ' Detective Sergeant Paul Harrison said: 'This man was very distinctive.
+Sentence 7: He was wrapped in bandages which covered his face and hands.
+Sentence 8: Police say a 56-year-old man from New Milton has been arrested on suspicion of robbery .
+Sentence 9: 'Although he threatened staff, no weapon was produced and no staff or members of the public were harmed during this incident. '
+
+Annotator 0: Sentences 4 (importance 3), 3 (importance 2)
+Annotator 1: Sentences 6 (importance 2), 8 (importance 2), 3 (importance 1)
+Annotator 2: Sentences 1 (importance 2), 3 (importance 2), 5 (importance 2)
+Annotator 3: Sentences 0 (importance 3), 2 (importance 3), 1 (importance 2)
+Annotator 4: Sentences 1 (importance 3), 3 (importance 3), 4 (importance 3)
+
+
+Sentence 0: This is the moment two grinning conmen were caught on camera stealing an 80-year-old's savings from a cash machine after tricking him into handing over his bank cards and PIN.
+Sentence 1: The smiling fraudsters were unaware they had been caught by a pin-hole camera in the ATM as they withdrew the pensioner's cash on March 17.
+Sentence 2: The crooked pair had earlier posed as bank staff on the phone and convinced their vulnerable victim his debit cards needed to be recalled for security reasons.
+Sentence 3: Con: Two grinning conmen were caught on camera as they stole an 80-year-old man's savings after tricking him into giving them his debit cards and PINs .
+Sentence 4: Despicable: The smiling fraudsters were unaware they had been caught on a pin-hole camera in the ATM as they withdrew the pensioner's cash .
+Sentence 5: Scam: The pair had earlier posed as bank staff on the phone and convinced their vulnerable victim his debit cards needed to be recalled for security reasons .
+Sentence 6: They talked the man into divulging his security details and persuaded him to leave the cards in an envelope on the doorstep of his home in the village of Walsgrave-on-Sowe, Warwickshire, for 'couriers' to collect.
+Sentence 7: But less than two hours later, the cruel conmen were filmed using the same cards, laughing and joking as they stole £150 from a cash machine in Coventry.
+Sentence 8: West Midlands Police released the footage in a bid to identify the pair and bring them to justice.
+Sentence 9: Investigating officer PC Stuart Watson said: 'These are cruel men who've targeted an elderly man and panicked him with scare stories of a security recall of bank cards.
+
+Annotator 0: Sentences 0 (importance 3), 2 (importance 3), 7 (importance 2)
+Annotator 1: Sentences 1 (importance 2), 3 (importance 2)
+Annotator 2: Sentences 0 (importance 3), 2 (importance 3), 5 (importance 3)
+Annotator 3: Sentences 0 (importance 3), 2 (importance 3), 3 (importance 3)
+Annotator 4: Sentences 7 (importance 2), 9 (importance 2), 3 (importance 1)
+
+
+Sentence 0: (CNN)They used to do the guarding at Florida prisons.
+Sentence 1: Now they're the ones behind bars.
+Sentence 2: Two Florida corrections officers and one former officer trainee have been charged in a plot to kill a former inmate who was getting out of prison, the Florida Attorney General's office said Thursday.
+Sentence 3: An FBI informant met the men -- Thomas Jordan Driver, 25; David Elliot Moran, 47; and Charles Thomas Newcomb, 42 -- after infiltrating a branch of the KKK:  the Traditional American Knights of the Ku Klux Klan, CNN affiliate WJXT reported.
+Sentence 4: Driver told the informant that he had gotten into a fight with the inmate and that he and Moran wanted him "six feet under," according to court documents.
+Sentence 5: To convince the suspects that the deed had been done, the FBI staged a fake homicide scene with the former inmate and took pictures to show them that he had been killed.
+Sentence 6: "When the FBI staged this crime scene and these photographs were shown to each of these men, they were happy about it," said Statewide Prosecutor Nick Cox.
+Sentence 7: The three men are now facing up to 30 years in jail if convicted on one count each of conspiracy to commit murder.
+Sentence 8: "We will not tolerate nor will we ever remain silent over the violence of hatred embedded in prejudice in this country," Florida Attorney General Pam Bondi said.
+Sentence 9: CNN's Joe Sutton contributed to this report.
+
+Annotator 0: Sentences 6 (importance 3), 3 (importance 2), 0 (importance 1)
+Annotator 1: Sentences 7 (importance 3), 6 (importance 2), 5 (importance 1)
+Annotator 2: Sentences 2 (importance 3), 4 (importance 2), 3 (importance 1)
+Annotator 3: Sentences 2 (importance 1), 5 (importance 1), 6 (importance 1)
+Annotator 4: Sentences 2 (importance 3), 3 (importance 3), 7 (importance 3)
+
+
+Sentence 0: All but one of 10 former Atlanta public school educators convicted in a widespread conspiracy to inflate student scores on standardized tests were sentenced to jail time on Tuesday, as the judge called the cheating scandal 'the sickest thing that's ever happened in this town.'
+Sentence 1: Fulton County Superior Court Judge Jerry Baxter had delayed sentencing by a day and encouraged all to negotiate deals with prosecutors.
+Sentence 2: But only two agreed to deals.
+Sentence 3: In both those cases, Baxter followed the state's recommendations: He gave a former teacher a 7 p.m. to 7 a.m. curfew at home for one year and a former testing coordinator six months of weekends spent in jail.
+Sentence 4: They'll also serve five years on probation.
+Sentence 5: Scroll down for video .
+Sentence 6: Fulton County Superior Court Judge Jerry Baxter describes how the three former SRT directors were at the top of the chain during sentencing on Tuesday in Atlanta.
+Sentence 7: He called the cheating scandal 'the sickest thing that's ever happened in this town' Defense attorney Angela Johnson holds her hand on her client, former Atlanta public school teacher Pamela Cleveland.
+Sentence 8: She was the only one of the accused to avoid jail after she took a plea deal and was sentenced to 5 years, with 1 year of home confinement and curfew .
+Sentence 9: Despite their lawyers' pleas for probation and community service, the remaining eight received harsher sentences, ranging from one to seven years in jail.
+
+Annotator 0: Sentences 0 (importance 3)
+Annotator 1: Sentences 2 (importance 2), 3 (importance 1)
+Annotator 2: Sentences 7 (importance 3), 3 (importance 2), 0 (importance 1)
+Annotator 3: Sentences 3 (importance 2), 5 (importance 2), 2 (importance 1)
+Annotator 4: Sentences 7 (importance 2), 0 (importance 1)
+
+
+Sentence 0: Voters in last year's parliamentary by-elections lodged complaints about aggressive campaigning .
+Sentence 1: Voters in last year's parliamentary by-elections lodged complaints about aggressive campaigning tactics, fights between rival supporters, and bizarre activities on polling day, new data shows.
+Sentence 2: In one case, a voter complained that wealthy party donors were luring young activists to a key seat with the 'unfair' promise of free curry, nightclub entertainment and hotel stays.
+Sentence 3: Others, in letters of complaint to police forces and local authorities, accused politicians of 'fly-posting', while detectives were called when scraps broke out over conflicting 'political views'.
+Sentence 4: The details, released to the Press Association under the Freedom of Information Act, refer to the parliamentary by-elections in Clacton, Heywood and Middleton, Newark, Rochester and Strood, and Wythenshawe and Sale East.
+Sentence 5: One eagle-eyed viewer watching the live coverage of the Rochester and Strood by-election, won by Ukip's Tory defector Mark Reckless, was perturbed to see a person 'moving about among the tables and taking items' - something the viewer deemed 'suspicious', so reported it to Kent Police.
+Sentence 6: The same by-election saw six complaints made to Medway Council, one of which was about the apparent unsuitability of a candidate, as well as the length of time it took to count the votes and announce the result.
+Sentence 7: According to Greater Manchester Police (GMP) - whose force area included both the Wythenshawe and Sale East and Heywood and Middleton constituencies - one party organiser found their car was damaged while out delivering leaflets.
+Sentence 8: In another case, a campaigner was attacked by members of the National Front far-right group following a political discussion which escalated to violence.
+Sentence 9: Ukip activists in Newark drew a couple of complaints for fixing party posters to street furniture.
+
+Annotator 0: Sentences 2 (importance 3), 0 (importance 2), 1 (importance 1)
+Annotator 1: Sentences 1 (importance 2), 2 (importance 2), 3 (importance 2)
+Annotator 2: Sentences 0 (importance 2), 1 (importance 2), 2 (importance 2)
+Annotator 3: Sentences 5 (importance 3), 2 (importance 2), 0 (importance 1)
+Annotator 4: Sentences 2 (importance 3), 5 (importance 3), 3 (importance 2)
+
+
+Sentence 0: New York and Connecticut authorities are in search of a woman accused of stealing the identity of a cancer-stricken fashion executive who lay dying in a Manhattan hospital.
+Sentence 1: Surveillance cameras caught the thief taking $9,000 out of the account of Kate Sullivan at Chase branches in Commack and Freeport on September 23, 2014.
+Sentence 2: State police say the female suspect then racked up $4,000 in bills after opening four store credit cards in Sullivan's name in New Haven, Connecticut.
+Sentence 3: Thief: Surveillance cameras caught a thief (left) taking $9,000 out of the account of Kate Sullivan (right) at Chase branches in Commack and Freeport on September 23, 2014 .
+Sentence 4: Sullivan, who had lung cancer, was informed of the fraud while fighting for her life at Memorial Sloan Kettering Cancer Center in New York.
+Sentence 5: She died five days later.
+Sentence 6: The 50-year-old had worked as a marketing executive for fashion designers Kimora Lee Simmons and Diane von Furstenberg.
+Sentence 7: According to CBS New York, the suspect had Sullivan's Social Security number and a signed copy of her driver's license.
+Sentence 8: Other documents she allegedly used were forged.
+Sentence 9: Sullivan's family was, unsurprisingly, horrified by the news.
+
+Annotator 0: Sentences 8 (importance 3), 5 (importance 2), 3 (importance 1)
+Annotator 1: Sentences 1 (importance 3), 3 (importance 3)
+Annotator 2: Sentences 8 (importance 1), 9 (importance 1)
+Annotator 3: Sentences 4 (importance 3), 5 (importance 2), 3 (importance 1)
+Annotator 4: Sentences 1 (importance 3), 2 (importance 3), 3 (importance 3)
+
+
+Sentence 0: This a carer partying with friends and kissing her boyfriend in the hours after taking cash from two frail pensioners she stole £5,000 from.
+Sentence 1: Rebecca Calder, 24, who was jailed for a year today, went out drinking on the same night she used her victims' bank card to withdraw large amounts of money.
+Sentence 2: At her peak she was draining up to £300 a day from her disabled victims' accounts, spending it on nights out and items such as shoes.
+Sentence 3: Sentenced: Rebecca Calder, 24, who was jailed for a year today, went out drinking on the same night she used her victims' bank cards to withdraw large amounts of cash, pictured left and right .
+Sentence 4: Calder posted regular partying pictures of Facebook not knowing the family of the victims, a couple in their late 80s who have now died, had installed a spy camera and filmed her taking cash.
+Sentence 5: Officers discovered Calder had stolen more than £5,000 from the savings of the elderly couple who suffered from mental and physical disabilities.
+Sentence 6: Today Calder, of Greater Manchester, was jailed for 12 months after she pleaded guilty to nine counts of theft.
+Sentence 7: Liverpool Crown Court was told she had previously been employed by a company called Makerfield Care - who are no longer in business - as a carer although she was not part of the team who looked after the couple at their home in Warrington.
+Sentence 8: Caught: The victims' family saw money coming from their accounts so set up a camera and filmed her taking money .
+Sentence 9: Police said the victims both suffered from a number of physical and mental impairments due to their ages, with very poor memories and were largely confined to their home.
+
+Annotator 0: Sentences 3 (importance 3), 6 (importance 2), 8 (importance 2)
+Annotator 1: Sentences 7 (importance 3), 3 (importance 2), 1 (importance 1)
+Annotator 2: Sentences 5 (importance 3), 1 (importance 2), 8 (importance 2)
+Annotator 3: Sentences 2 (importance 3), 0 (importance 2), 1 (importance 2)
+Annotator 4: Sentences 1 (importance 3), 2 (importance 2), 3 (importance 1)
+
+
+Sentence 0: It was a cunning plot to steal more than £1.5million in gold bullion and jewellery.
+Sentence 1: Using a flat-pack wooden cabinet as a ‘Trojan Horse’, one of the thieves was to hide inside.
+Sentence 2: The gang then planned to put real money in a briefcase and show it to a jeweller at a pre-arranged meeting, before placing it on the floor.
+Sentence 3: Then, while a price was being agreed at a nearby table, the man in the cabinet would switch the case for one containing counterfeit notes.
+Sentence 4: The gang – posing as wealthy Italians – would then walk off with their money and the stolen jewellery.
+Sentence 5: Scroll down for video .
+Sentence 6: Jail terms: Luigi Arcuri (left), 73, Nikolic Giuliano (centre), 37 and Antonino Ballistreri (right), 45, were each sentenced to two years and eight months  for conspiracy to defraud and possession of counterfeit currency .
+Sentence 7: The idea: They planned to put one of the men inside the desk, show the jeweller real cash in a briefcase and then switch this with an identical case containing counterfeit notes - which he would then take away .
+Sentence 8: In construction: The gang posing as rich Italian businessmen built the cabinet so one of them could hide inside a large void in the middle and secretly switch a haul of Euros for fake money during a deal .
+Sentence 9: Flat-pack desk: While a price was agreed, the money would be switched by the man hidden inside the cabinet for an identical brief case containing the worthless counterfeit notes .
+
+Annotator 0: Sentences 0 (importance 3), 6 (importance 3), 7 (importance 3)
+Annotator 1: Sentences 2 (importance 3), 1 (importance 2), 3 (importance 1)
+Annotator 2: Sentences 3 (importance 3), 2 (importance 2), 0 (importance 1)
+Annotator 3: Sentences 0 (importance 3), 1 (importance 3), 3 (importance 3)
+Annotator 4: Sentences 6 (importance 3), 2 (importance 2), 0 (importance 1)
+
+
+Sentence 0: Sian Harkin, 54, gave £30,000 to a builder using the school chequebook claiming the work was to be carried out at Llwyncelyn Primary School in Porth, when the work was actually carried out at her home .
+Sentence 1: A headteacher who secretly tried to use a school chequebook to pay for thousands of pounds worth of work to be carried out at her family home has been jailed.
+Sentence 2: Married mother-of-two Sian Harkin, 54, abused her position of authority by signing cheques totalling £30,000 to her builder claiming the work was to be carried out at Llwyncelyn Primary School in Porth, Wales.
+Sentence 3: Merthyr Tydfil Crown Court heard that not only did she use the chequebook of Llwyncelyn Primary when she was headteacher there, but also continued to use it when she moved schools.
+Sentence 4: Harkin claimed the money was to be used to build a rain shelter for waiting parents at Llwyncelyn but the proposed work, which never materialised, was never ratified by governors.
+Sentence 5: Instead, work was carried out at her home in Pontypridd, which she shares with her bank manager husband Anthony and their two children.
+Sentence 6: Rachel Knight, prosecuting, said Harkin skipped procedures and instead issued cheques, even forging the deputy head's name in order to cash one in person.
+Sentence 7: She told the court: 'Despite being seconded to a second school she continued to write cheques from the previous school. '
+Sentence 8: She took it upon herself to dip into school funds when there was no work done at the school.
+Sentence 9: 'She abused her position of trust.
+
+Annotator 0: Sentences 7 (importance 3), 4 (importance 2), 1 (importance 1)
+Annotator 1: Sentences 1 (importance 2), 0 (importance 1), 9 (importance 1)
+Annotator 2: Sentences 2 (importance 3), 4 (importance 2), 0 (importance 1)
+Annotator 3: Sentences 0 (importance 3), 2 (importance 3), 5 (importance 1)
+Annotator 4: Sentences 0 (importance 3), 2 (importance 3), 6 (importance 2)
+
+
+Sentence 0: Mbaeri, of Hamilton Court, Ashby Place, Portsmouth, denies fraud by abuse of position and conspiracy to commit fraud .
+Sentence 1: A Nationwide branch manager conned elderly customers out of their life savings by setting up bogus standing orders for hundreds of thousands of pounds.
+Sentence 2: Hugo Mbaeri, 25, from Portsmouth allegedly handed over customer names, account details and signatures to a gang of fraudsters while he was working at Nationwide Building Society, a court heard.
+Sentence 3: The alleged ringleader of the scheme, Olawabiyi Ayanwale, who is not before the court, set up standing orders by impersonating the victims, it is said.
+Sentence 4: Mbaeri is on trial for fraud by abuse of position and conspiracy to commit fraud at the Old Bailey.
+Sentence 5: He is in the dock alongside seven others who are accused of using their accounts to siphon the funds away.
+Sentence 6: Abiola Balogun, 22, Gideon Boateng, 19, Tevin Campbell, 20, Joshua Clark, 20, Rebecca Jack, 21, Patrick Reddington, 20, and Christiana Tella, 19, were allegedly paid around £300 each for letting the fraudsters use their bank accounts.
+Sentence 7: Prosecutor Jonathan Polnay described the scam as a ‘nasty little fraud’ that ‘deliberately targeted elderly people with the aim of clearing them out of their life savings’.
+Sentence 8: ‘Hugo Mbaeri is the inside man in this fraud and the remaining defendants in the dock allowed their accounts to be used for the stolen money to be passed through.
+Sentence 9: ‘It wasn’t a particularly sophisticated fraud but it’s a fraud which, were it not detected, would have netted the fraudsters hundreds of thousands of pounds and caused a loss in life savings to the victims.
+
+Annotator 0: Sentences 6 (importance 3), 2 (importance 1)
+Annotator 1: Sentences 6 (importance 3), 5 (importance 2), 4 (importance 1)
+Annotator 2: Sentences 2 (importance 3), 6 (importance 3), 8 (importance 2)
+Annotator 3: Sentences 4 (importance 3), 3 (importance 2), 2 (importance 1)
+Annotator 4: Sentences 7 (importance 3), 4 (importance 2), 2 (importance 1)
+
+
+Sentence 0: These dramatic images show the moment an Audi pulled out of a road and deliberately crashed into the side of a bus as part of a £1million 'crash for cash' scam.
+Sentence 1: The elaborate fraud involved cars and vans being driven into the side of First Group buses so passengers - who were mainly friends and relatives complicit in the scam - could falsely claim from insurers.
+Sentence 2: The crashes took place between October 2010 and January 2012 and earned ringleader John Smith 45, from Connah's Quay, North Wales, £159,000.
+Sentence 3: As the pictures show, all the collisions followed similar scenarios in which a car would collide with the side of a bus, causing both minimal impact and damage.
+Sentence 4: In each case, the driver of the car would admit full liability, allowing all of the passengers from the bus to submit personal injury claims.
+Sentence 5: Scroll down for video .
+Sentence 6: The blue Audi pulls out from Whitchurch road, in Chester and accelerates into the side of the bus .
+Sentence 7: It then collides into the bus as part of the £1million 'crash for cash' scam that took place over three years .
+Sentence 8: The elaborate fraud allowed passengers on the bus, who were mainly friends and relatives complicit in the scam, to falsely claim from insurers .
+Sentence 9: Smith, the managing director of Swift Accident Solutions, stage-managed the crashes around the Chester area over the three-year period, in a bid to create new claimants for his business.
+
+Annotator 0: Sentences 7 (importance 3), 6 (importance 2), 5 (importance 1)
+Annotator 1: Sentences 9 (importance 3), 3 (importance 2), 1 (importance 1)
+Annotator 2: Sentences 9 (importance 2), 2 (importance 1)
+Annotator 3: Sentences 2 (importance 3), 8 (importance 3), 1 (importance 2)
+Annotator 4: Sentences 0 (importance 3), 4 (importance 2)
+
+
+Sentence 0: A convicted fraudster stole £17,000 from the City firm where she worked after she started embezzling money on her second day in the job.
+Sentence 1: Gabrielle Yinka Saunders, 32, used company credit cards to pay for her £10,000 wedding, as well as a £5,000 honeymoon in the Seychelles.
+Sentence 2: She was arrested at Heathrow when she returned from the honeymoon - but now she has been spared jail even though a court heard that she had been convicted of fraud twice previously.
+Sentence 3: Just married: But Gabrielle Yinka Saunders, pictured during her wedding to David Osborne, stole £17,000 to pay for the ceremony and her luxury honeymoon .
+Sentence 4: Fraud: Saunders, pictured outside the Old Bailey, admitted cheating her company out of thousands of pounds .
+Sentence 5: Saunders, also known as Gabriella Osborne since getting married at Belair House in Dulwich last September, stole £35,000 from her previous employer PriceWaterhouseCoopers, where she worked as a tax accountant.
+Sentence 6: After serving a jail sentence, she started a £40,000-a-year job as a personal assistant at Insight Investments in June last year.
+Sentence 7: But she proceeded to embezzle a total of £17,000 using her colleagues' credit cards - including £600 for flowers, £270 on a new watch, £210 on a new outfit and £400 for a mobile phone.
+Sentence 8: The Old Bailey heard Saunders came to the UK from Nigeria and graduated from Southampton University with a law degree in 2004, before starting work at PwC.
+Sentence 9: While working at the multinational firm, Saunders forged taxi receipts to destinations across the country at up to £250 a time, then signed them off by faking a colleague's signature.
+
+Annotator 0: Sentences 7 (importance 3), 5 (importance 2), 1 (importance 1)
+Annotator 1: Sentences 3 (importance 3), 1 (importance 2), 0 (importance 1)
+Annotator 2: Sentences 1 (importance 2), 5 (importance 2), 7 (importance 2)
+Annotator 3: Sentences 2 (importance 3), 1 (importance 2), 7 (importance 1)
+Annotator 4: Sentences 0 (importance 3), 1 (importance 3), 7 (importance 3)
+
+
+Sentence 0: Corinthian Colleges will shut down all of its remaining 28 ground campuses, displacing about 16,000 students less than two weeks after the US Department of Education announced it was fining the for-profit institution $30 million.
+Sentence 1: In a statement Sunday, the Santa Ana, California-based company said it was working with other schools to help students continue their education.
+Sentence 2: The closures include Heald College campuses in California, Hawaii and Oregon, as well as Everest and WyoTech schools in California, Arizona and New York.
+Sentence 3: Corinthian was one of the country's largest for-profit educational institutions.
+Sentence 4: It collapsed last summer amid a cash shortage and fraud allegations and its closures are believed to be the biggest shutdown in the history of US higher education.
+Sentence 5: Corinthian Colleges, which was one of the country's largest for-profit educational institutions and ran brands such as Everest and Heald, will close its  schools after being fined $30million for misrepresenting job data .
+Sentence 6: Corinthian CEO Jack Massimino (left) blamed regulators for his company's failure to sell its schools, which doubled revenue for the company up to $1.75billion between 2007 and 2011 .
+Sentence 7: The Education Department contends that Corinthian failed to comply with requests to address allegations of falsifying job placement data and altering grades and attendance records.
+Sentence 8: It agreed to sell or close its campuses under pressure from the department.
+Sentence 9: Earlier in April, the department fined subsidiary Heald College, alleging the school had shown a pattern of falsifying post-graduation employment data.
+
+Annotator 0: Sentences 1 (importance 2), 6 (importance 2)
+Annotator 1: Sentences 8 (importance 3), 7 (importance 2), 6 (importance 1)
+Annotator 2: Sentences 5 (importance 3), 3 (importance 2), 1 (importance 1)
+Annotator 3: Sentences 6 (importance 3), 5 (importance 2), 4 (importance 1)
+Annotator 4: Sentences 0 (importance 3), 4 (importance 2), 7 (importance 1)
+
+
+Sentence 0: Dzhokhar Tsarnaev has been convicted of the 2013 bombing of the Boston Marathon.
+Sentence 1: A federal jury found Tsarnaev guilty on Wednesday over the terror attack that killed three people and wounded more than 260.
+Sentence 2: He kept his hands folded in front of him and looked down at the defence table in the Boston courtroom as the guilty verdicts were read.
+Sentence 3: A sketch shows Dzhokhar Tsarnaev (second left) and his defence team as the guilty verdicts on all charges against him were read on Wednesday.
+Sentence 4: The jury will now decide if he gets the death penalty .
+Sentence 5: Boston Police patrol the outside the John J Moakley Federal Courthouse after the jury verdict .
+Sentence 6: The jury will now decide whether the 21-year-old former student should be sentenced to death or receive life in prison.
+Sentence 7: Tsarnaev's conviction was widely expected, given his lawyer's startling admission during opening statements that he took part in the bombing.
+Sentence 8: But the lawyer also argued that Tsarnaev's older brother, Tamerlan, masterminded the attack and enlisted his then-19-year-old brother to help.
+Sentence 9: On April 19, 2013, Tsarnaev was found hiding in a boat and had written notes inside suggesting the bombing was an act of retribution for U.S. military campaigns in Muslim-dominated countries .
+
+Annotator 0: Sentences 7 (importance 3), 4 (importance 2), 5 (importance 2)
+Annotator 1: Sentences 9 (importance 3)
+Annotator 2: Sentences 1 (importance 3), 3 (importance 2), 9 (importance 1)
+Annotator 3: Sentences 3 (importance 3), 1 (importance 2), 4 (importance 2)
+Annotator 4: Sentences 4 (importance 2), 7 (importance 2)
+
+
+Sentence 0: New York (CNN)When Liana Barrientos was 23 years old, she got married in Westchester County, New York.
+Sentence 1: A year later, she got married again in Westchester County, but to a different man and without divorcing her first husband.
+Sentence 2: Only 18 days after that marriage, she got hitched yet again.
+Sentence 3: Then, Barrientos declared "I do" five more times, sometimes only within two weeks of each other.
+Sentence 4: In 2010, she married once more, this time in the Bronx.
+Sentence 5: In an application for a marriage license, she stated it was her "first and only" marriage.
+Sentence 6: Barrientos, now 39, is facing two criminal counts of "offering a false instrument for filing in the first degree," referring to her false statements on the 2010 marriage license application, according to court documents.
+Sentence 7: Prosecutors said the marriages were part of an immigration scam.
+Sentence 8: On Friday, she pleaded not guilty at State Supreme Court in the Bronx, according to her attorney, Christopher Wright, who declined to comment further.
+Sentence 9: After leaving court, Barrientos was arrested and charged with theft of service and criminal trespass for allegedly sneaking into the New York subway through an emergency exit, said Detective Annette Markowski, a police spokeswoman.
+
+Annotator 0: Sentences 6 (importance 3), 1 (importance 2), 7 (importance 1)
+Annotator 1: Sentences 7 (importance 2), 1 (importance 1), 5 (importance 1)
+Annotator 2: Sentences 6 (importance 3), 5 (importance 2), 0 (importance 1)
+Annotator 3: Sentences 9 (importance 2), 4 (importance 1)
+Annotator 4: Sentences 5 (importance 3), 6 (importance 3), 7 (importance 3)
+
+
+Sentence 0: Jailed: Kevin Franklin married his new wife in the Italian Alps while his 80-year-old victim was forced to borrow money from his children because he could not afford any milk .
+Sentence 1: A conman has been jailed for stealing a pensioner's entire £401,000 life savings and using it to finance his dream wedding and honeymoon.
+Sentence 2: Kevin Franklin married his new wife in the Italian Alps while his 80-year-old victim was forced to borrow money from his children because he could not afford any milk, a court heard.
+Sentence 3: The 58-year-old siphoned off the £400,001 fortune over an eight-year period but when he was finally arrested he told police: 'I played him.'
+Sentence 4: He was jailed for four-and-a-half years at Warwick Crown Court yesterday after admitting fraud and deception after the judge ignored his plea for leniency because he was 'terrified' of going to prison.
+Sentence 5: Sentencing him judge Alan Parker said: 'You plainly saw him as a soft target and you used him, and used him and used him. '
+Sentence 6: You told lies, some of them beyond wicked, and always you knew he would pay up.
+Sentence 7: 'You lived a lavish lifestyle at the cost of an elderly man's life savings.
+Sentence 8: Society demands that you should be punished.
+Sentence 9: ' He told the 80-year-old a string of lies that led to the elderly chartered accountant losing his Birmingham office and was forced to put his 'beautiful' home up for sale, the court heard.
+
+Annotator 0: Sentences 1 (importance 3), 3 (importance 2), 2 (importance 1)
+Annotator 1: Sentences 2 (importance 3), 0 (importance 2), 4 (importance 2)
+Annotator 2: Sentences 1 (importance 3), 3 (importance 3), 4 (importance 3)
+Annotator 3: Sentences 1 (importance 3), 2 (importance 2), 3 (importance 1)
+Annotator 4: Sentences 7 (importance 3), 4 (importance 2), 0 (importance 1)
+
+
+Sentence 0: A cocky teenager wanted for alleged fraud and theft taunted police on their Facebook page for failing to catch him - and got arrested hours later.
+Sentence 1: 18-year-old Ryan Heritage from Wiltshire posted a obnoxious message on Trowbridge police's page, saying: 'Oi yo check if there's a warrant for my arrest, if so good luck!!!'
+Sentence 2: He went out for a night out in his home town where he was spotted by police who chased him on foot before finally grabbing him.
+Sentence 3: The Trowbridge Neighbourhood Policing Team then re-posted his original message and added their own: 'His luck ran out #arrested.'
+Sentence 4: Arrogant: 18-year-old Ryan Heritage posted a cocky message on his local police's Facebook page where he taunted them for failing to catch him .
+Sentence 5: Jokes on you: He was arrested in Trowbridge, Wiltshire just hours after posting the message which read 'Oi yo check if there's a warrant for my arrest, if so good luck' Heritage was thrown in the cells for the night and put before magistrates the following morning where he was charged with theft and burglary - and failing to answer bail on fraud charges.
+Sentence 6: The police posted on Facebook: 'A local male wanted on suspicion of theft, and also wanted on warrant for failing to appear in court has been spotted in town.
+Sentence 7: Following a short foot chase he has been arrested.
+Sentence 8: 'Ryan has been charged with theft, and is going to court in connection with the warrant issued for failing to appear in respect of fraud charges.'
+Sentence 9: Wiltshire police then said: 'There was a warrant out for his arrest because he had failed to appear in court and obviously he thought he was going to be able to escape us so he posted that message. '
+
+Annotator 0: Sentences 5 (importance 3), 1 (importance 2), 4 (importance 2)
+Annotator 1: Sentences 5 (importance 3), 3 (importance 2), 1 (importance 1)
+Annotator 2: Sentences 9 (importance 2), 4 (importance 1)
+Annotator 3: Sentences 1 (importance 3), 8 (importance 3), 6 (importance 2)
+Annotator 4: Sentences 2 (importance 2), 9 (importance 2)
+
+
+Sentence 0: (CNN)Three Orthodox rabbis accused of planning and participating in the torture of Jewish men who refused to divorce their wives were convicted Tuesday of conspiring to commit kidnapping.
+Sentence 1: Rabbis Mendel Epstein, 69; Jay Goldstein, 60; and Binyamin Stimler, 39, were found guilty on one count of conspiracy to commit kidnapping in New Jersey federal court.
+Sentence 2: Goldstein and Stimler were also convicted on charges of attempted kidnapping.
+Sentence 3: The rabbis were part of a ring accused of accepting tens of thousands of dollars to orchestrate the kidnappings of Jewish husbands to persuade them through torture involving electric cattle prods and screwdrivers to grant "gets," a document that Jewish law requires a husband to present to his wife in order to be issued a divorce, court papers said.
+Sentence 4: The men were arrested in October 2013 following an FBI sting operation that ended with Goldstein, Stimler and six other men with ski masks, surgical blades and a 30-foot nylon rope in a warehouse in Middlesex County, New Jersey.
+Sentence 5: Lawyers for each of the rabbis told CNN they plan on appealing the convictions.
+Sentence 6: "Rabbi Epstein still firmly believes that he was protecting women's rights and was protecting the agunahs and the families," said Robert Stahl, the lawyer for Epstein.
+Sentence 7: Without a "get," a woman is considered an "agunah," a chained woman bound to a man no matter how over the marriage might actually be.
+Sentence 8: An Orthodox Jewish woman who does not receive a get runs the risk of being shunned in her community and labeled an adulteress if she moves on.
+Sentence 9: Any future children she has are considered bastards permitted to marry only other bastards.
+
+Annotator 0: Sentences 5 (importance 3), 9 (importance 1)
+Annotator 1: Sentences 8 (importance 2), 9 (importance 2)
+Annotator 2: Sentences 3 (importance 3), 0 (importance 2), 1 (importance 1)
+Annotator 3: Sentences 8 (importance 3), 3 (importance 2), 0 (importance 1)
+Annotator 4: Sentences 9 (importance 3), 0 (importance 1)
+
+
+Sentence 0: (CNN)Sabra Dipping Co. is recalling 30,000 cases of hummus due to possible contamination with Listeria, the U.S. Food and Drug Administration said Wednesday.
+Sentence 1: The nationwide recall is voluntary.
+Sentence 2: So far, no illnesses caused by the hummus have been reported.
+Sentence 3: The potential for contamination was discovered when a routine, random sample collected at a Michigan store on March 30 tested positive for Listeria monocytogenes.
+Sentence 4: The FDA issued a list of the products in the recall.
+Sentence 5: Anyone who has purchased any of the items is urged to dispose of or return it to the store for a full refund.
+Sentence 6: Listeria monocytogenes can cause serious and sometimes fatal infections in young children, frail or elderly people, and others with weakened immune systems, the FDA says.
+Sentence 7: Although some people may suffer only short-term symptoms such as high fever, severe headache, nausea, abdominal pain and diarrhea, Listeria can also cause miscarriages and stillbirths among pregnant women.
+
+Annotator 0: Sentences 2 (importance 3), 6 (importance 3), 5 (importance 2)
+Annotator 1: Sentences 0 (importance 2), 5 (importance 1)
+Annotator 2: Sentences 4 (importance 3), 2 (importance 2), 5 (importance 2)
+Annotator 3: Sentences 3 (importance 2), 0 (importance 1)
+Annotator 4: Sentences 6 (importance 3), 4 (importance 2), 3 (importance 1)
+
+
+Sentence 0: John Howard, 66, bled the Overseas Press and Media Association dry over two years - leaving the company facing bankruptcy .
+Sentence 1: The treasurer of a voluntary organisation drained £90,000 from the group's account - spending thousands on restaurant meals and trips to France.
+Sentence 2: John Howard, 66, from Canterbury, Kent, had been a member of the Overseas Press and Media Association for 30 years but began stealing funds two years ago, leaving the company facing bankruptcy.
+Sentence 3: The father-of-three had sole access to the non-profit organisation's account and enjoyed dining alone on several £300 meals a month and also spent money on flowers, a court heard.
+Sentence 4: His fraud was only uncovered after the association had problems paying its creditors and Howard started to dodge emails and phone calls.
+Sentence 5: He was jailed for two and a half years and mouthed 'I'm sorry' to a former colleague as he left the dock at Canterbury Crown Court.
+Sentence 6: Prosecutor Tony Prosser said Howard secretly sacked auditors and then presented the association with fake accounts each month.
+Sentence 7: Between 2011 to 2013 he freely dipped into the money and lavished cash on himself and his family.
+Sentence 8: When his crime came to light just £180 was left in the association's savings account when it should have been nearly £80,000.
+Sentence 9: Howard rang a fellow member from a pay phone admitting the fraud and offering to repay £20,000.
+
+Annotator 0: Sentences 2 (importance 3), 0 (importance 1)
+Annotator 1: Sentences 7 (importance 2), 4 (importance 1)
+Annotator 2: Sentences 3 (importance 3), 1 (importance 2), 4 (importance 2)
+Annotator 3: Sentences 1 (importance 3), 2 (importance 3), 4 (importance 3)
+Annotator 4: Sentences 0 (importance 2)
+
+
+Sentence 0: NHS worker Stacey Tipler embezzled nearly £650,000 from a cancer hospital.
+Sentence 1: Pictured during her trial at Southwark Crown Court last summer .
+Sentence 2: An NHS worker who conned a hospital out of more than half a million pounds earmarked for life-saving cancer drugs has been ordered to pay back just £28,737.
+Sentence 3: Stacey Tipler, 33, used her job to steal £642,000 from the Royal Marsden NHS Trust which she spent on designer shopping sprees, mortgage payments and her planned wedding.
+Sentence 4: But she and partner Scott Chaplin, 34, who was the ringleader of the plot, were caught and both jailed last summer.
+Sentence 5: At Southwark Crown Court today, Judge Anthony Leonard QC said Tipler had made £54,852 from the scheme.
+Sentence 6: At the proceeds of crime hearing, he ordered her to repay £28,737.90 within six months or spend another 18 months in jail.
+Sentence 7: She's already serving four years.
+Sentence 8: Chaplin claimed he 'made nothing' from the scam but was ordered to repay £115,000 form the the £310,000 the judge said he made.
+Sentence 9: Judge Leonard said: 'In my judgement it must have been the two people who received the majority of the proceeds of the fraud were this defendant and his Common Law wife Ms Tipler.'
+
+Annotator 0: Sentences 4 (importance 3), 3 (importance 2), 2 (importance 1)
+Annotator 1: Sentences 3 (importance 3), 2 (importance 2), 0 (importance 1)
+Annotator 2: Sentences 3 (importance 3), 2 (importance 2), 0 (importance 1)
+Annotator 3: Sentences 6 (importance 3), 3 (importance 2), 1 (importance 1)
+Annotator 4: Sentences 7 (importance 2), 8 (importance 2)
+
+
+Sentence 0: A student expelled from George Mason University for violating its sexual misconduct policy is suing in federal court to clear his name, arguing that an encounter with a girlfriend was sadomasochistic role playing, not sexual assault.
+Sentence 1: A hearing in the case is scheduled for Friday in Alexandria.
+Sentence 2: The ex-student has sued under a pseudonym to protect his privacy.
+Sentence 3: The university is demanding he identify himself publicly, despite arguments that doing so would expose not only him but the woman who says she was assaulted.
+Sentence 4: The student says he had been in a longstanding relationship with the woman, and that they frequently engaged in sadomasochistic role playing that involved using a safe word if one or the other wanted to stop.
+Sentence 5: Lawsuit: A student expelled from GMU for violating its sexual misconduct policy is suing in federal court to clear his name, arguing that an encounter with a girlfriend was sadomasochistic role playing, not sexual assault (file) The lawsuit comes as colleges across the country, and particularly in Virginia, are under increased scrutiny for how they respond to allegations of sexual assault.
+Sentence 6: The University of Virginia implemented changes in its sexual misconduct policy in the aftermath of a now-discredited Rolling Stone article alleging that school officials were indifferent to allegations that a student had been raped at a fraternity party.
+Sentence 7: The sexual misconduct allegations at George Mason stem from an October 2013 encounter with the couple in the male student's dorm room on the Fairfax campus.
+Sentence 8: At one point, according to the lawsuit, she pushed him away but didn't invoke her safe word.
+Sentence 9: Later that night, the two engaged in a second sex act, in which the male student asked her if she was interested, and she replied, 'I don't know.'
+
+Annotator 0: Sentences 3 (importance 3), 5 (importance 2), 6 (importance 1)
+Annotator 1: Sentences 5 (importance 3), 4 (importance 2), 3 (importance 1)
+Annotator 2: Sentences 0 (importance 1)
+Annotator 3: Sentences 4 (importance 3), 0 (importance 2)
+Annotator 4: Sentences 7 (importance 3), 4 (importance 2), 9 (importance 2)
+
+
+Sentence 0: A woman who was arrested and charged with manslaughter for a crash that caused the death of a 5-year-old child showed no remorse for her actions according to court records.
+Sentence 1: Aaronessa Keaton of Phoenix, Arizona was eight months pregnant and had marijuana and Benzodiazepines in her system when she collided head-on with a car carrying two children in February 2014, and one of the children later died from their injuries.
+Sentence 2: When told of this after her arrest, Keaton, 24, said; 'Sh*t happens.'
+Sentence 3: Aaronessa Keaton (above) was arrested Monday and charged with manslaughter for a 2014 accident that resulted in the death of a 5-year-old child .
+Sentence 4: Keaton hit another car head-on (above) while she was eight months pregnant and had marijuana and Benzodiazepines in her system .
+Sentence 5: Keaton, who was also on probation for marijuana possession charges at the time, was indicted by a grand jury in February, and taken in Monday after she was pulled over for a traffic stop.
+Sentence 6: According to CBS 5, Keaton was driving southbound on February 28, 2014 when she swiped a car going north, and she then continued across the northbound lane until she struck a 2007 Nissan Frontier.
+Sentence 7: That car contained the child whose injuries were so severe they later died.
+Sentence 8: The other child in the car was in serious condition, but later made a full recovery, and both adults in the front seat suffered only minor injuries.
+Sentence 9: Keaton was also rushed to the hospital where an emergency C-section was performed.
+
+Annotator 0: Sentences 1 (importance 3), 6 (importance 2)
+Annotator 1: Sentences 5 (importance 3), 2 (importance 2), 1 (importance 1)
+Annotator 2: Sentences 0 (importance 3), 3 (importance 3), 1 (importance 1)
+Annotator 3: Sentences 7 (importance 3), 0 (importance 2), 5 (importance 2)
+Annotator 4: Sentences 0 (importance 2), 1 (importance 2), 3 (importance 2)
+
+
+Sentence 0: An Old Bailey judge has blasted his junior colleague for ‘taking his eye off the ball’ and passing an 'unlawful' sentence when letting a BT manager dodge jail for a £28,000 expenses scam.
+Sentence 1: Wheelchair-bound  Christopher Starrs, 50, was allowed to go free from court with just a suspended jail sentence in January after admitting his part in a two-and-a-half year con against his employer BT.
+Sentence 2: Starrs, along with fellow BT Openreach manager Phillip Tamplin, invented clamped cars, overtime hours and damage to home owners’ property during broadband installation, and paid off engineers to help them make the fake claims.
+Sentence 3: Blasted: Judge Nicholas Cooke QC (left) blasted his junior colleague Recorder Stuart Trimmer QC (right) for 'taking his eye off the ball' when he sentenced Christopher Starrs in January this year .
+Sentence 4: Both Starrs and Tamplin, 53, who made £124,000 from the con, admitted submitting the string of bogus expenses.
+Sentence 5: Tamplin was jailed for two years at January's sentencing hearing, but Mr Recorder Stuart Trimmer QC spared Starrs jail as an ‘act of mercy’ - although he ordered him to repay the money he took and pay a £1,500 fine.
+Sentence 6: However, senior Judge Nicholas Cooke QC has now said the sentence was ‘unlawful’ - and added Starrs should have been sent to prison for his crimes.
+Sentence 7: ‘It was an unlawful sentence passed and now I need to do something to put it right, because it was negligence on the parties involved in the matter,’ he said.
+Sentence 8: ‘He was mercifully dealt with, sadly by a judge who didn’t have his eye on the ball.’
+Sentence 9: The judge told Mark Haslam, defending: ‘The sentence was wrong but that’s a matter of personal opinion.
+
+Annotator 0: Sentences 2 (importance 3), 1 (importance 2), 0 (importance 1)
+Annotator 1: Sentences 0 (importance 3), 2 (importance 3), 4 (importance 2)
+Annotator 2: Sentences 2 (importance 3), 4 (importance 2), 0 (importance 1)
+Annotator 3: Sentences 7 (importance 3), 5 (importance 2), 3 (importance 1)
+Annotator 4: Sentences 7 (importance 2), 8 (importance 2)
+
+
+Sentence 0: The classic denial, 'This old thing?'
+Sentence 1: continues to be used in full force by Australians, according to a new study.
+Sentence 2: A staggering 1.2 million either possess a secret credit card of hide purchases from their partner.
+Sentence 3: According to new research, one in ten cardholders, or an estimated 800,000 Australians, also admit their credit card spending has lead to an argument with a partner.
+Sentence 4: Put it on plastic: A new study of Australians' spending habits reveals that 1.2 million either have a secret credit card or hide purchases from a partner .
+Sentence 5: The study of 1,200 cardholders by Creditcardfinder.com.au found that the biggest culprits of covert credit behaviour are women.
+Sentence 6: 17 per cent will hide their credit card spending, versus 14 per cent of men.
+Sentence 7: It isn't just women keeping mum either, Generation Y (aged 18-34 ) were found to be the least trustworthy of the age categories when it came to their credit card spending.
+Sentence 8: 25 per cent of Gen Y were found to either have a secret credit card or hidden purchases, well above other age groups.
+Sentence 9: This old thing?
+
+Annotator 0: Sentences 7 (importance 2), 2 (importance 1), 4 (importance 1)
+Annotator 1: Sentences 6 (importance 3), 5 (importance 2), 4 (importance 1)
+Annotator 2: Sentences 6 (importance 3), 3 (importance 2), 1 (importance 1)
+Annotator 3: Sentences 4 (importance 3), 5 (importance 2), 7 (importance 2)
+Annotator 4: Sentences 2 (importance 2), 4 (importance 2), 6 (importance 2)
+
+
+Sentence 0: Guilty: Glenn Mason, 56, has said he will pay back the whole £185,000 out of his RBS pension pot .
+Sentence 1: A respected NatWest bank manager who was jailed for stealing £185,000 from his elderly customers to fund his internet gambling addiction will have to pay back every penny.
+Sentence 2: Glenn Mason, 56, plundered the accounts of nine pensioners including an 83 year-old woman and a 92 year-old man living near his branch in Biggin Hill, Kent, the Old Bailey heard.
+Sentence 3: Mason, who was given an award by the Metropolitan Police in Bromley in 2009 for his crime fighting efforts, got away with the thefts for almost a year before his arrest in July 2012.
+Sentence 4: His attempts to cover up his crime by transferring money using the identity of two of his colleagues, Julie Jeffrey, 50, and James Cato, 35, led to them being sacked and charged with fraud.
+Sentence 5: It was only when Mason pleaded guilty in September that the case against them was dropped at the Old Bailey.
+Sentence 6: Mason, who was jailed for 15 months in November last year, has said he will pay back the whole £185,000 out of his RBS pension pot.
+Sentence 7: The bank has already refunded the customers targeted by Mason, and will receive the money as compensation.
+Sentence 8: ‘The benefit was £185,000 and the recoverable amount is greater than that so the available amount will be the same’, said prosecutor David Hughes.
+Sentence 9: ‘The loser here ultimately was RBS - they had to reimburse the account holders.’
+
+Annotator 0: Sentences 4 (importance 3), 3 (importance 2), 1 (importance 1)
+Annotator 1: Sentences 6 (importance 3), 4 (importance 2), 2 (importance 1)
+Annotator 2: Sentences 9 (importance 3), 6 (importance 2), 2 (importance 1)
+Annotator 3: Sentences 4 (importance 3), 1 (importance 2), 6 (importance 1)
+Annotator 4: Sentences 4 (importance 3), 2 (importance 2), 1 (importance 1)
+
+
+Sentence 0: Conviction: Amy Wilkinson, 28, left, the granddaughter of former Manchester United manager Tommy Docherty,  has admitted falsely claiming almost £18,000 in benefits .
+Sentence 1: The granddaughter of former Manchester United manager Tommy Docherty has admitted falsely claiming almost £18,000 in benefits.
+Sentence 2: Amy Wilkinson, 28, claimed housing benefit and council tax benefit even though she was living in a home owned by her mother and her partner, who was also working.
+Sentence 3: Wilkinson, who was a British Airways cabin crew attendant, was ordered to pay back a total of £17,604 that she claimed over two years when she appeared at South and East Cheshire Magistrates Court last week.
+Sentence 4: She admitted two charges of dishonestly making false representations in order to claim housing benefit, Council Tax benefit and income support.
+Sentence 5: Magistrates sentenced her to 24 weeks' imprisonment suspended for 24 months and ordered her to pay costs of £675 and a victim surcharge of £50.
+Sentence 6: Her grandfather, Tommy Docherty, now 86, was manager of Manchester United from 1972 until 1977.
+Sentence 7: He was sacked over his affair with the wife of the team's physio in 1977.
+Sentence 8: Steph Cordon, Cheshire East Council's head of communities, said: 'It is a big mistake for fraudsters to think they can get away with claiming benefits they are not entitled to. '
+Sentence 9: They risk ending up with a criminal conviction for a serious offence of dishonesty and being ordered to repay the money they have falsely claimed.
+
+Annotator 0: Sentences 0 (importance 3), 2 (importance 2), 3 (importance 2)
+Annotator 1: Sentences 6 (importance 3), 2 (importance 2), 0 (importance 1)
+Annotator 2: Sentences 3 (importance 3), 0 (importance 2), 5 (importance 1)
+Annotator 3: Sentences 0 (importance 3), 2 (importance 2), 4 (importance 1)
+Annotator 4: Sentences 0 (importance 3), 2 (importance 3), 4 (importance 2)
+
+
+Sentence 0: This shocking image shows the moment a car smashed into the front of a house and became stuck in the wall.
+Sentence 1: The red Mazda had careered off the road up someone's drive and crashed straight into the front door of the home in Crossgates, Leeds.
+Sentence 2: It hit the property with such force that the car, which has its front end completely destroyed int he crash, became stuck in the wall.
+Sentence 3: This shocking image shows the moment a red Mazda left the road and smashed into the front of a house .
+Sentence 4: Incredibly, no-one was serious injured in the accident.
+Sentence 5: Police said the occupants of the house had a lucky escape and only suffered minor injuries.
+Sentence 6: The incident was tweeted by West Yorkshire Police's roads policing unit.
+Sentence 7: They tweeted: 'Crossgates, Leeds - vehicle into house.
+Sentence 8: Fortunately only minor injury to occupants.
+Sentence 9: Driver reported.
+
+Annotator 0: Sentences 5 (importance 3), 4 (importance 2), 3 (importance 1)
+Annotator 1: Sentences 1 (importance 3), 4 (importance 3), 5 (importance 2)
+Annotator 2: Sentences 6 (importance 3), 5 (importance 1)
+Annotator 3: Sentences 0 (importance 1), 1 (importance 1), 2 (importance 1)
+Annotator 4: Sentences 4 (importance 3), 2 (importance 2), 6 (importance 2)
+
+
+Sentence 0: Michael Gridley, 26, was jailed for a year after orchestrating a scam to steal £15,000 of goods from the Asda in Basildon, Essex, where he worked .
+Sentence 1: An Asda manager orchestrated a scam that used the supermarket's own delivery service to steal goods worth more than £15,000 - then managed to land a job at Lidl after he was sacked.
+Sentence 2: Michael Gridley, 26, was jailed after running the scam where stock including alcohol, cigarettes, DVDs, computer games and consoles were taken from the store in Basildon, Essex, where he worked.
+Sentence 3: Southend Crown Court heard how the conspiracy was uncovered, following a period during which Gridley and colleague Jay Reed were under suspicion.
+Sentence 4: Thomas Daniel, prosecuting, told the court that goods, ranging from televisions to baby formula, were delivered to Reed's address and presumably sold on.
+Sentence 5: He said: 'Two anonymous reports were received by Asda, one of which suggested Mr Gridley was involved in selling items believed to have been stolen, such as TVs and baby formula. '
+Sentence 6: When Mr Gridley was ill for a certain period of time, those deliveries stopped, and when he recovered they started again.
+Sentence 7: 'Another email suggested stolen goods being delivered to the address of Mr Gridley's cousin.'
+Sentence 8: But shockingly, after being sacked from the store, Gridley managed to land a managerial role at Lidl in Romford, Essex.
+Sentence 9: Gridley, who was former home shopping manager of the store, was sentenced to 12 months for his leading role in a conspiracy to steal £15,852.46 worth of goods between November 2013 and April last year.
+
+Annotator 0: Sentences 2 (importance 3), 1 (importance 2), 9 (importance 2)
+Annotator 1: Sentences 4 (importance 3), 2 (importance 2), 1 (importance 1)
+Annotator 2: Sentences 1 (importance 2), 2 (importance 2), 4 (importance 2)
+Annotator 3: Sentences 1 (importance 3), 0 (importance 2), 2 (importance 2)
+Annotator 4: Sentences 3 (importance 2), 8 (importance 2)
+
+
+Sentence 0: 'Double wife killer' Harold Henthorn wants to use a $1.5million life insurance pay out from a policy taken out on his second wife to pay for the defense in his trial for her murder.
+Sentence 1: Henthorn was charged with the murder of second wife, Toni Bertolet, 51, last November and police have since reopened their investigation into the suspicious death of his first wife some 20 years earlier.
+Sentence 2: Both women died in 'freak accidents' to which Henthorn, 59, was the sole witness.
+Sentence 3: Dr Toni Jill Bertolet plunged 140 ft to her death shortly before their 12th wedding anniversary while hiking with Henthorn in a remote stretch of Rocky Mountain National Park, Colorado.
+Sentence 4: First wife, Lynn Rishell, was crushed to death under Henthorn's jeep when, according to Henthorn, the jack gave way as she reached beneath the vehicle for a lug nut while changing a flat tire at night on an isolated highway near the couple's Colorado home.
+Sentence 5: SCROLL DOWN FOR VIDEO .
+Sentence 6: Henthorn was charged with the murder of Toni Bertolet, 51, last November and police have reopened their investigation into the suspicious death of his first wife, Lynn Rishell, some 20 years earlier .
+Sentence 7: Lynn Rishell - Henthorn's first wife - was crushed to death under the front of Henthorn's Jeep when, he told first responders, the jack gave way as she reached under the vehicle for a lug night while changing a flat tire in the dark .
+Sentence 8: In both cases Henthorn was the sole beneficiary of the women's substantial life insurance policies totalling $500,000 in the case of his first wife and $4.5million in the case of his second.
+Sentence 9: Now, newly filed documents have revealed that he is fighting for a $1.5million pay out from the policy taken out in July 2001 on the grounds that he needs the money to pay for his attorney for the forthcoming murder trial scheduled to begin next month.
+
+Annotator 0: Sentences 1 (importance 3), 2 (importance 3), 3 (importance 3)
+Annotator 1: Sentences 8 (importance 3), 1 (importance 1), 6 (importance 1)
+Annotator 2: Sentences 4 (importance 2), 7 (importance 1)
+Annotator 3: Sentences 1 (importance 3), 3 (importance 2), 4 (importance 1)
+Annotator 4: Sentences 0 (importance 3), 8 (importance 3), 9 (importance 2)
+
+
+Sentence 0: Jailed millionaire Robert Durst pleaded not guilty Tuesday to the newest charge against him - a federal charge of possessing a gun after a felony conviction.
+Sentence 1: U.S. District Judge Lance Africk set a trial date for June 22.
+Sentence 2: Durst is an estranged member of the wealthy family that operates 1 World Trade Center.
+Sentence 3: He also faces a murder charge in California and two state weapons charges in Louisiana - one of possessing a .38-caliber revolver after a felony conviction and one of possessing the firearm along with an illegal drug: about 5 ounces of marijuana.
+Sentence 4: Claiming innocence: Suspected murderer Robert Durst appeared in court on Tuesday and pleaded guilty to a new charge of gun possession.
+Sentence 5: Pictured above leaving federal court in New Orleans, Louisiana in handcuffs after the court appearance .
+Sentence 6: Durst pleaded guilty to two federal charges in Pennsylvania in 2004: possessing a firearm while a fugitive and while under indictment.
+Sentence 7: However, his lawyers say those convictions don't make it illegal for him to carry a gun under Louisiana law.
+Sentence 8: The weapons arrest has kept Durst in New Orleans even though he waived extradition to California, where he's charged in the December 2000 death of 55-year-old Susan Berman, a longtime friend -allegedly because she was going to talk to investigators about the disappearance of his first wife in 1982.
+Sentence 9: He was arrested early March 15, less than 12 hours before HBO aired the final segment of 'The Jinx,' in which - off camera in a bathroom but with the microphone still live - Durst whispers, 'There it is.
+
+Annotator 0: Sentences 2 (importance 2), 3 (importance 2), 7 (importance 2)
+Annotator 1: Sentences 3 (importance 3), 8 (importance 2), 9 (importance 1)
+Annotator 2: Sentences 3 (importance 3), 0 (importance 2), 2 (importance 1)
+Annotator 3: Sentences 6 (importance 1), 9 (importance 1)
+Annotator 4: Sentences 3 (importance 2), 8 (importance 2), 1 (importance 1)
+
+
+Sentence 0: The son in law of disgraced New York politician Sheldon Silver was indicted Monday on two charges unrelated to the separate investigation into his famous power-broker relative.
+Sentence 1: Just three months after Silver himself was arrested on corruption charges, his son-in-law Marcello Trebitsch, 37, was accused of running a $7million Ponzi scheme.
+Sentence 2: The Brooklyn resident was in court on Monday as prosecutors accused him of lying to investors about stock losses and pocketing most of the money entrusted to him for trading.
+Sentence 3: Trebitsch is married to Silver's daughter Michelle.
+Sentence 4: Despite being a co-owner of their mutual fund, Allese Capital LLC, and a certified public accountant who 'kept the books', Michelle has not been charged in the scheme.
+Sentence 5: The son-in-law of Sheldon Silver was charged Monday with allegedly running a $7million Ponzi scheme.
+Sentence 6: Silver, the former Speaker of the New York State Assembly, was charged in January for allegedly taking $4million in brides and kickbacks since 200.
+Sentence 7: Silver pictured above entering court for his arraignment on February 24 .
+Sentence 8: The criminal complaint was filed by Manhattan U.S. Attorney Preet Bhahara, the same prosecutor who led the investigation into Silver's alleged corruption.
+Sentence 9: But sources told the New York Daily News that the investigations are unrelated.
+
+Annotator 0: Sentences 5 (importance 3), 2 (importance 2), 1 (importance 1)
+Annotator 1: Sentences 4 (importance 2), 2 (importance 1)
+Annotator 2: Sentences 1 (importance 3), 2 (importance 2), 6 (importance 2)
+Annotator 3: Sentences 0 (importance 3), 1 (importance 3), 2 (importance 3)
+Annotator 4: Sentences 5 (importance 3), 2 (importance 2), 1 (importance 1)
+
+
+Sentence 0: The return of Game of Thrones has sparked a surge in internet piracy with fans making more than 100,000 illegal downloads per day.
+Sentence 1: More than seven million episodes from seasons one to four were illegally downloaded between February and April this year as fans of the hit HBO show caught up or re-capped before its eagerly-return on Sky Atlantic on Sunday night.
+Sentence 2: Figures by anti-piracy and security firm Irdeto revealed overall illegal downloading of show is up 45 per cent year-on-year, jumping from 4.9 million  for the same two-month period in 2014.
+Sentence 3: Popular: Emilia Clarke as Daenerys Targaryen in the first series of the hit show.
+Sentence 4: New figures reveal it is the most illegally downloaded show in the world .
+Sentence 5: The top country for illegal downloads of Game of Thrones episodes was Brazil, which accounted for almost one million of them, followed by France in second, the US, Canada and the UK.
+Sentence 6: The snapshot also revealed the top five TV shows illegally downloaded during the same period were period were The Walking Dead (5.7m), Breaking Bad (3.8m), Vikings (3.4m) and House of Cards (2.7m).
+Sentence 7: Worldwide following: There were seven million illegal downloads of Game of Thrones, which features Natalie Dormer as Margaery Tyrel above, .
+Sentence 8: Appeal: Fans of the hit HBO show have been rushing to download old episodes featuring Jack Gleeson as King Joffrey, left, and Nikolaj Coster-Waldau as Jaime Lannister, right .
+Sentence 9: Lack of access for global audiences is used as a defence of pirates, as many of their favourite films and shows that debut in the US are delayed by weeks or months.
+
+Annotator 0: Sentences 1 (importance 3), 6 (importance 2), 7 (importance 2)
+Annotator 1: Sentences 3 (importance 3), 2 (importance 2), 1 (importance 1)
+Annotator 2: Sentences 0 (importance 1), 6 (importance 1), 7 (importance 1)
+Annotator 3: Sentences 0 (importance 3), 1 (importance 2), 2 (importance 2)
+Annotator 4: Sentences 2 (importance 3), 5 (importance 2), 6 (importance 1)
+
+
+Sentence 0: A couple pocketed £66,000 in a benefits scam by pretending to be landlord and tenant - despite having three children together.
+Sentence 1: Sikander Rafiq, 34, and Samara Jabreen, 32, lied to Birmingham City Council about their relationship in a scam spanning an eight year period.
+Sentence 2: The couple, from Ward End, Birmingham, claimed £66,268 housing benefit, council tax benefit and income support.
+Sentence 3: Sikander Rafiq, 34, and Samara Jabreen, 32, lied to Birmingham City Council about their relationship in a scam spanning an eight year period.
+Sentence 4: The couple, from Ward End, pocketed £66,268 housing benefit, council tax benefit and income support .
+Sentence 5: Birmingham Crown Court heard Jabreen first lodged a genuine claim for income support in 2002.
+Sentence 6: But three years later, when Rafiq bought them a house, Jabreen claimed to be a private tenant and asked that her benefit payments be made to her landlord, Rafiq.
+Sentence 7: Blondelle Thompson, prosecuting, said Jabreen also signed declarations saying neither she nor her children were related to Rafiq.
+Sentence 8: She even claimed single occupancy discount on her council tax payments, the court was told.
+Sentence 9: Jabreen pleaded guilty to two counts of failing to notify a change of circumstances and a charge of making a false representation.
+
+Annotator 0: Sentences 5 (importance 3), 3 (importance 2), 1 (importance 1)
+Annotator 1: Sentences 2 (importance 3), 1 (importance 2), 0 (importance 1)
+Annotator 2: Sentences 4 (importance 2), 5 (importance 1)
+Annotator 3: Sentences 7 (importance 3), 6 (importance 2), 3 (importance 1)
+Annotator 4: Sentences 0 (importance 3), 2 (importance 2)
+
+
+Sentence 0: A couple in their 40s became unusual victims of age discrimination after their bank rejected a £250,000 mortgage application because it deemed the husband to be too old.
+Sentence 1: HSBC was ordered to pay them compensation after the banking industry watchdog found it ‘relied on untested assumptions, stereotypes or generalisations in respect of age’ in the case.
+Sentence 2: The banking giant was criticised for refusing to grant the £250,000 loan because the husband would have been over 65 when the 18-year-deal finished, according to The Sunday Times.
+Sentence 3: A couple in their 40s became unusual victims of age discrimination after HSBC rejected a £250,000 mortgage application because it deemed the husband to be too old .
+Sentence 4: In the first case of its kind, the Financial Ombudsman Service found the lender guilty of being ‘unfair’.
+Sentence 5: HSBC was ordered to pay £500 to the couple for their ‘distress and inconvenience’ over the ‘unfair application of its age policy’, and was told to reconsider their loan application.
+Sentence 6: Bosses at the bank defended their decision and argued it was ‘entitled to apply a maximum age policy’, according to ombudsman documents seen by the newspaper.
+Sentence 7: But the ombudsman said: ‘The bank relied on untested assumptions, stereotypes or generalisations in respect of age.’
+Sentence 8: The couple, who do not wish to be named, applied for the joint interest-only mortgage over 18 years on their home, in which they held substantial equity.
+Sentence 9: HSBC had issued a decision in principle, indicating that they would be prepared to lend the money, but it then refused to proceed due to the husband’s age.
+
+Annotator 0: Sentences 5 (importance 3), 4 (importance 2), 9 (importance 1)
+Annotator 1: Sentences 0 (importance 1), 2 (importance 1), 3 (importance 1)
+Annotator 2: Sentences 3 (importance 3), 2 (importance 2), 5 (importance 1)
+Annotator 3: Sentences 3 (importance 3), 2 (importance 2), 1 (importance 1)
+Annotator 4: Sentences 5 (importance 3), 3 (importance 2), 1 (importance 1)
+
+
+Sentence 0: On trial: Former Ukip MEP Ashley Mote (pictured arriving at London's Southwark Crown Court today) is accused of a string of fraud-related offences .
+Sentence 1: A former Ukip MEP fraudulently claimed almost £500,000 in European Parliament expenses - using some of it to fund his domestic court battles, a court heard today.
+Sentence 2: Ashley Mote, 79, of Binsted, Hampshire, is accused of a string of fraud-related offences including acquiring criminal property and obtaining a money transfer by deception.
+Sentence 3: Some of the money he allegedly made from the fraud went towards funding various legal costs he had built up as a result of being prosecuted in the UK for benefit fraud offences, a jury at London's Southwark Crown Court was told.
+Sentence 4: He denies 11 offences alleged to have taken place between November 2004 and July 2010.
+Sentence 5: Jonathan Davies, prosecuting, said that as an MEP, Mote could claim expenses, including a Parliamentary Assistance Allowance, or Secretarial Allowance, to help fund his work.
+Sentence 6: Mr Davies said: ‘What the prosecution say happened between 2004 and 2009, when Mr Mote ceased to be an MEP, is that he abused that allowance by submitting false claims for payment for work which he said to the European Parliament had been done by organisations working on his behalf.’
+Sentence 7: Jurors heard that two of the organisations had previously campaigned against UK membership of the European Union.
+Sentence 8: They were the Better Off Out Fund (Boof), and Direct Action Resistance To Tyranny (Dartt).
+Sentence 9: However, it is alleged that neither of these companies conducted any work for Mote, who made claims of £16,000 against Boof, and £54,000 to Dartt.
+
+Annotator 0: Sentences 9 (importance 3), 1 (importance 2), 6 (importance 2)
+Annotator 1: Sentences 1 (importance 2), 4 (importance 2), 2 (importance 1)
+Annotator 2: Sentences 3 (importance 3), 6 (importance 3), 5 (importance 2)
+Annotator 3: Sentences 9 (importance 3), 6 (importance 2), 5 (importance 1)
+Annotator 4: Sentences 1 (importance 3), 3 (importance 3), 6 (importance 3)
+
+
+Sentence 0: A man who was unemployed and getting Centrelink payments was able to splash out more than $2 million on luxury cars, a boat and celebrity memorabilia due to a banking loophole.
+Sentence 1: Luke Brett Moore was found guilty of knowingly dealing with proceeds of crime and dishonestly obtaining financial advantage by deception in Goulburn District Court.
+Sentence 2: Opening a freedom saving account with St George Bank in 2010, Moore was able to overdraw $2.189 million over three years, The Courier Mail reported.
+Sentence 3: NSW Police found Luke Brett Moore's haul after raiding his house back in December 2012 .
+Sentence 4: The 27-year-old Goulburn man was able to overdraw $2.189 million over three years from his St George Bank .
+Sentence 5: Luke Brett Moore, 27, managed to live a life of excess despite being on social security because of a bank fault .
+Sentence 6: He dipped into the account 48 times and spent the money on a number of expensive items.
+Sentence 7: Moore's luxury haul included a Maserati, an Alfa Romeo, a power boat, a Michael Jackson autograph, a signed photograph of the Top Gear hosts and numerous paintings.
+Sentence 8: To avoid being caught, the 27-year-old moved the funds to PayPal and National Australia Bank accounts.
+Sentence 9: While Moore was spending up big, he was also receiving Centrelink payments between March and July in 2010, according to Fairfax Media.
+
+Annotator 0: Sentences 4 (importance 3), 0 (importance 2), 2 (importance 2)
+Annotator 1: Sentences 0 (importance 3), 2 (importance 3), 6 (importance 3)
+Annotator 2: Sentences 3 (importance 3), 9 (importance 2), 6 (importance 1)
+Annotator 3: Sentences 3 (importance 3), 1 (importance 2), 6 (importance 2)
+Annotator 4: Sentences 0 (importance 3), 2 (importance 3), 8 (importance 2)
+
+
+Sentence 0: David Rylance has been jailed for stealing more than £50,000 from his dying mother, who was suffering from Alzheimer's .
+Sentence 1: A trusted son has been jailed for stealing more than £50,000 from his dying mother, blowing the cash on gambling, a holiday and cinema tickets.
+Sentence 2: When pensioner Margaret Rylance realised her money appeared to be going missing from her bank account, her concerns were put down to her having Alzheimer's disease.
+Sentence 3: But in reality her son David Rylance, 47, had been slowly siphoning the money away, spending it on luxuries for himself as well as everyday living costs.
+Sentence 4: A £13,000 fee to move his mother, from South Shields, into a care home in January 2013 had to be paid by the council because her bank balance had been diminished by her son's spending.
+Sentence 5: Newcastle Crown Court heard one of Mrs Rylance's accounts held just £1,000 at the time of her death in July 2013.
+Sentence 6: Her son continued to access the cash until the balance was zero.
+Sentence 7: Rylance, also of South Shields, admitted theft and fraud involving £52,000 and was jailed for two years and three months.
+Sentence 8: Judge Penny Moreland told him: 'Your mother had had anxieties in the last years of her life that her money was going missing but, because of her illness, that was not taken seriously. '
+Sentence 9: This was a gross breach of trust.
+
+Annotator 0: Sentences 1 (importance 3), 3 (importance 2), 0 (importance 1)
+Annotator 1: Sentences 0 (importance 2), 3 (importance 2), 4 (importance 2)
+Annotator 2: Sentences 0 (importance 3), 2 (importance 2), 3 (importance 2)
+Annotator 3: Sentences 1 (importance 3), 3 (importance 3), 0 (importance 2)
+Annotator 4: Sentences 4 (importance 3), 8 (importance 3), 1 (importance 2)
+
+
+Sentence 0: (CNN)A prosecutor has dismissed allegations that Argentine President Cristina Fernandez de Kirchner tried to cover up Iran's involvement in a 1994 bombing in Buenos Aires.
+Sentence 1: The move by prosecutor Javier de Luca to drop the case could mean a definitive end to the accusations that have roiled the nation, according to Argentina's state-run Telam news agency.
+Sentence 2: The case became of high interest globally after the original prosecutor who brought the allegations was found dead in January.
+Sentence 3: Alberto Nisman was found dead days after making the accusations.
+Sentence 4: His death sparked outrage and conspiracy theories aplenty.
+Sentence 5: Nisman alleged that Argentina's government agreed not to go after Iranian suspects in the bombing in exchange for a favorable trade deal.
+Sentence 6: The 1994 bombing of a Jewish community center in the Argentine capital is the deadliest terror attack in the country's history.
+Sentence 7: Eighty-five people were killed, and hundreds were injured.
+Sentence 8: A second prosecutor took the reins after Nisman's death and took the case to court in February.
+Sentence 9: A judge dismissed the case, saying that Nisman's allegations did not hold up.
+
+Annotator 0: Sentences 0 (importance 1)
+Annotator 1: Sentences 9 (importance 3), 8 (importance 2), 7 (importance 1)
+Annotator 2: Sentences 5 (importance 3), 6 (importance 2), 8 (importance 1)
+Annotator 3: Sentences 0 (importance 1), 1 (importance 1)
+Annotator 4: Sentences 3 (importance 2), 5 (importance 2), 4 (importance 1)
+
+
+Sentence 0: A Massachusetts police department was forced to pay a $500 Bitcoin ransom to hackers who encrypted vital records on their computer network.
+Sentence 1: Tewksbury Police Department came under  attack by criminals who infected their network with a form of Internet malware in December before demanding money to decrypt the files.
+Sentence 2: The program called CryptoLocker infects  through an e-mail and then scrambles the data on the computer.
+Sentence 3: It caused police systems to be down between four and five days, according to Tewksbury Town Crier.
+Sentence 4: Tewksbury Police Department (above) came under attack by hackers which encrypted their computers' files using a malware program called CryptoLocker.
+Sentence 5: They were forced to pay a $500 in Bitcoinransom .
+Sentence 6: The only files that were not corrupted were 18 months old, so cops were left paying the ransom in the untraceable digital currency or they risked losing the data forever, according to the Boston Globe.
+Sentence 7: 'Nobody wants to negotiate with terrorists.
+Sentence 8: Nobody wants to pay terrorists,' Police Chief Timothy Sheehan told the Town Crier. '
+Sentence 9: We did everything we possibly could.
+
+Annotator 0: Sentences 0 (importance 3), 1 (importance 3), 6 (importance 1)
+Annotator 1: Sentences 1 (importance 3), 3 (importance 2)
+Annotator 2: Sentences 6 (importance 2), 4 (importance 1), 5 (importance 1)
+Annotator 3: Sentences 0 (importance 3), 4 (importance 3), 5 (importance 3)
+Annotator 4: Sentences 9 (importance 3), 8 (importance 2), 7 (importance 1)
+
+
+Sentence 0: A tribunal found Cambridge graduate Svetlana Lokhova, 33, was a 'resilient person' driven to a mental breakdown by work colleagues at the bank .
+Sentence 1: A high-flying banker falsely branded ‘Crazy Miss Cokehead’ has been awarded £3.2million after her career was destroyed by sexist taunts.
+Sentence 2: Cambridge graduate Svetlana Lokhova was driven to a breakdown by a campaign of sexual harassment by bullying male colleagues, an employment tribunal found.
+Sentence 3: Workmates falsely accused her of being a cocaine user, dubbed her ‘Miss Bonkers’, and said she was hired by the bank only because of her looks.
+Sentence 4: Miss Lokhova, 33, the only woman in her team, won her legal claim that she was the victim of sexual harassment and unfairly forced to leave her £750,000-a-year role.
+Sentence 5: She was awarded £3.14million for lost earnings, £44,000 for hurt feelings and £15,000 in aggravated damages by judges at the Central London Employment Tribunal.
+Sentence 6: They ruled she was a ‘resilient person’ who had suffered ‘disgraceful’ harassment and victimisation by colleagues in the London branch of Russian-based Sberbank CIB.
+Sentence 7: Miss Lokhova said her reputation was ‘shredded’ by the taunts and slurs, which meant she could never get another job in financial services.
+Sentence 8: She has been unable to work for more than three years and the tribunal said it accepted medical evidence that her City career was effectively over.
+Sentence 9: It heard she was tormented by colleagues on the equity sales desk of the bank, who referred to her as ‘mad Svetlana’ and said she was ‘chemically dependent’ and ‘a major car crash’.
+
+Annotator 0: Sentences 6 (importance 2), 2 (importance 1), 9 (importance 1)
+Annotator 1: Sentences 7 (importance 3), 4 (importance 2), 0 (importance 1)
+Annotator 2: Sentences 6 (importance 3), 3 (importance 2), 5 (importance 2)
+Annotator 3: Sentences 5 (importance 3), 0 (importance 2), 3 (importance 1)
+Annotator 4: Sentences 5 (importance 2), 1 (importance 1), 4 (importance 1)
+
+
